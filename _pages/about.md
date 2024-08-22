@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
-description: 10-403 • Spring 2024 • Carnegie Mellon University
+description: 10-&03 • Fall 2024 • Carnegie Mellon University
 logo: cmu-logo.png
 news: true
 ---
@@ -37,12 +37,12 @@ Students should have a solid understanding of the following areas
 
 ***
 
-- **Lectures:** Monday, Wednesday 12:30 PM - 01:50 PM
-- **Recitations:** Friday 12:30 PM - 01:50 PM
-- **Lecture/Recitation Location:** [GHC 4215](https://www.google.com/maps/place/Gates+and+Hillman+Centers/@40.4434419,-79.9448852,19z/data=!4m6!3m5!1s0x8834f22177d9f8ef:0x719357c7895d25a8!8m2!3d40.4436655!4d-79.9444765!16s%2Fg%2F1tdlvy8r){:target="\_blank"}
+- **Lectures:** Monday, Wednesday 09:30 PM - 10:50 PM
+- **Recitations:** Friday 09:30 PM - 10:50 PM
+- **Lecture/Recitation Location:** [TEP 1403](https://www.google.com/maps/place/Gates+and+Hillman+Centers/@40.4434419,-79.9448852,19z/data=!4m6!3m5!1s0x8834f22177d9f8ef:0x719357c7895d25a8!8m2!3d40.4436655!4d-79.9444765!16s%2Fg%2F1tdlvy8r){:target="\_blank"}
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
-- **Contact:** For external enquiries, personal matters or in emergencies, you can email the TAs and the instructor.
+- **Contact:** For external enquiries, personal matters or in emergencies, you can email the Course EA: Joshmin Ray.
 
 ***
