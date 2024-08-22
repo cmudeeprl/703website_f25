@@ -652,7 +652,8 @@
     # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
     # - (optional) Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping</a>
     # - (optional) Yang et al. <a href="https://proceedings.mlr.press/v164/yang22c.html" target="_blank">Visually-Grounded Library of Behaviors for Manipulating Diverse Objects across Diverse Configurations and Views</a>
-  logistics:
+  logistics: <span class="deadline">HW5 due 11:59PM</span>
+
 
 
 # - date: 
