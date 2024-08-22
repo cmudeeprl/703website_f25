@@ -11,18 +11,32 @@ TAs:
       url:
       office-hours: 
       location: 
-      image: staff/Sanjana.jpg
+      image: staff/Lawrence.jpg
 
-    - name: Alex Kireeff
-      email: akireeff@andrew.cmu.edu
+    - name: Maxwell Jones
+      email: mjones2@andrew.cmu.edu
       url:
-      office-hours: Sunday 4:00 - 5:00 PM
-      location: GHC 4215
-      image: staff/Alex_400by400.jpg
+      office-hours: 
+      location: 
+      image: staff/generic.jpg
 
-    - name: Anish Kulkarni
-      email: anishkik@andrew.cmu.edu
+    - name: Patrick Phelan
+      email: pphelan@andrew.cmu.edu
       url:
-      office-hours: Thursday 2:00 - 3:00 PM
-      location: <a href="https://cmu.zoom.us/j/92305814212">Zoom</a>
-      image: staff/Anish.jpg
+      office-hours: 
+      location: 
+      image: staff/generic.jpg
+
+      - name: Marian Qian
+      email: marianq@andrew.cmu.edu
+      url:
+      office-hours: 
+      location: 
+      image: staff/generic.jpg
+
+      - name: Eyob Dagnachew
+      email: edagnach@andrew.cmu.edu
+      url:
+      office-hours: 
+      location: 
+      image: staff/generic.jpg
