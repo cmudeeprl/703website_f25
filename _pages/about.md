@@ -37,9 +37,9 @@ Students should have a solid understanding of the following areas
 
 ***
 
-- **Lectures:** Monday, Wednesday 09:30 PM - 10:50 PM
-- **Recitations:** Friday 09:30 PM - 10:50 PM
-- **Lecture/Recitation Location:** [TEP 1403](https://www.google.com/maps/place/Gates+and+Hillman+Centers/@40.4434419,-79.9448852,19z/data=!4m6!3m5!1s0x8834f22177d9f8ef:0x719357c7895d25a8!8m2!3d40.4436655!4d-79.9444765!16s%2Fg%2F1tdlvy8r){:target="\_blank"}
+- **Lectures:** Monday, Wednesday 09:30 AM - 10:50 AM
+- **Recitations:** Friday 09:30 PM - 10:50 AM
+- **Lecture/Recitation Location:** [TEP 1403](https://www.google.com/maps/place/Tepper+School+of+Business/@40.4449438,-79.9478117,17z/data=!4m10!1m2!2m1!1sTEPPER+1403!3m6!1s0x8834f21f58679a9f:0xa4dc782d726fd9ee!8m2!3d40.4450795!4d-79.9453962!15sCgtURVBQRVIgMTQwM1oNIgt0ZXBwZXIgMTQwM5IBD2J1c2luZXNzX3NjaG9vbJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOU09HTXlVVEozUlJBQuABAA!16zL20vMDFxMnYx?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D){:target="\_blank"}
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
