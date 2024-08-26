@@ -13,37 +13,39 @@ EducationAssociates:
       image: staff/Joshmin.jpeg
 
 TAs:
-    - name: Lawrence Jang
-      email: ljang@andrew.cmu.edu
+    - name: Eyob Dagnachew
+      email: edagnach@andrew.cmu.edu
       url:
-      office-hours: 
-      location: 
-      image: staff/LJang_Picture(1).png
-
+      office-hours: Mondays 4:00 - 5:00pm
+      location: TBD
+      image: staff/Eyob.jpg
+   
     - name: Maxwell Jones
       email: mjones2@andrew.cmu.edu
       url:
-      office-hours: 
-      location: 
-      image: staff/generic.jpg
-
-    - name: Patrick Phelan
-      email: pphelan@andrew.cmu.edu
+      office-hours: Tuesdays 4:00 - 5:00pm
+      location: TBD
+      image: staff/Maxwell.jpeg
+   
+    - name: Lawrence Jang
+      email: ljang@andrew.cmu.edu
       url:
-      office-hours: 
-      location: 
-      image: staff/generic.jpg
+      office-hours: Wednesdays 2:00 - 3:00pm
+      location: TBD
+      image: staff/LJang_Picture(1).png
 
     - name: Marian Qian
       email: marianq@andrew.cmu.edu
       url:
-      office-hours: 
-      location: 
+      office-hours: Thursdays 3:00 - 4:00pm
+      location: TBD
+      image: staff/Marian.jpg
+    
+    - name: Patrick Phelan
+      email: pphelan@andrew.cmu.edu
+      url:
+      office-hours: TBD
+      location: TBD
       image: staff/generic.jpg
 
-    - name: Eyob Dagnachew
-      email: edagnach@andrew.cmu.edu
-      url:
-      office-hours: 
-      location: 
-      image: staff/generic.jpg
+
