@@ -92,7 +92,8 @@
 - date: M 09/09
   lecturer: 
   title: >
-    <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
+    <strong>Markov Decision Processes, Value Iteration, Policy Iteration (cont.)</strong>
+    # <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
   slides: https://www.dropbox.com/scl/fi/shrchcowymnhhiapemgmy/lecture_mdps-_policyvalueIterF24.pdf?rlkey=nz7w3oq8wp65r8hb4vauhy6kl&dl=0 # https://www.dropbox.com/scl/fi/be2tmwmtxucdsam1ocjmc/lecture_MCTD_S24.pdf?rlkey=kmld6ygmoop4telfi4k5k1src&dl=0
   slides2: 
   video:
