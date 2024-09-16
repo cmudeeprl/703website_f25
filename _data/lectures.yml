@@ -132,8 +132,8 @@
 - date: M 09/16
   lecturer: 
   title: >
-    <strong>Planning, Monte Carlo Tree search</strong>
-  slides: # https://www.dropbox.com/scl/fi/oxwe8xhzzxb2crdtw6kvd/MCTS_S24.pdf?rlkey=w711d2b3dvglvg03603m6psl6&dl=0
+    <strong>Monte Carlo Learning and Temporal Difference Learning (cont.) </strong>
+  slides: https://www.dropbox.com/scl/fi/8i5zax5c1ym1eqy3jyk2x/lecture_MCTD_F24.pdf?rlkey=2j2ptn7r8jbdltgdr0nxz1e8m&dl=0 # https://www.dropbox.com/scl/fi/oxwe8xhzzxb2crdtw6kvd/MCTS_S24.pdf?rlkey=w711d2b3dvglvg03603m6psl6&dl=0
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
