@@ -105,8 +105,8 @@
 
 - date: W 09/11
   lecturer: 
-  title:
-    <strong>Monte Carlo Learning and Temporal Difference Learning </strong>
+  title: >
+    <strong> Monte Carlo Learning and Temporal Difference Learning </strong>
   slides: https://www.dropbox.com/scl/fi/8i5zax5c1ym1eqy3jyk2x/lecture_MCTD_F24.pdf?rlkey=2j2ptn7r8jbdltgdr0nxz1e8m&dl=0 # https://www.dropbox.com/scl/fi/2je2obhcxti1mdc1u9rys/lecture_MCTD_F23.pdf?rlkey=wbiifyewp7ameo89ru3qsd3x5&dl=0
   slides2: 
   video:
@@ -137,17 +137,18 @@
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
-    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
   logistics:
 
 
 - date: W 09/18
   lecturer: 
   title: >
-    <strong>Function approximation in prediction and control, Deep Q-learning</strong>
-  slides: # https://www.dropbox.com/scl/fi/lcpoozw99lmtdciydvmob/lecture_FA_S24.pdf?rlkey=uowtb2o1p8fc8k2yuum7ol7f6&dl=0
+    <strong>Monte Carlo Tree Search, Function approximation in prediction and control, Deep Q-learning</strong>
+  slides:  https://www.dropbox.com/scl/fi/xcoswykund81pz1tx8g0y/MCTS_F24.pdf?rlkey=8gfut70oqzrz7okxcf5l8kw1v&dl=0 # https://www.dropbox.com/scl/fi/lcpoozw99lmtdciydvmob/lecture_FA_S24.pdf?rlkey=uowtb2o1p8fc8k2yuum7ol7f6&dl=0
+  slides2: https://www.dropbox.com/scl/fi/4pzf6gfgrgxc9gxjmt1wy/lecture_FA_F24.pdf?rlkey=ashhxk8x496vbg7ta32iwukrh&dl=0
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch9.1-9.3, 9.6 and Ch10.1
     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
     - <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
