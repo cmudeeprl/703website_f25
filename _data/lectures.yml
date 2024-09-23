@@ -165,12 +165,15 @@
 - date: M 09/23
   lecturer: 
   title: >
-    <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
-  slides: # https://www.dropbox.com/scl/fi/hvqm19lilwhs35besg06c/PG_S24.pdf?rlkey=c7faq4afhi2lnqtzwmateix9s&dl=0
+   
+  slides: https://www.dropbox.com/scl/fi/4pzf6gfgrgxc9gxjmt1wy/lecture_FA_F24.pdf?rlkey=ashhxk8x496vbg7ta32iwukrh&dl=0 # https://www.dropbox.com/scl/fi/hvqm19lilwhs35besg06c/PG_S24.pdf?rlkey=c7faq4afhi2lnqtzwmateix9s&dl=0  <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
   readings:
-    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
-    - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch9.1-9.3, 9.6 and Ch10.1
+    - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
+    - <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+    # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    # - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
   video:
   logistics: <span class="deadline">HW1 due 11:59pm</span>,  <span class="event">HW2 out (tentative)</span> <br>
 
