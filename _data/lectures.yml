@@ -165,7 +165,7 @@
 - date: M 09/23
   lecturer: 
   title: >
-   
+    <strong>Deep Q-learning (cont.)</strong
   slides: https://www.dropbox.com/scl/fi/4pzf6gfgrgxc9gxjmt1wy/lecture_FA_F24.pdf?rlkey=ashhxk8x496vbg7ta32iwukrh&dl=0 # https://www.dropbox.com/scl/fi/hvqm19lilwhs35besg06c/PG_S24.pdf?rlkey=c7faq4afhi2lnqtzwmateix9s&dl=0  <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch9.1-9.3, 9.6 and Ch10.1
