@@ -180,8 +180,8 @@
 - date: W 09/25
   lecturer: 
   title: >
-    <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
-  slides:  # https://www.dropbox.com/scl/fi/j4xi59dww4mn12sj12zv1/NaturalPolicyGradientsF23.pdf?rlkey=g9es2j8ftx92lp1h6mvpfkhu0&dl=0
+    <strong>Policy gradients</strong>
+  slides: https://www.dropbox.com/scl/fi/xj59fjlqqh29478k8ufgk/PG_F24.pdf?rlkey=0mbasbky5ve8u425s95prh1ud&dl=0 # https://www.dropbox.com/scl/fi/j4xi59dww4mn12sj12zv1/NaturalPolicyGradientsF23.pdf?rlkey=g9es2j8ftx92lp1h6mvpfkhu0&dl=0
   video:
   readings:
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
