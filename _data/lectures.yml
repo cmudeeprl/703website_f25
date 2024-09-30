@@ -210,8 +210,8 @@
   lecturer: 
   title: >
     <strong>Natural PG, PPO, TRPO </strong>
-  slides: # https://www.dropbox.com/scl/fi/hprrecd07dtf5e4y8k3q9/NaturalPolicyGradientsS24.pdf?rlkey=e08fem8eznnybxdi7hm7uufme&dl=0
-  slides2: # https://www.dropbox.com/s/l7bcso8pcto8oto/maxentRLF22.pdf?dl=0
+  slides:  https://www.dropbox.com/scl/fi/xj59fjlqqh29478k8ufgk/PG_F24.pdf?rlkey=0mbasbky5ve8u425s95prh1ud&dl=0 # https://www.dropbox.com/scl/fi/hprrecd07dtf5e4y8k3q9/NaturalPolicyGradientsS24.pdf?rlkey=e08fem8eznnybxdi7hm7uufme&dl=0
+  slides2: https://www.dropbox.com/scl/fi/9m7ty94r6pta47v3mi9w3/NaturalPolicyGradientsF24.pdf?rlkey=j0ey6jjnwihufezlpv0s6knfe&dl=0 # https://www.dropbox.com/s/l7bcso8pcto8oto/maxentRLF22.pdf?dl=0
            # https://www.dropbox.com/s/gziiw0emxsgjycf/maxentRL_2022.pdf?dl=0
   video:
   readings:
