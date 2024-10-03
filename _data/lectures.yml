@@ -224,12 +224,14 @@
 - date: W 10/02
   lecturer: 
   title: >
-    <strong>Deterministic Policy gradient, re-parametrized PG</strong>
-  slides: # https://www.dropbox.com/scl/fi/5yip89noys4j3utmtbboc/PathwiseDDPGS24.pdf?rlkey=7vm2qqyy10tqcajcmkfo1uykt&dl=0 
-  slides2: # https://www.dropbox.com/s/xo5x7obdtnadlp2/immitationlearning_F23.pdf?dl=0
+    <strong>Evolutionary methods for policy search</strong>
+  slides: https://www.dropbox.com/scl/fi/gb84esk1kgitcnvynmt72/evolutionarymethods_F24.pdf?rlkey=nfp0a88qwy9zayo3lxk8xmhf3&dl=0 # https://www.dropbox.com/scl/fi/unjunovj10khqrk83cnzb/evolutionarymethods_S24.pdf?rlkey=u082ims55kdsgf5cqej17xp2f&dl=0
   video:
+  notes:
   readings:
-    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
+    # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
+    # - (optional) Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
+    # - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
   logistics:
 
 
@@ -251,14 +253,12 @@
 - date: M 10/07
   lecturer: 
   title: >
-    <strong>Evolutionary methods for policy search</strong>
-  slides: # https://www.dropbox.com/scl/fi/unjunovj10khqrk83cnzb/evolutionarymethods_S24.pdf?rlkey=u082ims55kdsgf5cqej17xp2f&dl=0
+    <strong>Deterministic Policy gradient, re-parametrized PG</strong>
+  slides: # https://www.dropbox.com/scl/fi/5yip89noys4j3utmtbboc/PathwiseDDPGS24.pdf?rlkey=7vm2qqyy10tqcajcmkfo1uykt&dl=0 
+  slides2: # https://www.dropbox.com/s/xo5x7obdtnadlp2/immitationlearning_F23.pdf?dl=0
   video:
-  notes:
   readings:
-    # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
-    # - (optional) Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
-    # - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
+    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
   logistics:
 
 
