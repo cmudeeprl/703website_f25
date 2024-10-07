@@ -254,8 +254,8 @@
   lecturer: 
   title: >
     <strong>Deterministic Policy gradient, re-parametrized PG</strong>
-  slides: # https://www.dropbox.com/scl/fi/5yip89noys4j3utmtbboc/PathwiseDDPGS24.pdf?rlkey=7vm2qqyy10tqcajcmkfo1uykt&dl=0 
-  slides2: # https://www.dropbox.com/s/xo5x7obdtnadlp2/immitationlearning_F23.pdf?dl=0
+  slides: https://www.dropbox.com/scl/fi/g91ap1et1ziwvthi1wjju/PathwiseDDPGF24.pdf?rlkey=5iuef0rxrnv3a7fdng132wf2a&dl=0 # https://www.dropbox.com/scl/fi/5yip89noys4j3utmtbboc/PathwiseDDPGS24.pdf?rlkey=7vm2qqyy10tqcajcmkfo1uykt&dl=0 
+  slides2: https://www.dropbox.com/scl/fi/g0id8ksrt0i42gtsek27c/immitationlearning_F24.pdf?rlkey=wl50rkd72olnskndl8eha1vq9&dl=0 # https://www.dropbox.com/s/xo5x7obdtnadlp2/immitationlearning_F23.pdf?dl=0
   video:
   readings:
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
