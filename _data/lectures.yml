@@ -267,9 +267,9 @@
   video:
   notes:
   readings:
-    # - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
-    # - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
-    # - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
+    - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
+    - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
     # - Andrychowicz et al. <a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank">Hindsight Experience Replay</a>
     # - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>  
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
@@ -351,9 +351,9 @@
     # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
-    # - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
-    # - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
-    # - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
+    - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+    - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
+    - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
     # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
     # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
   logistics: 
@@ -362,7 +362,7 @@
 - date: F 10/25
   lecturer:
   recitation: >
-    <strong>HW3</strong>
+    <strong>HW3, Gaussian Processes, Bayes Optimization</strong>
   slides: # https://docs.google.com/presentation/d/1iciM_RqBkDPZxftlAsLNgogSJlrVBF1bDZgXKjTaEtA/edit#slide=id.p
   logistics:
 
@@ -376,9 +376,9 @@
   video:
   notes:
   readings:
-    # - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
-    # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-    # - Jannar et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank"> Planning with Diffusion for Flexible Behavior Synthesis</a>
+    - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
+    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    - Jannar et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank"> Planning with Diffusion for Flexible Behavior Synthesis</a>
     # - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank">Model-Based Reinforcement Learning for Atari</a>
     # - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
     # - Fragkiadaki et al. <a href="https://arxiv.org/abs/1511.07404" target="_blank">Learning Visual Predictive Models of Physics for Playing Billiards</a>
@@ -394,15 +394,17 @@
 - date: W 10/30
   lecturer: 
   title: >
-    <strong>MBRL from Sensory Input, Planning in Sensory Space</strong>
+    <strong>MBRL from Sensory Input, Planning in Sensory Space, Planning in a Latent State Space</strong>
   slides: # https://www.dropbox.com/scl/fi/7z6hcpogknyjnu3okh401/MBRLRL_sensoryS24.pdf?rlkey=xe1b07mov5061snnb31b26rmf&dl=0
   video:
   notes:
   readings:
-    # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
+    - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
+    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
     # - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
     # - Hafner, et.al <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
-    # - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
     # - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
     # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
@@ -410,8 +412,6 @@
     # - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     # - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
     # - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
-    # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
-    # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
   logistics:
 
 
@@ -430,46 +430,21 @@
 - date: M 11/04
   lecturer: 
   title: >
-    <strong>MBRL (cont.) Planning in a Latent State Space </strong>
-  slides: # https://www.dropbox.com/scl/fi/0qwo7fij908854wu4ccmo/MBRLRL_latentF23_2.pdf?rlkey=2mooeximjptibju9n7xklwvdg&dl=0
-  slides2: # https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
-  video:
-  notes:
-  readings:
-    # - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
-    # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank"> MuZero:Mastering Go, chess, shogi and Atari without rules</a>
-    # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target = "_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
-    # - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
-    # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
-  logistics: <span class="event">HW4 out (tentative)</span>,  <span class="deadline">HW3 due 11:59PM</span>
-
-
-- date: W 11/06
-  lecturer:
-  title: >
     <strong>MBRL (cont.) Stochastic Latent Dynamics Models </strong>
   slides: # https://www.dropbox.com/scl/fi/0qwo7fij908854wu4ccmo/MBRLRL_latentF23_2.pdf?rlkey=2mooeximjptibju9n7xklwvdg&dl=0
   slides2: # https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
   video:
   notes:
   readings:
-    # - Hafner, et.al <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
-    # - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+    - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
+    - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+    # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank"> MuZero:Mastering Go, chess, shogi and Atari without rules</a>
+    # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target = "_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
     # - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
-    # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
-  logistics:
+  logistics: <span class="event">HW4 out (tentative)</span>,  <span class="deadline">HW3 due 11:59PM</span>
 
 
-- date: F 11/08
-  lecturer:
-  recitation:
-  quiz: >
-    <strong> Quiz 2 </strong>
-  slides:
-  logistics:
-
-
-- date: M 11/11
+- date: W 11/06
   lecturer: 
   title: >
     <strong> Intelligent Exploration</strong>
@@ -482,11 +457,11 @@
   video:
   notes:
   readings:
-    # - (optional) Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
-    # - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
-    # - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
-    # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
-    # - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
+    - (optional) Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+    - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
+    - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
+    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
+    - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
     # - Fragkiadaki et al. <a href="https://arxiv.org/abs/1511.07404" target="_blank">Learning Visual Predictive Models of Physics for Playing Billiards</a>
     # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
     # - Hafner, et.al. - <a href="https://arxiv.org/abs/1912.01603" target=  "_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
@@ -495,9 +470,34 @@
   logistics:
 
 
+- date: F 11/08
+  lecturer:
+  quiz: >
+    <strong> Quiz 2 </strong>
+  slides:
+  logistics:
+
+
+- date: M 11/11
+    lecturer:
+    title: >
+      <strong>Offline Reinforcement Learning</strong>
+    slides: https://www.dropbox.com/s/qio4uhkqnkho7tf/offpolicyRL_S24.pdf?dl=0
+    # slides: https://www.dropbox.com/scl/fi/swoglj6crf6i2u358p3t8/VisualRLSelfSupervisionF23.pdf?rlkey=4tw58mpp4m7r04ut8kt4btapt&dl=0
+    # https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
+    notes:
+    readings:
+      - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+      - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS:Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
+      # - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
+      # - Srinivas et al. <a href="https://arxiv.org/abs/2004.04136" target="_blank">CURL Contrastive Unsupervised Representations for Reinforcement Learning</a>
+      # - Khandelwal et al. <a href="https://arxiv.org/abs/2111.09888" target="_blank">Simple but Effective CLIP Embeddings for Embodied AI</a>
+  logistics:
+
+
 - date: W 11/13
   lecturer: 
-  recitation: >
+  title: >
     <strong>HW4 Slides/OH</strong>
   slides: # https://docs.google.com/presentation/d/17XbYHlHDZKwmSmBUmpc1GkeKYdiVPGu83sEnPTlaFsA/edit?usp=sharing
   # slides: https://www.dropbox.com/scl/fi/d979hp1yg7hvambew7bwp/offpolicyRL_F23.pdf?rlkey=a4r06mxe3crdpt4fzjpq73w0h&dl=0
@@ -508,7 +508,6 @@
   readings:
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
-    # - Hahn et al. <a href="https://arxiv.org/abs/2110.09470" target="_blank">No RL, No Simulation:Learning to Navigate without Navigating</a>
     # - (optional) Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
     # - (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a>
@@ -521,7 +520,7 @@
 - date: F 11/15
   lecturer:
   recitation: >
-    <strong> Intelligent Exploration</strong>
+    <strong> Homework 5</strong>
   slides: # https://www.dropbox.com/scl/fi/ku7tgu0dx5pqkwkmgwz2f/deepexplorationS24.pdf?rlkey=tdz9uh1t2nyxt206vnd3091rv&dl=0
   notes:
   readings:
@@ -536,10 +535,10 @@
   video:
   notes:
   readings:
-    # - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-    # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-    # - (Optional) Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-    # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - (Optional) Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     # - Chen et al.<a href="https://arxiv.org/abs/2106.01345" target="_blank">Decision Transformer:Reinforcement Learning via Sequence Modeling</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
@@ -549,20 +548,23 @@
 - date: W 11/20
   lecturer: 
   title: >
-    <strong>Homework 5 and Solutions to Quiz 2</strong>
-  slides: # https://docs.google.com/presentation/d/1fYIiYqQkL60_SGD7eMvzZZWur_J_R4BytiQyxwCwRpQ/edit#slide=id.g29c5c11c727_0_42
-  #   <strong>Sim2Real Transfer </strong>
-  # slides: https://www.dropbox.com/scl/fi/yjijk4ysfy2uvyy71yde0/sim2realS23.pdf?rlkey=3862e6ti4vp75er19kw5yesc8&dl=0
-  # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0 
-  video:
-  notes: 
+    <strong>Visual Imitation Learning</strong>
+  slides: https://www.dropbox.com/scl/fi/v9e4bm4w91n1wxz5jnhqb/VisualImitationS24.pdf?rlkey=sdr3rw4ew64c9d7h0tw8nevq3&dl=0
+  # slides: https://www.dropbox.com/scl/fi/o8gwmz5ufacdz0yl9neak/Diffusion-ES.pdf?rlkey=zbrhsrykal2vqquxueug64027&dl=0
+  # https://www.dropbox.com/s/nncwth9z2uw1k0z/Languageandbehaviourlearning.pdf?dl=0
+  # slides2: https://www.dropbox.com/scl/fi/bv56pdhop1q2iamy1lx8z/Gen2Sim-Final.pdf?rlkey=mjis0hxdbirymr4ulqk8712a8&dl=0
+  notes:
   readings:
-    # - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-    # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-    # - (Optional) Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-    # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-    # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
+    - Hahn et al. <a href="https://arxiv.org/abs/2110.09470" target="_blank">No RL, No Simulation:Learning to Navigate without Navigating</a>
+    - (optional) Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
+    - (optional) Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
+    - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
+    # - Driess et al. <a href="https://palm-e.github.io/assets/palm-e.pdf" target="_blank">PaLM-E:An Embodied Multimodal Language Model</a>
+    # - Zeng et. al <a href="https://transporternets.github.io" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
+    # - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
   logistics:
+  
+  
 
 
 - date: F 11/22
@@ -654,43 +656,6 @@
   logistics: <span class="deadline">HW5 due 11:59PM</span>
 
 
-
-# - date: 
-#   lecturer:
-#   title: >
-#     <strong>Offline Reinforcement Learning</strong>
-#   slides: https://www.dropbox.com/s/qio4uhkqnkho7tf/offpolicyRL_S24.pdf?dl=0
-#   # slides: https://www.dropbox.com/scl/fi/swoglj6crf6i2u358p3t8/VisualRLSelfSupervisionF23.pdf?rlkey=4tw58mpp4m7r04ut8kt4btapt&dl=0
-#   # https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
-#   notes:
-#   readings:
-#     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-#     - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS:Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
-#     # - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
-#     # - Srinivas et al. <a href="https://arxiv.org/abs/2004.04136" target="_blank">CURL Contrastive Unsupervised Representations for Reinforcement Learning</a>
-#     # - Khandelwal et al. <a href="https://arxiv.org/abs/2111.09888" target="_blank">Simple but Effective CLIP Embeddings for Embodied AI</a>
-#   logistics: <span class="deadline">HW5 due 11:59PM</span>
-
-
-# - date: 
-#   lecturer: 
-#   title: >
-#     <strong>Visual Imitation Learning</strong>
-#   slides: https://www.dropbox.com/scl/fi/v9e4bm4w91n1wxz5jnhqb/VisualImitationS24.pdf?rlkey=sdr3rw4ew64c9d7h0tw8nevq3&dl=0
-#   # slides: https://www.dropbox.com/scl/fi/o8gwmz5ufacdz0yl9neak/Diffusion-ES.pdf?rlkey=zbrhsrykal2vqquxueug64027&dl=0
-#   # https://www.dropbox.com/s/nncwth9z2uw1k0z/Languageandbehaviourlearning.pdf?dl=0
-#   # slides2: https://www.dropbox.com/scl/fi/bv56pdhop1q2iamy1lx8z/Gen2Sim-Final.pdf?rlkey=mjis0hxdbirymr4ulqk8712a8&dl=0
-#   notes:
-#   readings:
-#     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
-#     - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
-#     # - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
-#     # - Driess et al. <a href="https://palm-e.github.io/assets/palm-e.pdf" target="_blank">PaLM-E:An Embodied Multimodal Language Model</a>
-#     # - Zeng et. al <a href="https://transporternets.github.io" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
-#     # - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
-#   logistics:
-      
-
 - date: F 12/06
   lecturer:
   recitation:  <strong>Quiz 3 Review </strong>
@@ -710,3 +675,40 @@
   notes: 
   readings:
   logistics:
+
+
+
+  # - date: 
+  # lecturer: 
+  # title: >
+  #   <strong>Homework 5 and Solutions to Quiz 2</strong>
+  # slides: # https://docs.google.com/presentation/d/1fYIiYqQkL60_SGD7eMvzZZWur_J_R4BytiQyxwCwRpQ/edit#slide=id.g29c5c11c727_0_42
+  # #   <strong>Sim2Real Transfer </strong>
+  # # slides: https://www.dropbox.com/scl/fi/yjijk4ysfy2uvyy71yde0/sim2realS23.pdf?rlkey=3862e6ti4vp75er19kw5yesc8&dl=0
+  # # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0 
+  # video:
+  # notes: 
+  # readings:
+  #   # - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+  #   # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+  #   # - (Optional) Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+  #   # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+  #   # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
+  # logistics:
+
+
+# - date: 
+#   lecturer:
+#   title: >
+#     <strong>Offline Reinforcement Learning</strong>
+#   slides: https://www.dropbox.com/s/qio4uhkqnkho7tf/offpolicyRL_S24.pdf?dl=0
+#   # slides: https://www.dropbox.com/scl/fi/swoglj6crf6i2u358p3t8/VisualRLSelfSupervisionF23.pdf?rlkey=4tw58mpp4m7r04ut8kt4btapt&dl=0
+#   # https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
+#   notes:
+#   readings:
+#     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+#     - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS:Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
+#     # - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
+#     # - Srinivas et al. <a href="https://arxiv.org/abs/2004.04136" target="_blank">CURL Contrastive Unsupervised Representations for Reinforcement Learning</a>
+#     # - Khandelwal et al. <a href="https://arxiv.org/abs/2111.09888" target="_blank">Simple but Effective CLIP Embeddings for Embodied AI</a>
+#   logistics: <span class="deadline">HW5 due 11:59PM</span>
