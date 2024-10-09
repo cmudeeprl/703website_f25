@@ -261,8 +261,8 @@
 - date: W 10/09
   lecturer: 
   title: >
-    <strong>Imitation learning, behavior cloning</strong>
-  slides: # https://www.dropbox.com/s/ww569ko33skinq5/immitationlearning_S24.pdf?dl=0
+    <strong>Generative Adversarial Imitation Learning, Multigoal Imitation Learning</strong>
+  slides: https://www.dropbox.com/s/4g46o9h17qi786f/immitationlearning_F24_2.pdf?dl=0 # https://www.dropbox.com/s/ww569ko33skinq5/immitationlearning_S24.pdf?dl=0
   # slides2: https://www.dropbox.com/s/vsravny8bnnoytx/immitationlearning_F23_2.pdf?dl=0
   video:
   notes:
