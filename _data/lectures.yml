@@ -479,14 +479,14 @@
 
 
 - date: M 11/11
-    lecturer:
-    title: >
+  lecturer:
+  title: >
       <strong>Offline Reinforcement Learning</strong>
-    slides: https://www.dropbox.com/s/qio4uhkqnkho7tf/offpolicyRL_S24.pdf?dl=0
+  slides: https://www.dropbox.com/s/qio4uhkqnkho7tf/offpolicyRL_S24.pdf?dl=0
     # slides: https://www.dropbox.com/scl/fi/swoglj6crf6i2u358p3t8/VisualRLSelfSupervisionF23.pdf?rlkey=4tw58mpp4m7r04ut8kt4btapt&dl=0
     # https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
-    notes:
-    readings:
+  notes:
+  readings:
       - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
       - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS:Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
       # - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
