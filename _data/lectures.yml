@@ -512,7 +512,7 @@
 - date: F 11/15
   lecturer:
   recitation: >
-    <strong> Homework 5</strong>
+    <strong> Homework 5 </strong>
   slides: # https://www.dropbox.com/scl/fi/ku7tgu0dx5pqkwkmgwz2f/deepexplorationS24.pdf?rlkey=tdz9uh1t2nyxt206vnd3091rv&dl=0
   notes:
   readings:
@@ -595,7 +595,7 @@
 - date: W 11/27
   lecturer:
   title: >
-    <strong> No Class </strong>
+    <strong> No Class - Thanksgiving Break </strong>
   slides: 
   slides2: 
   video:
@@ -607,8 +607,8 @@
 
 - date: F 11/29
   lecturer:
-  title: >
-    <strong> No Class </strong>
+  recitation: >
+    <strong> No Recitation - Thanksgiving Break </strong>
   slides: 
   slides2: 
   video:
@@ -616,10 +616,10 @@
   readings:
   logistics:
   
-  - date: M 12/02
+- date: M 12/02
   lecturer:
   title: >
-    <strong>TBD</strong>
+    <strong> TBD </strong>
   slides: # https://www.dropbox.com/scl/fi/jzcsaobdoo5adx18rteog/DiffusionModelsS24_2.pdf?rlkey=fp5ms2mumh76m6mv3p6vng90b&e=1&dl=0
   # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
   slides2: # https://www.dropbox.com/s/h2ll79l1vkv2jpa/VisualImitationF22.pdf?dl=0
@@ -635,7 +635,7 @@
 - date: W 12/04
   lecturer:
   title: >
-    <strong>TBD</strong>
+    <strong> TBD </strong>
   slides: # https://www.dropbox.com/scl/fi/jzcsaobdoo5adx18rteog/DiffusionModelsS24_2.pdf?rlkey=fp5ms2mumh76m6mv3p6vng90b&e=1&dl=0
   # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
   slides2: # https://www.dropbox.com/s/h2ll79l1vkv2jpa/VisualImitationF22.pdf?dl=0
@@ -650,7 +650,7 @@
 
 - date: F 12/06
   lecturer:
-  recitation:  <strong>Quiz 3 Review </strong>
+  recitation:  <strong> Quiz 3 Review </strong>
   slides: # https://docs.google.com/presentation/d/1oEXKoU-ZqTw68Lw3di0EKRWTR3kS5TnA8F5DG1_kBOI/edit#slide=id.p
   slides2: # https://docs.google.com/presentation/d/1B9Sh52B58PPtvx9msQ3L5IcoKIibwMJNd6F9qEYU2VM/edit#slide=id.p
   # https://docs.google.com/presentation/d/1xA0wI82tOqjuvXoJKWLbRmtMuAL9KZ-v/edit?usp=sharing&ouid=103079273328838065544&rtpof=true&sd=true
@@ -662,64 +662,10 @@
 - date: M 12/9 - M 12/16
   lecturer:
   quiz: >
-    <strong>Quiz 3, TBD by Registrar </strong>
+    <strong> Quiz 3, TBD by Registrar </strong>
   slides: 
   notes: 
   readings:
   logistics:
 
 
-
-  # - date: 
-  # lecturer: 
-  # title: >
-  #   <strong>Homework 5 and Solutions to Quiz 2</strong>
-  # slides: # https://docs.google.com/presentation/d/1fYIiYqQkL60_SGD7eMvzZZWur_J_R4BytiQyxwCwRpQ/edit#slide=id.g29c5c11c727_0_42
-  # #   <strong>Sim2Real Transfer </strong>
-  # # slides: https://www.dropbox.com/scl/fi/yjijk4ysfy2uvyy71yde0/sim2realS23.pdf?rlkey=3862e6ti4vp75er19kw5yesc8&dl=0
-  # # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0 
-  # video:
-  # notes: 
-  # readings:
-  #   # - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-  #   # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-  #   # - (Optional) Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-  #   # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-  #   # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
-  # logistics:
-
-
-# - date: 
-#   lecturer:
-#   title: >
-#     <strong>Offline Reinforcement Learning</strong>
-#   slides: https://www.dropbox.com/s/qio4uhkqnkho7tf/offpolicyRL_S24.pdf?dl=0
-#   # slides: https://www.dropbox.com/scl/fi/swoglj6crf6i2u358p3t8/VisualRLSelfSupervisionF23.pdf?rlkey=4tw58mpp4m7r04ut8kt4btapt&dl=0
-#   # https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
-#   notes:
-#   readings:
-#     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-#     - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS:Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
-#     # - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
-#     # - Srinivas et al. <a href="https://arxiv.org/abs/2004.04136" target="_blank">CURL Contrastive Unsupervised Representations for Reinforcement Learning</a>
-#     # - Khandelwal et al. <a href="https://arxiv.org/abs/2111.09888" target="_blank">Simple but Effective CLIP Embeddings for Embodied AI</a>
-#   logistics: <span class="deadline">HW5 due 11:59PM</span>
-
-  # slides: # https://www.dropbox.com/scl/fi/fdmv9pqnttu1pjdhie3l9/immitationlearning_S24_2.pdf?rlkey=3bcbi5ahsnbbr01k2mcg5h84e&dl=0
-  # video:
-  # notes:
-  # readings:
-  #   # - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
-  #   # - Zeng et al. <a href="https://transporternets.github.io/" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
-  #   # - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
-  #   # - Pearce et. al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
-  #   # - Calvin Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank"> Understanding Diffusion Models:A Unified Perspective</a>
-  #   # - (optional) Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank"> Generative Adversarial Imitation Learning</a> # TODO where does this go?
-  #   # - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
-  #   # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
-  #   # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
-  #   # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
-  #   # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-  # lecturer: 
-  # title: >
-  #   <strong>Diffusion Models for Imitation and Model-based RL</strong>
