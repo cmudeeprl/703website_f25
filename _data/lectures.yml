@@ -261,7 +261,7 @@
 - date: W 10/09
   lecturer: 
   title: >
-    <strong>Generative Adversarial Imitation Learning, Multigoal Imitation Learning</strong>
+    <strong>Generative Adversarial Imitation Learning</strong>
   slides: https://www.dropbox.com/s/4g46o9h17qi786f/immitationlearning_F24_2.pdf?dl=0 # https://www.dropbox.com/s/ww569ko33skinq5/immitationlearning_S24.pdf?dl=0
   # slides2: https://www.dropbox.com/s/vsravny8bnnoytx/immitationlearning_F23_2.pdf?dl=0
   video:
@@ -318,6 +318,24 @@
 - date: M 10/21
   lecturer: 
   title: >
+    <strong>Multi-goal RL and Imitation learning, Visual Imitation Learning</strong>
+  slides: # https://www.dropbox.com/scl/fi/jzcsaobdoo5adx18rteog/DiffusionModelsS24_2.pdf?rlkey=fp5ms2mumh76m6mv3p6vng90b&e=1&dl=0
+  # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
+  slides2: # https://www.dropbox.com/s/h2ll79l1vkv2jpa/VisualImitationF22.pdf?dl=0
+  video:
+  notes:
+  readings:
+    - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
+    - Zeng et al.  <a href="https://transporternets.github.io/" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
+    - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
+    - Peng et al.  <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
+    - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT) Learning to Act by Watching Unlabeled Online Videos</a>
+  logistics: <span class="event">HW3 out (tentative)</span>
+
+
+- date: M 10/23
+  lecturer: 
+  title: >
     <strong> Imitation Learning with Diffusion Models</strong>
   slides: # https://www.dropbox.com/scl/fi/jzcsaobdoo5adx18rteog/DiffusionModelsS24_2.pdf?rlkey=fp5ms2mumh76m6mv3p6vng90b&e=1&dl=0
   # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
@@ -328,27 +346,29 @@
     - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
     - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
     - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
-  logistics: <span class="event">HW3 out (tentative)</span>
-
-
-- date: W 10/23
-  lecturer: 
-  title: >
-    <strong>AlphaGo, AlphaGoZero, AlphaZero</strong>
-  slides: # https://www.dropbox.com/s/jpzu1h8u9yuja83/MBRL_AlphaZero_S24.pdf?dl=0
-  video:
-  notes:
-  readings:
-    - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
-    - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
-    - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
-    # - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
-    # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
-    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
-    # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
-    # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
+    - Nakkiran et al. <a href="https://arxiv.org/pdf/2406.08929" target="_blank">Step-by-Step Diffusion An Elementary Tutorial</a>
   logistics: 
+
+
+
+# - date: W 10/23
+#   lecturer: 
+#   title: >
+#     <strong>AlphaGo, AlphaGoZero, AlphaZero</strong>
+#   slides: # https://www.dropbox.com/s/jpzu1h8u9yuja83/MBRL_AlphaZero_S24.pdf?dl=0
+#   video:
+#   notes:
+#   readings:
+#     - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+#     - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
+#     - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
+#     # - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
+#     # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+#     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+#     # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+#     # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
+#     # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
+#   logistics: 
 
 
 - date: F 10/25
