@@ -326,7 +326,7 @@
   notes:
   readings:
     - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
-    - Zeng et al.  <a href="https://transporternets.github.io/" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
+    - (optional) Zeng et al.  <a href="https://transporternets.github.io/" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
     - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
     - Peng et al.  <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV:Reinforcement Learning of Physical Skills from Videos</a>
     - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
