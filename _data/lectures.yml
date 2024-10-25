@@ -332,7 +332,7 @@
   logistics: <span class="event">HW3 out (tentative)</span>
 
 
-- date: M 10/23
+- date: W 10/23
   lecturer: 
   title: >
     <strong> Imitation Learning with Diffusion Models</strong>
@@ -373,8 +373,9 @@
 - date: F 10/25
   lecturer:
   recitation: >
-    <strong>HW3, Gaussian Processes, Bayes Optimization</strong>
-  slides: https://docs.google.com/presentation/d/1uES95oq78rXfrjhwgTs6GkZlWaloAKalUCYUXNM17Fg/edit?usp=sharing
+    <strong>HW3 Diffusion Models</strong>
+  slides: https://www.dropbox.com/scl/fi/d5slfqqcs9lazeaq1td61/DiffusionPoliciesF24.pdf?rlkey=y97mdh29u2q835emsu50noi02&dl=0
+  slides2: https://docs.google.com/presentation/d/1uES95oq78rXfrjhwgTs6GkZlWaloAKalUCYUXNM17Fg/edit?usp=sharing
   logistics:
 
 
