@@ -343,7 +343,6 @@
   notes:
   readings:
     - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
-    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
     - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
     - Nakkiran et al. <a href="https://arxiv.org/pdf/2406.08929" target="_blank">Step-by-Step Diffusion:An Elementary Tutorial</a>
   logistics: 
@@ -373,34 +372,54 @@
 - date: F 10/25
   lecturer:
   recitation: >
-    <strong>HW3 Diffusion Models</strong>
+    <strong>Diffusion policies (cont.), HW3 Recitation</strong>
   slides: https://www.dropbox.com/scl/fi/d5slfqqcs9lazeaq1td61/DiffusionPoliciesF24.pdf?rlkey=y97mdh29u2q835emsu50noi02&dl=0
   slides2: https://docs.google.com/presentation/d/1uES95oq78rXfrjhwgTs6GkZlWaloAKalUCYUXNM17Fg/edit?usp=sharing
   logistics:
 
 
-- date: M 10/28
+- date: W 10/23
   lecturer: 
   title: >
-    <strong>MBRL in explicit and observable low-dimensional state spaces</strong>
-  slides: # https://www.dropbox.com/scl/fi/vam3soesk4emb4tqa38fh/MBRLexplicitS24.pdf?rlkey=k3ymcg3dskdr1ub2r1nszdyl3&dl=0
-  slides2: # https://www.dropbox.com/s/tglago3hht941sd/TD-MPC.pdf?dl=0
+    <strong>AlphaGo, AlphaGoZero, AlphaZero</strong>
+  slides:https://www.dropbox.com/scl/fi/fn8bonuqa2av892dgz7yo/MBRL_AlphaZero_F24.pdf?rlkey=1ido8b2glf4jwchr4ofmqeu8i&dl=0 
   video:
   notes:
   readings:
-    - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
-    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-    - Jannar et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank"> Planning with Diffusion for Flexible Behavior Synthesis</a>
-    # - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank">Model-Based Reinforcement Learning for Atari</a>
-    # - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
-    # - Fragkiadaki et al. <a href="https://arxiv.org/abs/1511.07404" target="_blank">Learning Visual Predictive Models of Physics for Playing Billiards</a>
-    # - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
-    # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
+    - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+    - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
+    - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
+    # - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
     # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
-    # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics:
+    # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
+    # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
+  logistics: 
+
+
+# - date: M 10/28
+#   lecturer: 
+#   title: >
+#     <strong>MBRL in explicit and observable low-dimensional state spaces</strong>
+#   slides: # https://www.dropbox.com/scl/fi/vam3soesk4emb4tqa38fh/MBRLexplicitS24.pdf?rlkey=k3ymcg3dskdr1ub2r1nszdyl3&dl=0
+#   slides2: # https://www.dropbox.com/s/tglago3hht941sd/TD-MPC.pdf?dl=0
+#   video:
+#   notes:
+#   readings:
+#     - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
+#     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+#     - Jannar et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank"> Planning with Diffusion for Flexible Behavior Synthesis</a>
+#     # - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank">Model-Based Reinforcement Learning for Atari</a>
+#     # - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
+#     # - Fragkiadaki et al. <a href="https://arxiv.org/abs/1511.07404" target="_blank">Learning Visual Predictive Models of Physics for Playing Billiards</a>
+#     # - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
+#     # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
+#     # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+#     # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+#     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+#     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+#   logistics:
 
 
 - date: W 10/30
