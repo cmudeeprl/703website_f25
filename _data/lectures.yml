@@ -494,12 +494,7 @@
   lecturer: 
   title: >
     <strong>Intelligent Exploration</strong>
-  slides: # https://www.dropbox.com/scl/fi/ku7tgu0dx5pqkwkmgwz2f/deepexplorationS24.pdf?rlkey=tdz9uh1t2nyxt206vnd3091rv&dl=0
-  # https://www.dropbox.com/scl/fi/1ql51d9q2twn2xlnl4svg/deepexplorationF23.pdf?rlkey=t6eytk5prbdc8vl546griqz9r&dl=0
-  # https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
-  slides2: # https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
+  slides: https://www.dropbox.com/s/j3b8tpv4vmeho61/MultimodalMBRL.pdf?dl=0
   video:
   notes:
   readings:
