@@ -724,7 +724,7 @@
   video:
   notes:
   readings:
-    - He et al. <a href=https://human2humanoid.com" target="_blank">Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation</a>
+    - He et al. <a href="https://human2humanoid.com" target="_blank">Learning Human to Humanoid Real Time Whole Body Teleoperation</a>
     - He et al. <a href="https://agile-but-safe.github.io/" target="_blank">Agile But Safe Learning Collision-Free High-Speed Legged Locomotion</a>
     - Xiao et al. <a href="https://lecar-lab.github.io/anycar/" target="_blank">AnyCar to Anywhere Learning Universal Dynamics Model for Agile and Adaptive Mobility</a>
     - Xue et al. <a href="https://lecar-lab.github.io/dial-mpc/" target="_blank">Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing</a>
