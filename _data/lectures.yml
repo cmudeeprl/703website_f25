@@ -717,16 +717,19 @@
 - date: M 12/02
   lecturer:
   title: >
-    <strong> TBD </strong>
+    <strong> Building Generalist Robots with Agility via Learning and Control: Humanoids and Beyond (Guanya Shi) </strong>
   slides: # https://www.dropbox.com/scl/fi/jzcsaobdoo5adx18rteog/DiffusionModelsS24_2.pdf?rlkey=fp5ms2mumh76m6mv3p6vng90b&e=1&dl=0
   # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
   slides2: # https://www.dropbox.com/s/h2ll79l1vkv2jpa/VisualImitationF22.pdf?dl=0
   video:
   notes:
   readings:
-    # - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
-    # - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
-    # - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
+    - He et al. <a href=https://human2humanoid.com" target="_blank">Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation</a>
+    - He et al. <a href="https://agile-but-safe.github.io/" target="_blank">Agile But Safe Learning Collision-Free High-Speed Legged Locomotion</a>
+    - Xiao et al. <a href="https://lecar-lab.github.io/anycar/" target="_blank">AnyCar to Anywhere Learning Universal Dynamics Model for Agile and Adaptive Mobility</a>
+    - Xue et al. <a href="https://lecar-lab.github.io/dial-mpc/" target="_blank">Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing</a>
+    - Yang et al. <a href="https://yxyang.github.io/jumping_cod/" target="_blank">Agile Continuous Jumping in Discontinuous Terrains</a>
+    
   logistics:
 
 
