@@ -626,7 +626,13 @@
   # slides2: https://www.dropbox.com/scl/fi/bv56pdhop1q2iamy1lx8z/Gen2Sim-Final.pdf?rlkey=mjis0hxdbirymr4ulqk8712a8&dl=0
   notes:
   readings:
-    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
+    - Kumar et al. <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home" target="_blank">Offline Reinforcement Learning From Algorithms to Practical Challenges</a>
+    - Kumar et al. <a href="https://arxiv.org/abs/2211.15144" target="_blank">Offline Q-Learning on Diverse Multi-Task Data Both Scales And Generalizes</a>
+    - Farebrother et al. <a href="https://arxiv.org/abs/2403.03950" target="_blank">Stop Regressing Training Value Functions via Classification for Scalable Deep RL</a>
+    - Zhou et al. <a href="https://arxiv.org/abs/2402.19446" target="_blank">ArCHer Training Language Model Agents via Hierarchical Multi-Turn RL</a>
+
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     # - Hahn et al. <a href="https://arxiv.org/abs/2110.09470" target="_blank">No RL, No Simulation:Learning to Navigate without Navigating</a>
     # - (optional) Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
     # - (optional) Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
