@@ -660,7 +660,8 @@
   recitation:
   title: >
     <strong>Sim2Real Transfer</strong>
-  slides: # https://www.dropbox.com/s/jf1nx5qog5mmw2k/sim2realS24.pdf?dl=0
+  slides: https://www.dropbox.com/scl/fi/aux0gnrw14b6n7q3vleua/sim2realS24.pdf?rlkey=z7ik66imupsz5q55yitvqm8i8&dl=0
+  slides2: https://www.dropbox.com/scl/fi/ikw77frg6w46i9irzfpcf/Gen2Sim.pdf?rlkey=ivv4599lo6ft77nbng1zt5new&dl=0
   video:
   notes:
   readings:
