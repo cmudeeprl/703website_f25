@@ -742,16 +742,18 @@
 - date: W 12/04
   lecturer:
   title: >
-    <strong> TBD </strong>
+    <strong> Language and Robot Control </strong>
   slides: # https://www.dropbox.com/scl/fi/jzcsaobdoo5adx18rteog/DiffusionModelsS24_2.pdf?rlkey=fp5ms2mumh76m6mv3p6vng90b&e=1&dl=0
   # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
   slides2: # https://www.dropbox.com/s/h2ll79l1vkv2jpa/VisualImitationF22.pdf?dl=0
   video:
   notes:
   readings:
-    # - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
-    # - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
-    # - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
+    - Radford et al. <a href="https://arxiv.org/abs/2103.00020" target="_blank">Learning Transferable Visual Models From Natural Language Supervision
+</a>
+    - Shridhar et al. <a href="https://cliport.github.io/" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
+    - Brown et al. <a href="https://arxiv.org/abs/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
+    - Liang et al. <a href="https://code-as-policies.github.io/" target="_blank">Code as Policies:Language Model Programs for Embodied Control</a>
   logistics: <span class="deadline">HW5 due 11:59PM</span>
 
 
@@ -769,7 +771,7 @@
 - date: T 12/10
   lecturer:
   quiz: >
-    <strong> Quiz 3, 1:00pm - 4:00pm, TBD by Registrar </strong>
+    <strong> Quiz 3, 1:00pm - 4:00pm, PH 100 by Registrar </strong>
   slides: 
   notes: 
   readings:
