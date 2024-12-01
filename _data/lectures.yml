@@ -749,11 +749,10 @@
   video:
   notes:
   readings:
-    - Radford et al. <a href="https://arxiv.org/abs/2103.00020" target="_blank">Learning Transferable Visual Models From Natural Language Supervision
-</a>
+    - Radford et al. <a href="https://arxiv.org/abs/2103.00020" target="_blank">Learning Transferable Visual Models From Natural Language Supervision</a>
     - Shridhar et al. <a href="https://cliport.github.io/" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
     - Brown et al. <a href="https://arxiv.org/abs/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
-    - Liang et al. <a href="https://code-as-policies.github.io/" target="_blank">Code as Policies:Language Model Programs for Embodied Control</a>
+    - Liang et al. <a href="https://code-as-policies.github.io/" target="_blank">Code as Policies Language Model Programs for Embodied Control</a>
   logistics: <span class="deadline">HW5 due 11:59PM</span>
 
 
