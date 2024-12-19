@@ -1,4 +1,4 @@
-- date: M 08/26
+- date: M 01/13
   lecturer: 
   title: >
     <strong>Introduction to Reinforcement and Representation Learning</strong>
@@ -11,7 +11,7 @@
     - Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
   logistics:
 
-- date: W 08/28
+- date: W 01/15
   lecturer: 
   title: >
     <strong>Multi-armed Bandits</strong>
@@ -28,7 +28,7 @@
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
   logistics:
 
-- date: F 08/30
+- date: F 01/17
   lecturer:
   title:
   recitation: >
@@ -49,15 +49,15 @@
 
 
 
-- date: M 09/02
+- date: M 01/20
   lecturer: 
   quiz: >
-    <strong>No Class, Labor Day</strong>
+    <strong>No Class, MLK Jr Day</strong>
   logistics:
 
 
   
-- date: W 09/04
+- date: W 01/22
   lecturer: 
   title: >
     <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
@@ -70,7 +70,7 @@
   logistics: <span class="event">HW1 out (tentative)</span> <br>
 
 
-- date: F 09/06
+- date: F 01/24
   lecturer:
   title:
   recitation: >
@@ -83,7 +83,7 @@
   logistics:
 
 
-- date: M 09/09
+- date: M 01/27
   lecturer: 
   title: >
     <strong>Markov Decision Processes, Value Iteration, Policy Iteration (cont.)</strong>
@@ -97,7 +97,7 @@
   logistics:
 
 
-- date: W 09/11
+- date: W 01/29
   lecturer: 
   title: >
     <strong> Monte Carlo Learning and Temporal Difference Learning </strong>
@@ -111,14 +111,14 @@
   logistics:
 
 
-- date: F 09/13
+- date: F 01/31
   lecturer:
   quiz: >
     <strong>No Recitation</strong>
   logistics:
 
 
-- date: M 09/16
+- date: M 02/03
   lecturer: 
   title: >
     <strong>Monte Carlo Learning and Temporal Difference Learning (cont.) </strong>
@@ -129,7 +129,7 @@
   logistics:
 
 
-- date: W 09/18
+- date: W 02/05
   lecturer: 
   title: >
     <strong>Monte Carlo Tree Search, Function approximation in prediction and control, Deep Q-learning</strong>
@@ -145,7 +145,7 @@
   logistics:
 
 
-- date: F 09/20
+- date: F 02/07
   lecturer:
   title:
   recitation: >
@@ -157,7 +157,7 @@
   logistics:
 
 
-- date: M 09/23
+- date: M 02/10
   lecturer: 
   title: >
     <strong>Deep Q-learning (cont.)</strong>
@@ -173,7 +173,7 @@
   video:
   logistics: <span class="deadline">HW1 due 11:59pm</span>,  <span class="event">HW2 out (tentative)</span> <br>
 
-- date: W 09/25
+- date: W 02/12
   lecturer: 
   title: >
     <strong>Policy gradients</strong>
@@ -189,7 +189,7 @@
   logistics:
 
 
-- date: F 09/27
+- date: F 02/14
   lecturer:
   title:
   recitation: >
@@ -201,7 +201,7 @@
   logistics:
 
 
-- date: M 09/30
+- date: M 02/17
   lecturer: 
   title: >
     <strong>Natural PG, PPO, TRPO </strong>
@@ -216,7 +216,7 @@
   logistics:
 
 
-- date: W 10/02
+- date: W 02/19
   lecturer: 
   title: >
     <strong>Evolutionary methods for policy search</strong>
@@ -230,7 +230,7 @@
   logistics:
 
 
-- date: F 10/04
+- date: F 02/21
   lecturer:
   # title:
   recitation:
@@ -245,7 +245,7 @@
   logistics:
 
 
-- date: M 10/07
+- date: M 02/24
   lecturer: 
   title: >
     <strong>Deterministic Policy gradient, re-parametrized PG</strong>
@@ -258,7 +258,7 @@
 
 
 
-- date: W 10/09
+- date: W 02/26
   lecturer: 
   title: >
     <strong>Generative Adversarial Imitation Learning</strong>
@@ -284,7 +284,7 @@
     # - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
   logistics: <span class="deadline">HW2 due 11:59PM</span>
 
-- date: F 10/11
+- date: F 02/28
   lecturer:
   title:
   recitation: >
@@ -294,28 +294,28 @@
   logistics: 
 
 
-- date: M 10/14
+- date: M 03/03
   lecturer:
   quiz: >
-    <strong>Fall Break - No Classes</strong>
+    <strong>Spring Break - No Classes</strong>
   logistics:
 
 
-- date: W 10/16
+- date: W 03/05
   lecturer:
   quiz: >
-    <strong>Fall Break - No Classes</strong>
+    <strong>Spring Break - No Classes</strong>
   logistics:
 
 
-- date: F 10/18
+- date: F 03/07
   lecturer:
   quiz: >
-    <strong>Fall Break - No Classes</strong>
+    <strong>Spring Break - No Classes</strong>
   logistics:
 
 
-- date: M 10/21
+- date: M 03/10
   lecturer: 
   title: >
     <strong>Multi-goal RL and Imitation learning, Visual Imitation Learning</strong>
@@ -332,7 +332,7 @@
   logistics: <span class="event">HW3 out (tentative)</span>
 
 
-- date: W 10/23
+- date: W 03/12
   lecturer: 
   title: >
     <strong> Imitation Learning with Diffusion Models</strong>
@@ -369,7 +369,7 @@
 #   logistics: 
 
 
-- date: F 10/25
+- date: F 03/14
   lecturer:
   recitation: >
     <strong>Diffusion policies (cont.), HW3 Recitation</strong>
@@ -378,7 +378,7 @@
   logistics:
 
 
-- date: W 10/28
+- date: M 03/17
   lecturer: 
   title: >
     <strong>AlphaGo, AlphaGoZero, AlphaZero</strong>
@@ -398,7 +398,7 @@
   logistics: 
 
 
-- date: W 10/30
+- date: W 03/19
   lecturer:
   title:
   recitation: >
@@ -409,7 +409,7 @@
   readings:
   logistics:
 
-- date: F 11/1
+- date: F 03/21
   lecturer: 
   title: >
     <strong>MBRL in explicit and observable low-dimensional state spaces</strong>
@@ -432,7 +432,7 @@
 
 
 
-- date: M 11/04
+- date: M 03/24
   lecturer: 
   title: >
     <strong>MBRL from Sensory Input, Planning in Sensory Space, Planning in a Latent State Space</strong>
@@ -475,7 +475,7 @@
 
 
 
-- date: W 11/06
+- date: W 03/26
   lecturer:
   title: >
     <strong> Quiz 2 and HW4 Review Recitation</strong>
@@ -483,14 +483,14 @@
   logistics:
 
 
-- date: F 11/08
+- date: F 03/28
   lecturer:
   quiz: >
     <strong> Quiz 2 </strong>
   slides:
   logistics:
 
-- date: M 11/11
+- date: M 03/31
   lecturer: 
   title: >
     <strong>MBRL with Multimodal Dynamics</strong>
@@ -512,7 +512,7 @@
   logistics:
 
 
-- date: W 11/13
+- date: W 04/02
   lecturer: 
   title: >
     <strong>Intelligent Exploration</strong>
@@ -570,7 +570,7 @@
 #   logistics:
 
 
-- date: F 11/15
+- date: F 04/04
   lecturer:
   recitation: >
     <strong> Solutions to Quiz 2 </strong>
@@ -579,7 +579,7 @@
   readings:
   logistics:
 
-- date: W 11/18
+- date: W 04/07
   lecturer: 
   title: >
     <strong>Intelligent Exploration (cont.) </strong>
@@ -616,7 +616,7 @@
 #   logistics:  <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
 
 
-- date: W 11/20
+- date: W 04/09
   lecturer: 
   title: >
     <strong>Offline RL (Aviral Kumar)</strong>
@@ -644,7 +644,7 @@
   
 
 
-- date: F 11/22
+- date: F 04/11
   lecturer:
   recitation: >
     <strong> Homework 5 </strong>
@@ -654,7 +654,7 @@
   logistics:
 
 
-- date: M 11/25
+- date: M 04/14
   lecturer:
   recitation:
   title: >
@@ -696,7 +696,7 @@
 #   logistics:
 
 
-- date: W 11/27
+- date: W 04/16
   lecturer:
   title: >
     <strong> No Class - Thanksgiving Break </strong>
@@ -709,7 +709,7 @@
   
 
 
-- date: F 11/29
+- date: F 04/18
   lecturer:
   recitation: >
     <strong> No Recitation - Thanksgiving Break </strong>
@@ -720,7 +720,7 @@
   readings:
   logistics:
   
-- date: M 12/02
+- date: M 04/21
   lecturer:
   title: >
     <strong> Building Generalist Robots with Agility via Learning and Control: Humanoids and Beyond (Guanya Shi) </strong>
@@ -737,7 +737,7 @@
   logistics:
 
 
-- date: W 12/04
+- date: W 04/23
   lecturer:
   title: >
     <strong> Language and Robot Control </strong>
@@ -753,7 +753,7 @@
   logistics: <span class="deadline">HW5 due 11:59PM</span>
 
 
-- date: F 12/06
+- date: F 04/25
   lecturer:
   recitation:  <strong> Quiz 3 Review </strong>
   slides: # https://docs.google.com/presentation/d/1oEXKoU-ZqTw68Lw3di0EKRWTR3kS5TnA8F5DG1_kBOI/edit#slide=id.p
