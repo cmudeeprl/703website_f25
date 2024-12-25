@@ -5,6 +5,12 @@ Instructors:
       office-hours: Monday & Wednesday 10:50 - 11:20 AM
       image: staff/katef.jpeg
 
+    - name: Aviral Kumar
+      email: aviralku@andrew.cmu.edu
+      url: https://aviralkumar2907.github.io/
+      office-hours: Monday & Wednesday 10:50 - 11:20 AM
+      image: staff/generic.jpeg
+
 EducationAssociates:
     - name: Joshmin Ray
       email: joshminr@andrew.cmu.edu
@@ -20,19 +26,19 @@ TAs:
       location: GHC 8228
       image: staff/Eyob.jpg
    
-    - name: Maxwell Jones
-      email: mjones2@andrew.cmu.edu
-      url: https://maxwelljon.es/
-      office-hours: Tuesdays 4:00 - 6:00pm
-      location: GHC 7107
-      image: staff/Maxwell.jpeg
+    - name: Douglas Chen
+      email: dchen3@andrew.cmu.edu
+      url: 
+      office-hours:
+      location:
+      image: staff/generic.jpeg
    
-    - name: Lawrence Jang
-      email: ljang@andrew.cmu.edu
-      url:
-      office-hours: Wednesdays 2:00 - 3:00pm
-      location: GHC 8115
-      image: staff/LJang.png
+    - name: Arshika Lalan
+      email: alalan@andrew.cmu.edu
+      url: https://arshika77.github.io/
+      office-hours:
+      location:
+      image: staff/generic.jpeg
 
     - name: Marian Qian
       email: marianq@andrew.cmu.edu
@@ -40,12 +46,3 @@ TAs:
       office-hours: Thursdays 3:00 - 4:00pm
       location: GHC 8115
       image: staff/Marian.jpg
-    
-    - name: Patrick Phelan
-      email: pphelan@andrew.cmu.edu
-      url:
-      office-hours: TBD
-      location: TBD
-      image: staff/phelan.jpeg
-
-
