@@ -19,8 +19,8 @@
   video:
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1-2.7
     - Russo et al. <a href="https://arxiv.org/abs/1707.02038" target="_blank">A Tutorial on Thompson Sampling</a>, Ch1-Ch4. Optional after Ch4
+    - Aleksandrs Slivkins <a href="https://arxiv.org/pdf/1904.07272">Introduction to Multi-Armed Bandits</a>
     # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
     # - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
     # - Mouret and Clune. <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating Search Spaces by Mapping Elites (Optional)</a>
@@ -32,7 +32,7 @@
   lecturer:
   title:
   recitation: >
-    <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, Bandits </strong>
+    <strong>Neural Nets, PyTorch, OpenAI Gym, Bandits </strong>
   slides: https://docs.google.com/presentation/d/1BflMLGW4rO8sD3k2TzWQyn32XPrEOoNjdDlAotd68bM/edit?usp=sharing # https://docs.google.com/presentation/d/1zloauoOSPMPNRMZcg2nwzvp-hmckq4lM1D9gEVfZ8Xs/edit#slide=id.g2b105fa7442_29_5
   notes: 
   slides2: 
@@ -65,8 +65,11 @@
   video:
   notes:
   readings:
-    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
     - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
+    - <a href="https://arxiv.org/abs/1312.5602">DQN</a>
+    - <a href="https://link.springer.com/chapter/10.1007/11564096_32">Neural Fitted Q-Iteration</a>
+    - <a href="https://jmlr.org/papers/v15/dann14a.html">Policy Evaluation with Temporal Differences: A Survey and Comparison</a>
   logistics: <span class="event">HW1 out (tentative)</span> <br>
 
 
@@ -94,7 +97,9 @@
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch9.1-9.3, 9.6 and Ch10.1
-    - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
+    - <a href="https://arxiv.org/abs/1312.5602">DQN</a>
+    - <a href="https://link.springer.com/chapter/10.1007/11564096_32">Neural Fitted Q-Iteration</a>
+    - <a href="https://jmlr.org/papers/v15/dann14a.html">Policy Evaluation with Temporal Differences: A Survey and Comparison</a>
   logistics:
 
 
@@ -112,7 +117,9 @@
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
     - (optional) Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>
-    
+    - <a href="https://proceedings.neurips.cc/paper_files/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf"> Policy gradients with function approximation </a>
+    - <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Approximately Optimal Approximate RL </a>
+    - <a href="https://arxiv.org/abs/1908.00261"> On the theory of policy gradient methods </a>
   logistics:
 
 
@@ -132,6 +139,7 @@
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
+    - <a href="https://arxiv.org/abs/1205.4839"> Off-Policy Actor Critic </a>
   logistics:
 
 
@@ -174,6 +182,10 @@
   slides: https://www.dropbox.com/scl/fi/4pzf6gfgrgxc9gxjmt1wy/lecture_FA_F24.pdf?rlkey=ashhxk8x496vbg7ta32iwukrh&dl=0 # https://www.dropbox.com/scl/fi/hvqm19lilwhs35besg06c/PG_S24.pdf?rlkey=c7faq4afhi2lnqtzwmateix9s&dl=0
   readings:
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
+    - Bellemare et al. <a href="https://arxiv.org/abs/1707.06887">A Distributional Perspective on Reinforcement Learning</a>
+    - Haarnoja et al. <a href="https://arxiv.org/abs/1702.08165"> Reinforcement Learning with Deep Energy Based Policies </a>
+    - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290"> Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor </a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477"> Addressing Function Approximation Error in Actor-Critic Methods </a>
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch9.1-9.3, 9.6 and Ch10.1
     # - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
     # - <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
@@ -187,11 +199,15 @@
 - date: W 02/12
   lecturer: 
   title: >
-    <strong>Imitation Learning I: DAGGER</strong>
+    <strong>Imitation Learning I: Behavioral Cloning, Online imitation learning</strong>
   slides: https://www.dropbox.com/scl/fi/xj59fjlqqh29478k8ufgk/PG_F24.pdf?rlkey=0mbasbky5ve8u425s95prh1ud&dl=0 # https://www.dropbox.com/scl/fi/j4xi59dww4mn12sj12zv1/NaturalPolicyGradientsF23.pdf?rlkey=g9es2j8ftx92lp1h6mvpfkhu0&dl=0
   video:
   readings:
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    - Bagnell et al. <a href="https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf"> An Invitation to Imitation </a>
+    - Ross et al. <a href="https://arxiv.org/abs/1011.0686"> A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning </a>
+    - Ho et al. <a href="https://arxiv.org/abs/1606.03476"> Generative Adversarial Imitation Learning </a>
+    - Fu et al. <a href="https://arxiv.org/abs/1710.11248"> Learning Robust Rewards with Adversarial Inverse Reinforcement Learning </a>
     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     # - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
@@ -216,7 +232,7 @@
 - date: M 02/17
   lecturer: 
   title: >
-    <strong>Imitation learning II:  Handling Multimodality with Action discretization and Diffusion policies, Multitask Policies</strong>
+    <strong>Imitation learning II:  Multimodal policies, Multitask Policies</strong>
   slides:  https://www.dropbox.com/scl/fi/xj59fjlqqh29478k8ufgk/PG_F24.pdf?rlkey=0mbasbky5ve8u425s95prh1ud&dl=0 # https://www.dropbox.com/scl/fi/hprrecd07dtf5e4y8k3q9/NaturalPolicyGradientsS24.pdf?rlkey=e08fem8eznnybxdi7hm7uufme&dl=0
   slides2: https://www.dropbox.com/scl/fi/9m7ty94r6pta47v3mi9w3/NaturalPolicyGradientsF24.pdf?rlkey=j0ey6jjnwihufezlpv0s6knfe&dl=0 # https://www.dropbox.com/s/l7bcso8pcto8oto/maxentRLF22.pdf?dl=0
            # https://www.dropbox.com/s/gziiw0emxsgjycf/maxentRL_2022.pdf?dl=0
@@ -225,6 +241,8 @@
     - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
     - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
     - <a href="https://arxiv.org/html/2410.24164v1" target = "_blank">https://arxiv.org/html/2410.24164v1</a>
+    - <a href="https://arxiv.org/abs/2212.06817"> RT1 </a> (and its follow-ups)
+    - <a href="https://arxiv.org/abs/2304.13705"> Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware </a>
     # - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
     # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
     # - (optional) Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
@@ -271,6 +289,9 @@
   video:
   readings:
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    - <a href="https://dl.acm.org/doi/pdf/10.1145/122344.122377"> Dyna </a>
+    - <a href="https://arxiv.org/abs/1906.08253"> https://arxiv.org/abs/1906.08253 </a>
+    - Rybkin et al. <a href="https://arxiv.org/abs/2106.13229"> Latent-space collocation </a>
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
   logistics:
 
@@ -338,13 +359,15 @@
 - date: M 03/10
   lecturer: 
   title: >
-    <strong>Model Based RL III: Diffusion Models for Planning</strong>
+    <strong>Model Based RL III: diffusion models and advanced topics</strong>
   slides: https://www.dropbox.com/scl/fi/ssidomcihmm8e7r44tnj2/immitationlearning_F24_2.pdf?rlkey=e5q2csqr8brvaiqzr7fss4lqr&dl=0
   slides2: https://www.dropbox.com/scl/fi/knnefoej991479tu0o1ax/VisualImitationF24.pdf?rlkey=a2ez9jub3855vgroksh496sp0&dl=0
   video:
   notes:
   readings:
     - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
+    - Lee et al. <a href="https://arxiv.org/abs/1907.00953"> Deep RL with a Latent Variable Model </a>
+    - Hafner et al. <a href="https://arxiv.org/abs/1912.01603"> Dreamer </a> (and its subsequent versions)
     # - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
     # - (optional) Zeng et al.  <a href="https://transporternets.github.io/" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
     # - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
@@ -402,7 +425,7 @@
 - date: M 03/17
   lecturer: 
   title: >
-    <strong>Exploration 1 → Optimism in the face of uncertainty (UCB, eps-greedy), intrinsic motivation, RND, go explore</strong>
+    <strong>Exploration 1: Optimism in the face of uncertainty, count-based exploration, intrinsic motivation, RND, go explore</strong>
   slides: https://www.dropbox.com/scl/fi/fn8bonuqa2av892dgz7yo/MBRL_AlphaZero_F24.pdf?rlkey=1ido8b2glf4jwchr4ofmqeu8i&dl=0 
   video:
   notes:
@@ -410,6 +433,9 @@
     - <a href="https://arxiv.org/abs/1606.01868" target = "_blank">https://arxiv.org/abs/1606.01868</a>
     - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
+    - <a href="https://arxiv.org/abs/1810.12894"> Exploration by random network distillation </a>
+    - <a href="https://arxiv.org/abs/1703.01310"> Count-Based Exploration with Neural Density Models </a>
+    - <a href="https://arxiv.org/abs/1606.01868"> Unifying Count-Based Exploration and Intrinsic Motivation </a>
     # - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     # - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
     # - (optional) David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
@@ -425,12 +451,16 @@
 - date: W 03/19
   lecturer:
   title: >
-    <strong>Exploration 2 → curiosity, maximum entropy exploration (H(p(s)), ensembles + structured noise (Ben van roy, Ian Osband, etc), </strong>
+    <strong>Exploration 2: curiosity, maximum entropy exploration, bootstrapped ensembles </strong>
   slides: # https://docs.google.com/presentation/d/17XbYHlHDZKwmSmBUmpc1GkeKYdiVPGu83sEnPTlaFsA/edit?usp=sharing
   video:
   notes:
   readings:
     - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
+    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363"> Curiosity-driven Exploration by Self-supervised Prediction </a>
+    - Hazan et al. <a href="https://proceedings.mlr.press/v97/hazan19a/hazan19a.pdf"> Provably Efficient Maximum Entropy Exploration </a>
+    - Fu et al. <a href="https://arxiv.org/abs/1703.01260"> EX2: Exploration with Exemplar Models for Deep Reinforcement Learning </a>
+    - Osband et al. <a href="https://arxiv.org/abs/1703.07608"> Deep Exploration via Randomized Value Functions </a>
   logistics:
 
 - date: F 03/21
@@ -461,13 +491,15 @@
 - date: M 03/24
   lecturer: 
   title: >
-    <strong>Offline RL 1 → going beyond imitation, problem statement, challenges in doing offline RL – distribution shift, policy gradient methods / policy constraints</strong>
+    <strong>Offline RL 1: going beyond imitation, problem statement, challenges in doing offline RL, policy gradient methods / policy constraints</strong>
   slides: https://www.dropbox.com/scl/fi/nvxgiv4v92o8qts25lxzf/MBRLRL_sensoryF24.pdf?rlkey=cyzkjls0uxblimsid9bs3auie&e=1&dl=0
   video:
   notes:
   readings:
-    - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
+    - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
+    - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
     # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
     # - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
     # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
@@ -506,9 +538,16 @@
 - date: W 03/26
   lecturer:
   title: >
-    <strong>Offline RL 2 → conservatism, diffusion policies,CQL/IQL/DQL</strong>
+    <strong>Offline RL 2: conservative methods, model-based approaches, modern model-free algorithms</strong>
   slides: https://docs.google.com/presentation/d/1HZdC4zPOgWQUw5ay1LRaveW2ufZeTndKumA1IWsr-BI/edit?usp=sharing
   logistics:
+  readings:
+    - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
+    - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
+    - Sobol Mark et al. <a href="https://policyagnosticrl.github.io/"> Policy Agnostic RL </a>
+    - Kostrikov et al. <a href="https://arxiv.org/abs/2110.06169"> Offline RL with Implicit Q-Learning </a>
+    - Yu et al. <a href="https://arxiv.org/abs/2102.08363"> Conservative offline Model-Based Policy Optimization </a>
+    - Kidambi et al. <a href="https://arxiv.org/abs/2005.05951"> Model-Based Offline Reinforcement Learning </a>
 
 
 - date: F 03/28
