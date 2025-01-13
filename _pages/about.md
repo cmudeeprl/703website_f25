@@ -37,9 +37,9 @@ Students should have a solid understanding of the following areas
 
 ***
 
-- **Lectures:** Monday, Wednesday 09:30 AM - 10:50 AM
-- **Recitations:** Friday 09:30 AM - 10:50 AM
-- **Lecture/Recitation Location:** [TEP 1403](https://www.google.com/maps/place/Tepper+School+of+Business/@40.4449438,-79.9478117,17z/data=!4m10!1m2!2m1!1sTEPPER+1403!3m6!1s0x8834f21f58679a9f:0xa4dc782d726fd9ee!8m2!3d40.4450795!4d-79.9453962!15sCgtURVBQRVIgMTQwM1oNIgt0ZXBwZXIgMTQwM5IBD2J1c2luZXNzX3NjaG9vbJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOU09HTXlVVEozUlJBQuABAA!16zL20vMDFxMnYx?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D){:target="\_blank"}
+- **Lectures:** Monday, Wednesday 12:30 PM - 1:50 PM
+- **Recitations:** Friday 12:30 PM - 1:50 PM
+- **Lecture/Recitation Location:** WEH 5409
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}
