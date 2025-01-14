@@ -6,6 +6,7 @@
       <li><span>Instructor</span> <a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
       <li><span>Email:</span> <a href="mailto:{{ instructor.email | encode_email }}" target="_blank">{{ instructor.email }}</a></li>
       <li><span>Office hours:</span> {{ instructor.office-hours }}</li>
+      <li><span>Location:</span> {{ instructor.location }}</li>
     </ul>
   </div>
   {% endfor %}
