@@ -33,7 +33,7 @@
   title:
   recitation: >
     <strong>Neural Nets, PyTorch, OpenAI Gym, Bandits </strong>
-  slides: https://docs.google.com/presentation/d/1BflMLGW4rO8sD3k2TzWQyn32XPrEOoNjdDlAotd68bM/edit?usp=sharing # https://docs.google.com/presentation/d/1zloauoOSPMPNRMZcg2nwzvp-hmckq4lM1D9gEVfZ8Xs/edit#slide=id.g2b105fa7442_29_5
+  slides:
   notes: 
   slides2: 
   # slides2: 
@@ -61,7 +61,7 @@
   lecturer: 
   title: >
     <strong>Value-based Methods</strong>
-  slides: https://www.dropbox.com/scl/fi/shrchcowymnhhiapemgmy/lecture_mdps-_policyvalueIterF24.pdf?rlkey=nz7w3oq8wp65r8hb4vauhy6kl&dl=0 # https://www.dropbox.com/scl/fi/30w09d6djls42pzu49r9z/lecture_mdps-_policyvalueIterS24.pdf?rlkey=u9e22hsnkdtpmfstis49w6f2n&dl=0
+  slides:
   video:
   notes:
   readings:
@@ -78,7 +78,7 @@
   title:
   recitation: >
     <strong>Bandits, MDPs & HW1</strong>
-  slides: https://docs.google.com/presentation/d/1GhpkAYFvy0LPjd1cnCzAIhl-dbEZnHSk3VO39-7IyvA/edit?usp=sharing # https://docs.google.com/presentation/d/10TIpiOKyrF5FmarLVbWxO8smi3wuIOdTXUTHQzi8TQw/edit
+  slides:
   slides2:
   notes: 
   video:
@@ -90,7 +90,7 @@
   lecturer: 
   title: >
     <strong>Value-based Methods (cont.)</strong>
-  slides: https://www.dropbox.com/scl/fi/shrchcowymnhhiapemgmy/lecture_mdps-_policyvalueIterF24.pdf?rlkey=nz7w3oq8wp65r8hb4vauhy6kl&dl=0 # https://www.dropbox.com/scl/fi/be2tmwmtxucdsam1ocjmc/lecture_MCTD_S24.pdf?rlkey=kmld6ygmoop4telfi4k5k1src&dl=0
+  slides:
   slides2: 
   video:
   notes:
@@ -107,7 +107,7 @@
   lecturer: 
   title: >
     <strong>Evolutionary Methods for Policy Search, Policy Gradients</strong>
-  slides: https://www.dropbox.com/scl/fi/8i5zax5c1ym1eqy3jyk2x/lecture_MCTD_F24.pdf?rlkey=2j2ptn7r8jbdltgdr0nxz1e8m&dl=0 # https://www.dropbox.com/scl/fi/2je2obhcxti1mdc1u9rys/lecture_MCTD_F23.pdf?rlkey=wbiifyewp7ameo89ru3qsd3x5&dl=0
+  slides:
   slides2: 
   video:
   notes:
@@ -134,7 +134,7 @@
   lecturer: 
   title: >
     <strong>Actor-Critic Methods</strong>
-  slides: https://www.dropbox.com/scl/fi/8i5zax5c1ym1eqy3jyk2x/lecture_MCTD_F24.pdf?rlkey=2j2ptn7r8jbdltgdr0nxz1e8m&dl=0 # https://www.dropbox.com/scl/fi/oxwe8xhzzxb2crdtw6kvd/MCTS_S24.pdf?rlkey=w711d2b3dvglvg03603m6psl6&dl=0
+  slides:
   video:
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -147,8 +147,8 @@
   lecturer: 
   title: >
     <strong>Trust Region Constraints</strong>
-  slides:  https://www.dropbox.com/scl/fi/xcoswykund81pz1tx8g0y/MCTS_F24.pdf?rlkey=8gfut70oqzrz7okxcf5l8kw1v&dl=0 # https://www.dropbox.com/scl/fi/lcpoozw99lmtdciydvmob/lecture_FA_S24.pdf?rlkey=uowtb2o1p8fc8k2yuum7ol7f6&dl=0
-  slides2: https://www.dropbox.com/scl/fi/4pzf6gfgrgxc9gxjmt1wy/lecture_FA_F24.pdf?rlkey=ashhxk8x496vbg7ta32iwukrh&dl=0
+  slides:
+  slides2:
   readings:
     - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
     - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
@@ -168,7 +168,7 @@
   title:
   recitation: >
     <strong>MCTS, TD Learning, Deep Q Learning, HW2 (DQN)</strong>
-  slides: https://docs.google.com/presentation/d/1VPzlJJjkETf9d4NZIzpZ7oeAfh1jRG6AnYLG-4jDsZc/edit#slide=id.g284c8a23f9e_1_0 # https://docs.google.com/presentation/d/1jeMgyI9GBkTTkE5L0Cdb8ymXlx9sLmJzGepv-P1G9Vg/edit#slide=id.g268b5552a9f_0_138
+  slides:
   video:
   notes:
   readings:
@@ -179,7 +179,7 @@
   lecturer: 
   title: >
     <strong>Maximum Entropy RL, Distributional RL, Deterministic Policy Gradients</strong>
-  slides: https://www.dropbox.com/scl/fi/4pzf6gfgrgxc9gxjmt1wy/lecture_FA_F24.pdf?rlkey=ashhxk8x496vbg7ta32iwukrh&dl=0 # https://www.dropbox.com/scl/fi/hvqm19lilwhs35besg06c/PG_S24.pdf?rlkey=c7faq4afhi2lnqtzwmateix9s&dl=0
+  slides:
   readings:
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     - Bellemare et al. <a href="https://arxiv.org/abs/1707.06887">A Distributional Perspective on Reinforcement Learning</a>
@@ -200,7 +200,7 @@
   lecturer: 
   title: >
     <strong>Imitation Learning I: Behavioral Cloning, Online imitation learning</strong>
-  slides: https://www.dropbox.com/scl/fi/xj59fjlqqh29478k8ufgk/PG_F24.pdf?rlkey=0mbasbky5ve8u425s95prh1ud&dl=0 # https://www.dropbox.com/scl/fi/j4xi59dww4mn12sj12zv1/NaturalPolicyGradientsF23.pdf?rlkey=g9es2j8ftx92lp1h6mvpfkhu0&dl=0
+  slides:
   video:
   readings:
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
@@ -222,7 +222,7 @@
   title:
   recitation: >
     <strong>Quiz 1 Review</strong>
-  slides: https://docs.google.com/presentation/d/15xaEy0QdZ5vd2WJQ6C0EdAOz_pWF_LSLIlUGqW_xOUg/edit#slide=id.p # https://docs.google.com/presentation/d/1F4G1jxEbAZgr4sVDFs0svEhuQPWxyIK8zFkJpyhhcPA/edit?usp=sharing
+  slides:
   video:
   notes:
   readings:
@@ -233,8 +233,8 @@
   lecturer: 
   title: >
     <strong>Imitation learning II:  Multimodal policies, Multitask Policies</strong>
-  slides:  https://www.dropbox.com/scl/fi/xj59fjlqqh29478k8ufgk/PG_F24.pdf?rlkey=0mbasbky5ve8u425s95prh1ud&dl=0 # https://www.dropbox.com/scl/fi/hprrecd07dtf5e4y8k3q9/NaturalPolicyGradientsS24.pdf?rlkey=e08fem8eznnybxdi7hm7uufme&dl=0
-  slides2: https://www.dropbox.com/scl/fi/9m7ty94r6pta47v3mi9w3/NaturalPolicyGradientsF24.pdf?rlkey=j0ey6jjnwihufezlpv0s6knfe&dl=0 # https://www.dropbox.com/s/l7bcso8pcto8oto/maxentRLF22.pdf?dl=0
+  slides:
+  slides2:
            # https://www.dropbox.com/s/gziiw0emxsgjycf/maxentRL_2022.pdf?dl=0
   video:
   readings:
@@ -253,7 +253,7 @@
   lecturer: 
   title: >
     <strong>Visual Imitation</strong>
-  slides: https://www.dropbox.com/scl/fi/gb84esk1kgitcnvynmt72/evolutionarymethods_F24.pdf?rlkey=nfp0a88qwy9zayo3lxk8xmhf3&dl=0 # https://www.dropbox.com/scl/fi/unjunovj10khqrk83cnzb/evolutionarymethods_S24.pdf?rlkey=u082ims55kdsgf5cqej17xp2f&dl=0
+  slides:
   video:
   notes:
   readings:
@@ -284,8 +284,8 @@
   lecturer: 
   title: >
     <strong>Model Based RL I: Shooting / Collocation methods, Dyna</strong>
-  slides: https://www.dropbox.com/scl/fi/g91ap1et1ziwvthi1wjju/PathwiseDDPGF24.pdf?rlkey=5iuef0rxrnv3a7fdng132wf2a&dl=0 # https://www.dropbox.com/scl/fi/5yip89noys4j3utmtbboc/PathwiseDDPGS24.pdf?rlkey=7vm2qqyy10tqcajcmkfo1uykt&dl=0 
-  slides2: https://www.dropbox.com/scl/fi/g0id8ksrt0i42gtsek27c/immitationlearning_F24.pdf?rlkey=wl50rkd72olnskndl8eha1vq9&dl=0 # https://www.dropbox.com/s/xo5x7obdtnadlp2/immitationlearning_F23.pdf?dl=0
+  slides:
+  slides2:
   video:
   readings:
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
@@ -301,7 +301,7 @@
   lecturer: 
   title: >
     <strong>Model Based RL II: Online planning, MCTS, AlphaGo, AlphaZero</strong>
-  slides: https://www.dropbox.com/s/4g46o9h17qi786f/immitationlearning_F24_2.pdf?dl=0 # https://www.dropbox.com/s/ww569ko33skinq5/immitationlearning_S24.pdf?dl=0
+  slides:
   # slides2: https://www.dropbox.com/s/vsravny8bnnoytx/immitationlearning_F23_2.pdf?dl=0
   video:
   notes:
@@ -360,8 +360,8 @@
   lecturer: 
   title: >
     <strong>Model Based RL III: diffusion models and advanced topics</strong>
-  slides: https://www.dropbox.com/scl/fi/ssidomcihmm8e7r44tnj2/immitationlearning_F24_2.pdf?rlkey=e5q2csqr8brvaiqzr7fss4lqr&dl=0
-  slides2: https://www.dropbox.com/scl/fi/knnefoej991479tu0o1ax/VisualImitationF24.pdf?rlkey=a2ez9jub3855vgroksh496sp0&dl=0
+  slides:
+  slides2:
   video:
   notes:
   readings:
@@ -380,9 +380,8 @@
   lecturer: 
   title: >
     <strong>Summary so far - BUFFER</strong>
-  slides: https://www.dropbox.com/scl/fi/d5slfqqcs9lazeaq1td61/DiffusionPoliciesF24.pdf?rlkey=y97mdh29u2q835emsu50noi02&dl=0
-  # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
-  slides2: # https://www.dropbox.com/s/h2ll79l1vkv2jpa/VisualImitationF22.pdf?dl=0
+  slides:
+  slides2:
   video:
   notes:
   readings:
@@ -417,8 +416,8 @@
   lecturer:
   recitation: >
     <strong>Diffusion policies (cont.), HW3 Recitation</strong>
-  slides: https://www.dropbox.com/scl/fi/d5slfqqcs9lazeaq1td61/DiffusionPoliciesF24.pdf?rlkey=y97mdh29u2q835emsu50noi02&dl=0
-  slides2: https://docs.google.com/presentation/d/1uES95oq78rXfrjhwgTs6GkZlWaloAKalUCYUXNM17Fg/edit?usp=sharing
+  slides:
+  slides2:
   logistics:
 
 
@@ -426,7 +425,7 @@
   lecturer: 
   title: >
     <strong>Exploration 1: Optimism in the face of uncertainty, count-based exploration, intrinsic motivation, RND, go explore</strong>
-  slides: https://www.dropbox.com/scl/fi/fn8bonuqa2av892dgz7yo/MBRL_AlphaZero_F24.pdf?rlkey=1ido8b2glf4jwchr4ofmqeu8i&dl=0 
+  slides:
   video:
   notes:
   readings:
@@ -452,7 +451,7 @@
   lecturer:
   title: >
     <strong>Exploration 2: curiosity, maximum entropy exploration, bootstrapped ensembles </strong>
-  slides: # https://docs.google.com/presentation/d/17XbYHlHDZKwmSmBUmpc1GkeKYdiVPGu83sEnPTlaFsA/edit?usp=sharing
+  slides:
   video:
   notes:
   readings:
@@ -469,7 +468,7 @@
   #   <strong>MBRL in explicit and observable low-dimensional state spaces</strong>
   recitation: >
     <strong>MBRL in explicit and observable low-dimensional state spaces</strong>
-  slides:  https://www.dropbox.com/s/f4fvzrepzgrla7x/MBRLexplicitF24.pdf?dl=0
+  slides:
   video:
   notes:
   readings:
@@ -492,7 +491,7 @@
   lecturer: 
   title: >
     <strong>Offline RL 1: going beyond imitation, problem statement, challenges in doing offline RL, policy gradient methods / policy constraints</strong>
-  slides: https://www.dropbox.com/scl/fi/nvxgiv4v92o8qts25lxzf/MBRLRL_sensoryF24.pdf?rlkey=cyzkjls0uxblimsid9bs3auie&e=1&dl=0
+  slides:
   video:
   notes:
   readings:
@@ -539,7 +538,7 @@
   lecturer:
   title: >
     <strong>Offline RL 2: conservative methods, model-based approaches, modern model-free algorithms</strong>
-  slides: https://docs.google.com/presentation/d/1HZdC4zPOgWQUw5ay1LRaveW2ufZeTndKumA1IWsr-BI/edit?usp=sharing
+  slides:
   logistics:
   readings:
     - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
@@ -561,7 +560,7 @@
   lecturer: 
   title: >
     <strong>RL for POMDPs / meta-RL: Belief-space RL, POMDP solutions different from MDP solutions, RL^2, information-gathering actions vs optimal actions, </strong>
-  slides: https://www.dropbox.com/scl/fi/xah37vxqwldn0xzqb3uiz/MultimodalMBRL.pdf?rlkey=yo30w3iz5g46zl3fpi7pvdn4x&dl=0
+  slides:
   video:
   notes:
   readings:
@@ -583,7 +582,7 @@
   lecturer: 
   title: >
     <strong>sim2real history-conditioning + domain randomization robot locomotion, drone flying or robot acrobatics (all use PPO)</strong>
-  slides: https://www.dropbox.com/scl/fi/7om7rlolhrz9b8vdogqzs/deepexplorationF24.pdf?rlkey=np1k7aezql368mv8j5h9x33vz&dl=0
+  slides:
   video:
   notes:
   readings:
@@ -661,7 +660,7 @@
   lecturer: 
   title: >
     <strong>Foundations models for RL</strong>
-  slides: https://www.dropbox.com/scl/fi/7om7rlolhrz9b8vdogqzs/deepexplorationF24.pdf?rlkey=np1k7aezql368mv8j5h9x33vz&dl=0 
+  slides:
   notes:
   readings:
     - Liang et al.<a href="https://code-as-policies.github.io/" target="_blank">Code as Policies:Language Model Programs for Embodied Control</a>
@@ -700,7 +699,7 @@
   lecturer: 
   title: >
     <strong>RL for Training LLMs</strong>
-  slides: https://www.dropbox.com/scl/fi/1k8vpd665ujhh54x6nk5w/deep_rl_cmu_guest_lecture.pdf?rlkey=84b4apt7timyi3myz20ekyjcf&dl=0
+  slides:
   # https://www.dropbox.com/s/nncwth9z2uw1k0z/Languageandbehaviourlearning.pdf?dl=0
   # slides2: https://www.dropbox.com/scl/fi/bv56pdhop1q2iamy1lx8z/Gen2Sim-Final.pdf?rlkey=mjis0hxdbirymr4ulqk8712a8&dl=0
   notes:
@@ -739,8 +738,8 @@
   recitation:
   title: >
     <strong>RL for Training LLMs</strong>
-  slides: https://www.dropbox.com/scl/fi/aux0gnrw14b6n7q3vleua/sim2realS24.pdf?rlkey=z7ik66imupsz5q55yitvqm8i8&dl=0
-  slides2: https://www.dropbox.com/scl/fi/ikw77frg6w46i9irzfpcf/Gen2Sim.pdf?rlkey=ivv4599lo6ft77nbng1zt5new&dl=0
+  slides:
+  slides2:
   video:
   notes:
   readings:
@@ -804,7 +803,7 @@
   lecturer:
   title: >
     <strong></strong>
-  slides: https://www.dropbox.com/scl/fi/lrr8jxzsjzr0szk2y6i0j/1202Talk_GuanyaShi.pdf?rlkey=zagvhnj62zgj5vh0s916zzhd7&dl=0
+  slides:
   video:
   notes:
   readings:
@@ -821,8 +820,7 @@
   lecturer:
   title: >
     <strong></strong>
-  slides: https://www.dropbox.com/scl/fi/jo1b6nr0ncw8ztr361poc/Languageandbehaviourlearning_F24.pdf?rlkey=x5n8vnj3yg1t1zhs2stu1fuw0&dl=0
-  # https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
+  slides:
   video:
   notes:
   readings:
@@ -836,24 +834,18 @@
 - date: F 04/25
   lecturer:
   recitation:  <strong> Quiz 3 Review </strong>
-  slides: # https://docs.google.com/presentation/d/1oEXKoU-ZqTw68Lw3di0EKRWTR3kS5TnA8F5DG1_kBOI/edit#slide=id.p
-  slides2: # https://docs.google.com/presentation/d/1B9Sh52B58PPtvx9msQ3L5IcoKIibwMJNd6F9qEYU2VM/edit#slide=id.p
-  # https://docs.google.com/presentation/d/1xA0wI82tOqjuvXoJKWLbRmtMuAL9KZ-v/edit?usp=sharing&ouid=103079273328838065544&rtpof=true&sd=true
+  slides:
+  slides2:
   notes: 
   readings:
   logistics:
-
-
-- date: T 12/10
-  lecturer:
-  quiz: >
-    <strong></strong>
-  slides: 
-  notes: 
-  readings:
-  logistics:
-
-
-
-
-
+#
+#
+# - date: T 12/10
+#   lecturer:
+#   quiz: >
+#     <strong></strong>
+#   slides: 
+#   notes: 
+#   readings:
+#   logistics:
