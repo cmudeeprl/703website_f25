@@ -33,12 +33,9 @@
   title:
   recitation: >
     <strong>Neural Nets, PyTorch, OpenAI Gym, Bandits </strong>
-  slides:
+  slides: https://docs.google.com/presentation/d/1jBz-5LXm0QC8QD5Faqaopfqy46Prck-xclYLuQbBlAk/edit?usp=sharing
   notes: 
-  slides2: 
-  # slides2: 
   video:
-  notes2: 
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
     - Tensorflow tutorial <a href="https://colab.research.google.com/drive/1jswUbztJ7WB3EcxNN6hYr7dbmz01PL1H?usp=sharing" target=  "_blank">notebook</a>
