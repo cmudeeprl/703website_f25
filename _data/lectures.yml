@@ -67,14 +67,14 @@
     - <a href="https://arxiv.org/abs/1312.5602">DQN</a>
     - <a href="https://link.springer.com/chapter/10.1007/11564096_32">Neural Fitted Q-Iteration</a>
     - <a href="https://jmlr.org/papers/v15/dann14a.html">Policy Evaluation with Temporal Differences&#58; A Survey and Comparison</a>
-  logistics: <span class="event">HW1 out (tentative)</span> <br>
+  logistics: 
 
 
 - date: F 01/24
   lecturer:
   title:
   recitation: >
-    <strong>Bandits, MDPs & HW1</strong>
+    <strong>Bandits, MDPs </strong>
   slides:
   slides2:
   notes: 
@@ -191,7 +191,7 @@
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     # - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
   video:
-  logistics: <span class="deadline">HW1 due 11:59pm</span>,  <span class="event">HW2 out (tentative)</span> <br>
+  logistics: <span class="event">HW2 out (tentative)</span> <br>
 
 - date: W 02/12
   lecturer: 
