@@ -143,7 +143,7 @@
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     - <a href="https://arxiv.org/abs/1205.4839"> Off-Policy Actor Critic </a>
-  logistics:
+  logistics: <span class="event">HW1 out (tentative)</span> <br>
 
 
 - date: W 02/05
