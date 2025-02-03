@@ -137,7 +137,7 @@
   lecturer: 
   title: >
     <strong>Actor-Critic Methods</strong>
-  slides:
+  slides: https://www.dropbox.com/scl/fi/ykuvfne5htbw0s7dtqkfg/PG_S25.pdf?rlkey=70fu812b37bs451swlc7tevsn&dl=0
   video:
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -147,6 +147,18 @@
 
 
 - date: W 02/05
+  lecturer:
+  title:
+  recitation: >
+    <strong>HW1</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
+
+
+- date: F 02/07
   lecturer: 
   title: >
     <strong>Trust Region Constraints</strong>
@@ -166,18 +178,6 @@
     # - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
     # - <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
   video:
-  logistics:
-
-
-- date: F 02/07
-  lecturer:
-  title:
-  recitation: >
-    <strong>MCTS, TD Learning, Deep Q Learning, HW2 (DQN)</strong>
-  slides:
-  video:
-  notes:
-  readings:
   logistics:
 
 
