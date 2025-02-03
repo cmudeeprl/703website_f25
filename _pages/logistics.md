@@ -66,11 +66,11 @@ Students are required to **typeset written homework solutions using $$\LaTeX$$ a
 
 ### Quizzes
 
-**All** quizzes will be in-person and taken in the classroom on Gradescope using your personal laptop. We will use up to the full recitation time for quizzes 1 and 2. Please, make sure your device is sufficiently charged and bring your charger as backup. We cannot guarantee one power outlet per person. As an FYI, the last quiz is 3 hours and the date and time is set by the registrar.
+Quizzes will be either in-person and taken in the classroom on Gradescope using your personal laptop OR with pencil or paper. We will provide more information closer to the date of the quiz. We will use up to the full recitation time for quizzes 1 and 2. Please, make sure your device is sufficiently charged and bring your charger as backup. We cannot guarantee one power outlet per person. As an FYI, the last quiz is 3 hours and the date and time is set by the registrar.
 
 **Quiz 3** will consist of two parts. **(i)** A question part that is analogous to the first two quizzes which will test your understanding of all topics covered in this class including the assigned readings. There will be an emphasis on question that target content after Quiz 2; **(ii)** A paper reading part where we select a new (i.e., one not covered in class) RL paper for you to read and you will have to answer a set of questions that test your ability to understand the paper.
 
-The quizzes are open book, though no google search (or any online search) is allowed. You may can **only** access downloaded notes and papers. The quizzes are not cumulative and will only test a subset of the material, **but they can have questions that require you to know older material**.
+The quizzes will either be open book OR closed book. We will provide more information closer to the date of the quiz. For open book quizzes, no google search (or any online search) is allowed. You may can **only** access downloaded notes and papers. The quizzes are not cumulative and will only test a subset of the material, **but they can have questions that require you to know older material**.
 
 Each quiz will count equally toward the overall quiz grade.
 
