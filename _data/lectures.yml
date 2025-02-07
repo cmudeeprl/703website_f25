@@ -142,7 +142,7 @@
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
-    - <a href="https://arxiv.org/abs/1205.4839"> Off-Policy Actor Critic </a>
+    
   logistics: <span class="event">HW1 out (tentative)</span> <br>
 
 
@@ -161,8 +161,8 @@
 - date: F 02/07
   lecturer: 
   title: >
-    <strong>Trust Region Constraints</strong>
-  slides:
+    <strong>Actor Critic Methods (cont.)</strong>
+  slides: https://www.dropbox.com/scl/fi/ykuvfne5htbw0s7dtqkfg/PG_S25.pdf?rlkey=70fu812b37bs451swlc7tevsn&dl=0
   slides2:
   readings:
     - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
@@ -184,7 +184,7 @@
 - date: M 02/10
   lecturer: 
   title: >
-    <strong>Maximum Entropy RL, Distributional RL, Deterministic Policy Gradients</strong>
+    <strong>Trust Region Constraints, Maximum Entropy RL, Distributional RL, Deterministic Policy Gradients</strong>
   slides:
   readings:
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
@@ -192,6 +192,7 @@
     - Haarnoja et al. <a href="https://arxiv.org/abs/1702.08165"> Reinforcement Learning with Deep Energy Based Policies </a>
     - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290"> Soft Actor-Critic&#58; Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor </a>
     - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477"> Addressing Function Approximation Error in Actor-Critic Methods </a>
+    - <a href="https://arxiv.org/abs/1205.4839"> Off-Policy Actor Critic </a>
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch9.1-9.3, 9.6 and Ch10.1
     # - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
     # - <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
