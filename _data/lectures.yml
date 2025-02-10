@@ -185,7 +185,7 @@
   lecturer: 
   title: >
     <strong>Trust Region Constraints, Maximum Entropy RL, Distributional RL, Deterministic Policy Gradients</strong>
-  slides:
+  slides: https://drive.google.com/file/d/1ThmMtGzK3iDkl8WC8WavbWCx2jn2Gsc8/view?usp=sharing
   readings:
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     - Bellemare et al. <a href="https://arxiv.org/abs/1707.06887">A Distributional Perspective on Reinforcement Learning</a>
