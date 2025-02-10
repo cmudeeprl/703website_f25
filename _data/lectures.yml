@@ -300,7 +300,7 @@
     - <a href="https://arxiv.org/abs/1906.08253"> https://arxiv.org/abs/1906.08253 </a>
     - Rybkin et al. <a href="https://arxiv.org/abs/2106.13229"> Latent-space collocation </a>
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
-  logistics:
+  logistics: <span class="event">HW2 out (tentative)</span> <br>
 
 
 
@@ -330,7 +330,7 @@
     # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
     # - (optional) Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
     # - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
-  logistics: <span class="event">HW2 out (tentative)</span> <br>
+  logistics: 
 
 - date: F 02/28
   lecturer:
