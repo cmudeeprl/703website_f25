@@ -210,7 +210,7 @@
   lecturer: 
   title: >
     <strong>Trust Region methods</strong>
-  slides:
+  slides: https://drive.google.com/file/d/1ThmMtGzK3iDkl8WC8WavbWCx2jn2Gsc8/view?usp=sharing
   video:
   readings:
     - Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
