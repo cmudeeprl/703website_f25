@@ -184,14 +184,17 @@
 - date: M 02/10
   lecturer: 
   title: >
-    <strong>Trust Region Constraints, Maximum Entropy RL, Distributional RL, Deterministic Policy Gradients</strong>
+    <strong>Trust Region Methods</strong>
   slides: https://drive.google.com/file/d/1ThmMtGzK3iDkl8WC8WavbWCx2jn2Gsc8/view?usp=sharing
   readings:
-    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
-    - Bellemare et al. <a href="https://arxiv.org/abs/1707.06887">A Distributional Perspective on Reinforcement Learning</a>
-    - Haarnoja et al. <a href="https://arxiv.org/abs/1702.08165"> Reinforcement Learning with Deep Energy Based Policies </a>
-    - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290"> Soft Actor-Critic&#58; Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor </a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477"> Addressing Function Approximation Error in Actor-Critic Methods </a>
+    - Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
+    - Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
+    - Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
+    # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
+    # - Bellemare et al. <a href="https://arxiv.org/abs/1707.06887">A Distributional Perspective on Reinforcement Learning</a>
+    # - Haarnoja et al. <a href="https://arxiv.org/abs/1702.08165"> Reinforcement Learning with Deep Energy Based Policies </a>
+    # - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290"> Soft Actor-Critic&#58; Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor </a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477"> Addressing Function Approximation Error in Actor-Critic Methods </a>
     - <a href="https://arxiv.org/abs/1205.4839"> Off-Policy Actor Critic </a>
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch9.1-9.3, 9.6 and Ch10.1
     # - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
@@ -206,15 +209,18 @@
 - date: W 02/12
   lecturer: 
   title: >
-    <strong>Imitation Learning I: Behavioral Cloning, Online imitation learning</strong>
+    <strong>Trust Region methods</strong>
   slides:
   video:
   readings:
-    - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
-    - Bagnell et al. <a href="https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf"> An Invitation to Imitation </a>
-    - Ross et al. <a href="https://arxiv.org/abs/1011.0686"> A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning </a>
-    - Ho et al. <a href="https://arxiv.org/abs/1606.03476"> Generative Adversarial Imitation Learning </a>
-    - Fu et al. <a href="https://arxiv.org/abs/1710.11248"> Learning Robust Rewards with Adversarial Inverse Reinforcement Learning </a>
+    - Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
+    - Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
+    - Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
+    # - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    # - Bagnell et al. <a href="https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf"> An Invitation to Imitation </a>
+    # - Ross et al. <a href="https://arxiv.org/abs/1011.0686"> A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning </a>
+    # - Ho et al. <a href="https://arxiv.org/abs/1606.03476"> Generative Adversarial Imitation Learning </a>
+    # - Fu et al. <a href="https://arxiv.org/abs/1710.11248"> Learning Robust Rewards with Adversarial Inverse Reinforcement Learning </a>
     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     # - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
