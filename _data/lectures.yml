@@ -188,15 +188,15 @@
     <strong>Trust Region Methods</strong>
   slides: https://drive.google.com/file/d/1ThmMtGzK3iDkl8WC8WavbWCx2jn2Gsc8/view?usp=sharing
   readings:
-    - Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
-    - Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
-    - Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
+    - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
+    - (optional) Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
+    - (optional) Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     # - Bellemare et al. <a href="https://arxiv.org/abs/1707.06887">A Distributional Perspective on Reinforcement Learning</a>
     # - Haarnoja et al. <a href="https://arxiv.org/abs/1702.08165"> Reinforcement Learning with Deep Energy Based Policies </a>
     # - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290"> Soft Actor-Critic&#58; Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor </a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477"> Addressing Function Approximation Error in Actor-Critic Methods </a>
-    - <a href="https://arxiv.org/abs/1205.4839"> Off-Policy Actor Critic </a>
+    - (optional) <a href="https://arxiv.org/abs/1205.4839"> Off-Policy Actor Critic </a>
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch9.1-9.3, 9.6 and Ch10.1
     # - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
     # - <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
@@ -214,9 +214,9 @@
   slides: https://drive.google.com/file/d/1ThmMtGzK3iDkl8WC8WavbWCx2jn2Gsc8/view?usp=sharing
   video:
   readings:
-    - Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
-    - Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
-    - Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
+    - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
+    - (optional) Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
+    - (optional) Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
     # - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
     # - Bagnell et al. <a href="https://www.ri.cmu.edu/pub_files/2015/3/InvitationToImitation_3_1415.pdf"> An Invitation to Imitation </a>
     # - Ross et al. <a href="https://arxiv.org/abs/1011.0686"> A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning </a>
