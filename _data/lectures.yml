@@ -186,7 +186,7 @@
   lecturer: 
   title: >
     <strong>Trust Region Methods</strong>
-  slides: https://drive.google.com/file/d/1ThmMtGzK3iDkl8WC8WavbWCx2jn2Gsc8/view?usp=sharing
+  slides: https://drive.google.com/file/d/1KGei6N_UKnPYg47GY4cBE_Wm4aWXvAUQ/view?usp=sharing
   readings:
     - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
     - (optional) Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
@@ -211,7 +211,7 @@
   lecturer: 
   title: >
     <strong>Trust Region methods</strong>
-  slides: https://drive.google.com/file/d/1ThmMtGzK3iDkl8WC8WavbWCx2jn2Gsc8/view?usp=sharing
+  slides: https://drive.google.com/file/d/1KGei6N_UKnPYg47GY4cBE_Wm4aWXvAUQ/view?usp=sharing
   video:
   readings:
     - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
@@ -247,7 +247,7 @@
   lecturer: 
   title: >
     <strong>Trust Region Methods</strong>
-  slides: https://drive.google.com/file/d/1ThmMtGzK3iDkl8WC8WavbWCx2jn2Gsc8/view?usp=sharing
+  slides: https://drive.google.com/file/d/1KGei6N_UKnPYg47GY4cBE_Wm4aWXvAUQ/view?usp=sharing
   slides2:
            # https://www.dropbox.com/s/gziiw0emxsgjycf/maxentRL_2022.pdf?dl=0
   video:
