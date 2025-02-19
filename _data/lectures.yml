@@ -258,13 +258,16 @@
 - date: W 02/19
   lecturer: 
   title: >
-    <strong>Visual Imitation</strong>
-  slides:
+    <strong>Behavior Cloning, Generative Adversarial Imitation Learning</strong>
+  slides: https://www.dropbox.com/scl/fi/7hzgxtsm0p09vuy3f067i/immitationlearning_S25.pdf?rlkey=xb46ytdchfqn9i7pnaptyc5kz&dl=0
   video:
   notes:
   readings:
-    - Peng et al.  <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV:Reinforcement Learning of Physical Skills from Videos</a>
-    - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
+    - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
+    - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
+    - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    # - Peng et al.  <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV:Reinforcement Learning of Physical Skills from Videos</a>
+    # - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
     # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
     # - (optional) Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>
     # - (optional) Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
@@ -289,15 +292,19 @@
 - date: M 02/24
   lecturer: 
   title: >
-    <strong>Model Based RL I: Shooting / Collocation methods, Dyna</strong>
+    <strong>Multimodel Policies, Multitask Policies</strong>
   slides:
   slides2:
   video:
   readings:
-    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/122344.122377"> Dyna </a>
-    - <a href="https://arxiv.org/abs/1906.08253"> https://arxiv.org/abs/1906.08253 </a>
-    - Rybkin et al. <a href="https://arxiv.org/abs/2106.13229"> Latent-space collocation </a>
+    - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
+    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
+    - Black et al. <a href="https://arxiv.org/pdf/2410.24164" target="_blank"> π0&#58; A Vision-Language-Action Flow Model for General Robot Control</a>
+    - <a href="https://arxiv.org/abs/2304.13705"> Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware </a>
+    # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    # - <a href="https://dl.acm.org/doi/pdf/10.1145/122344.122377"> Dyna </a>
+    # - <a href="https://arxiv.org/abs/1906.08253"> https://arxiv.org/abs/1906.08253 </a>
+    # - Rybkin et al. <a href="https://arxiv.org/abs/2106.13229"> Latent-space collocation </a>
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
   logistics:
 
