@@ -246,18 +246,20 @@
 - date: M 02/17
   lecturer: 
   title: >
-    <strong>Imitation learning II:  Multimodal policies, Multitask Policies</strong>
+    <strong>Trust Region Methods</strong>
   slides:
   slides2:
            # https://www.dropbox.com/s/gziiw0emxsgjycf/maxentRL_2022.pdf?dl=0
   video:
   readings:
-    - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
-    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
-    - <a href="https://arxiv.org/html/2410.24164v1" target = "_blank">https://arxiv.org/html/2410.24164v1</a>
-    - <a href="https://arxiv.org/abs/2212.06817"> RT1 </a> (and its follow-ups)
-    - <a href="https://arxiv.org/abs/2304.13705"> Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware </a>
-    # - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    # - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
+    # - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
+    # - <a href="https://arxiv.org/html/2410.24164v1" target = "_blank">https://arxiv.org/html/2410.24164v1</a>
+    # - <a href="https://arxiv.org/abs/2212.06817"> RT1 </a> (and its follow-ups)
+    # - <a href="https://arxiv.org/abs/2304.13705"> Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware </a>
+    - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    - (optional) Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
+    - (optional) Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
     # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
     # - (optional) Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
   logistics: <span class="deadline">HW1 due 11:59PM</span>
@@ -308,7 +310,7 @@
     - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
     - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
     - Black et al. <a href="https://arxiv.org/pdf/2410.24164" target="_blank"> π0&#58; A Vision-Language-Action Flow Model for General Robot Control</a>
-    - <a href="https://arxiv.org/abs/2304.13705"> Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware </a>
+    - Zhao et al. <a href="https://arxiv.org/abs/2304.13705"> Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware </a>
     # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - <a href="https://dl.acm.org/doi/pdf/10.1145/122344.122377"> Dyna </a>
     # - <a href="https://arxiv.org/abs/1906.08253"> https://arxiv.org/abs/1906.08253 </a>
