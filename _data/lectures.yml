@@ -302,15 +302,15 @@
 - date: M 02/24
   lecturer: 
   title: >
-    <strong>Multimodel Policies, Multitask Policies</strong>
-  slides:
+    <strong>Multimodel Policies, Diffusion Policies</strong>
+  slides: https://www.dropbox.com/scl/fi/0m457u4lquyaxi9ss51lc/Diffusion_policiesS25.pdf?rlkey=cm0754yaqnv541uk5lovcensu&dl=0
   slides2:
   video:
   readings:
     - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
     - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
-    - Black et al. <a href="https://arxiv.org/pdf/2410.24164" target="_blank"> π0&#58; A Vision-Language-Action Flow Model for General Robot Control</a>
-    - Zhao et al. <a href="https://arxiv.org/abs/2304.13705"> Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware </a>
+    # - Black et al. <a href="https://arxiv.org/pdf/2410.24164" target="_blank"> π0&#58; A Vision-Language-Action Flow Model for General Robot Control</a>
+    # - Zhao et al. <a href="https://arxiv.org/abs/2304.13705"> Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware </a>
     # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - <a href="https://dl.acm.org/doi/pdf/10.1145/122344.122377"> Dyna </a>
     # - <a href="https://arxiv.org/abs/1906.08253"> https://arxiv.org/abs/1906.08253 </a>
