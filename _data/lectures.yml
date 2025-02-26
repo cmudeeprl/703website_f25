@@ -323,8 +323,9 @@
 - date: W 02/26
   lecturer: 
   title: >
-    <strong>Model Based RL II: Online planning, MCTS, AlphaGo, AlphaZero</strong>
-  slides:
+    <strong>Diffusion Policies (cont.) Evolutionary Methods for Policy Search</strong>
+  # <strong>Model Based RL II: Online planning, MCTS, AlphaGo, AlphaZero</strong>
+  slides: https://www.dropbox.com/scl/fi/m7aycxcoklapzr2kxgipy/evolutionarymethods_S25.pdf?rlkey=n0inshehi36y2378j2wd9n9pk&dl=0
   # slides2: https://www.dropbox.com/s/vsravny8bnnoytx/immitationlearning_F23_2.pdf?dl=0
   video:
   notes:
