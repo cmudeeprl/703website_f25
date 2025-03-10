@@ -384,7 +384,7 @@
   lecturer: 
   title: >
     <strong>Maximum Entropy RL, SAC, DDPG</strong>
-  slides:
+  slides: https://drive.google.com/file/d/1Lj2hyxAdoOktX6RftPwSwNBqjmLOKVp2/view?usp=sharing
   slides2:
   video:
   notes:
@@ -397,7 +397,6 @@
     # - Andrychowicz et al. <a href="https://arxiv.org/abs/1707.01495" target="_blank">Hindsight Experience Replay</a>
     # - Peng et al.  <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV:Reinforcement Learning of Physical Skills from Videos</a>
     # - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
-  logistics: <span class="event">HW3 out (tentative)</span>
 
 
 - date: W 03/12
@@ -412,8 +411,7 @@
     # - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
     # - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
     # - (optional) Nakkiran et al. <a href="https://arxiv.org/pdf/2406.08929" target="_blank">Step-by-Step Diffusion:An Elementary Tutorial</a>
-  logistics:  <span class="deadline">HW2 due Thurs 11:59PM</span>
-
+  logistics:  <span class="deadline">HW2 due Thurs 11:59PM, HW3 out (tentative)</span>
 
 
 # - date: W 10/23
