@@ -402,16 +402,20 @@
 - date: W 03/12
   lecturer: 
   title: >
-    <strong>Summary so far - BUFFER</strong>
-  slides:
-  slides2:
+    <strong>Maximum Entropy RL, SAC, DDPG, Model-based RL</strong>
+  slides: https://drive.google.com/file/d/1Lj2hyxAdoOktX6RftPwSwNBqjmLOKVp2/view?usp=sharing
+  slides2: https://drive.google.com/file/d/1sKR0b0AnHgO2FQwhEpH35EaYM1176sQ8/view?usp=sharing
   video:
   notes:
   readings:
+    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
+    - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905">Soft Actor-Critic&#58; Algorithms and Applications</a>
+    - Haarnoja et al. <a href="https://arxiv.org/abs/1702.08165">Reinforcement Learning with Deep Energy Based Policies</a>
+    
     # - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
     # - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
     # - (optional) Nakkiran et al. <a href="https://arxiv.org/pdf/2406.08929" target="_blank">Step-by-Step Diffusion:An Elementary Tutorial</a>
-  logistics:  <span class="deadline">HW2 due 11:59PM, HW3 out (tentative)</span>
+  logistics:  <span class="deadline">HW2 due Thursday 3/13 11:59PM, HW3 out (tentative)</span>
 
 
 # - date: W 10/23
