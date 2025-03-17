@@ -441,7 +441,7 @@
 - date: F 03/14
   lecturer:
   recitation: >
-    <strong>Diffusion policies (cont.), HW3 Recitation</strong>
+    <strong>Diffusion policies (cont.)</strong>
   slides:
   slides2:
   logistics:
@@ -450,8 +450,8 @@
 - date: M 03/17
   lecturer: 
   title: >
-    <strong>Exploration 1: Optimism in the face of uncertainty, count-based exploration, intrinsic motivation, RND, go explore</strong>
-  slides:
+    <strong>MBRL, Exploration 1: Optimism in the face of uncertainty, count-based exploration, intrinsic motivation, RND, go explore</strong>
+  slides: https://drive.google.com/file/d/1sKR0b0AnHgO2FQwhEpH35EaYM1176sQ8/view?usp=sharing
   video:
   notes:
   readings:
