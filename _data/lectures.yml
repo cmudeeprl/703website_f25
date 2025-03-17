@@ -402,9 +402,9 @@
 - date: W 03/12
   lecturer: 
   title: >
-    <strong>Maximum Entropy RL, SAC, DDPG, Model-based RL</strong>
+    <strong>Maximum Entropy RL, SAC, DDPG</strong>
   slides: https://drive.google.com/file/d/1yb9FWncLrQ1dadqhWSew21Rolyj3YFFX/view?usp=sharing
-  slides2: https://drive.google.com/file/d/1sKR0b0AnHgO2FQwhEpH35EaYM1176sQ8/view?usp=sharing
+  # slides2: https://drive.google.com/file/d/1sKR0b0AnHgO2FQwhEpH35EaYM1176sQ8/view?usp=sharing
   video:
   notes:
   readings:
@@ -450,17 +450,18 @@
 - date: M 03/17
   lecturer: 
   title: >
-    <strong>MBRL, Exploration 1: Optimism in the face of uncertainty, count-based exploration, intrinsic motivation, RND, go explore</strong>
+    <strong>Model-based RL</strong>
   slides: https://drive.google.com/file/d/1sKR0b0AnHgO2FQwhEpH35EaYM1176sQ8/view?usp=sharing
   video:
   notes:
   readings:
-    - <a href="https://arxiv.org/abs/1606.01868" target = "_blank">https://arxiv.org/abs/1606.01868</a>
-    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
-    - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
-    - <a href="https://arxiv.org/abs/1810.12894"> Exploration by random network distillation </a>
-    - <a href="https://arxiv.org/abs/1703.01310"> Count-Based Exploration with Neural Density Models </a>
-    - <a href="https://arxiv.org/abs/1606.01868"> Unifying Count-Based Exploration and Intrinsic Motivation </a>
+    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    # - <a href="https://arxiv.org/abs/1606.01868" target = "_blank">https://arxiv.org/abs/1606.01868</a>
+    # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
+    # - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
+    # - <a href="https://arxiv.org/abs/1810.12894"> Exploration by random network distillation </a>
+    # - <a href="https://arxiv.org/abs/1703.01310"> Count-Based Exploration with Neural Density Models </a>
+    # - <a href="https://arxiv.org/abs/1606.01868"> Unifying Count-Based Exploration and Intrinsic Motivation </a>
     # - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     # - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
     # - (optional) David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
