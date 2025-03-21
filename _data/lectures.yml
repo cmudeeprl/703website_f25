@@ -583,7 +583,7 @@
 - date: F 03/28
   lecturer:
   quiz: >
-    <strong> Quiz 2 </strong>
+    <strong>Quiz 2 Review</strong>
   slides:
   logistics:
 
@@ -612,15 +612,15 @@
 - date: W 04/02
   lecturer: 
   title: >
-    <strong>sim2real history-conditioning + domain randomization robot locomotion, drone flying or robot acrobatics (all use PPO)</strong>
+    <strong>Quiz 2</strong>
   slides:
   video:
   notes:
   readings:
-    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-    - <a href="https://arxiv.org/pdf/2406.10759" target = "_blank">https://arxiv.org/pdf/2406.10759</a>
+    # - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+    # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    # - <a href="https://arxiv.org/pdf/2406.10759" target = "_blank">https://arxiv.org/pdf/2406.10759</a>
     # - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
     # - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
     # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
