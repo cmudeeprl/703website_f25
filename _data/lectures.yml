@@ -670,12 +670,16 @@
 - date: M 04/07
   lecturer: 
   title: >
-    <strong>Foundations models for RL</strong>
+    <strong>Offline RL 1: going beyond imitation, problem statement, challenges in doing offline RL, policy gradient methods / policy constraints</strong>
   slides:
   notes:
   readings:
-    - Liang et al.<a href="https://code-as-policies.github.io/" target="_blank">Code as Policies:Language Model Programs for Embodied Control</a>
-    - <a href="https://arxiv.org/abs/2311.01455" target = "_blank">https://arxiv.org/abs/2311.01455</a>
+    - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
+    - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
+    # - Liang et al.<a href="https://code-as-policies.github.io/" target="_blank">Code as Policies:Language Model Programs for Embodied Control</a>
+    # - <a href="https://arxiv.org/abs/2311.01455" target = "_blank">https://arxiv.org/abs/2311.01455</a>
     # - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
     # - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
     # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
@@ -709,12 +713,18 @@
 - date: W 04/09
   lecturer: 
   title: >
-    <strong>RL for Training LLMs</strong>
+    <strong>Offline RL 2: conservative methods, model-based approaches, modern model-free algorithms</strong>
   slides:
   # https://www.dropbox.com/s/nncwth9z2uw1k0z/Languageandbehaviourlearning.pdf?dl=0
   # slides2: https://www.dropbox.com/scl/fi/bv56pdhop1q2iamy1lx8z/Gen2Sim-Final.pdf?rlkey=mjis0hxdbirymr4ulqk8712a8&dl=0
   notes:
   readings:
+    - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
+    - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
+    - Sobol Mark et al. <a href="https://policyagnosticrl.github.io/"> Policy Agnostic RL </a>
+    - Kostrikov et al. <a href="https://arxiv.org/abs/2110.06169"> Offline RL with Implicit Q-Learning </a>
+    - Yu et al. <a href="https://arxiv.org/abs/2102.08363"> Conservative offline Model-Based Policy Optimization </a>
+    - Kidambi et al. <a href="https://arxiv.org/abs/2005.05951"> Model-Based Offline Reinforcement Learning </a>
     # - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
     # - Kumar et al. <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home" target="_blank">Offline Reinforcement Learning From Algorithms to Practical Challenges</a>
     # - Kumar et al. <a href="https://arxiv.org/abs/2211.15144" target="_blank">Offline Q-Learning on Diverse Multi-Task Data Both Scales And Generalizes</a>
@@ -748,7 +758,7 @@
   lecturer:
   recitation:
   title: >
-    <strong>RL for Training LLMs</strong>
+    <strong>Intelligent Exploration</strong>
   slides:
   slides2:
   video:
@@ -789,7 +799,7 @@
 - date: W 04/16
   lecturer:
   title: >
-    <strong></strong>
+    <strong>Sim2Real Learning</strong>
   slides: 
   slides2: 
   video:
@@ -802,7 +812,7 @@
 - date: F 04/18
   lecturer:
   recitation: >
-    <strong> No Recitation - Thanksgiving Break </strong>
+    <strong></strong>
   slides: 
   slides2: 
   video:
@@ -813,7 +823,7 @@
 - date: M 04/21
   lecturer:
   title: >
-    <strong></strong>
+    <strong>RL for Training LLMs</strong>
   slides:
   video:
   notes:
@@ -830,7 +840,7 @@
 - date: W 04/23
   lecturer:
   title: >
-    <strong></strong>
+    <strong>RL/meta RL for training LLMs</strong>
   slides:
   video:
   notes:
@@ -850,13 +860,13 @@
   notes: 
   readings:
   logistics:
-#
-#
-# - date: T 12/10
-#   lecturer:
-#   quiz: >
-#     <strong></strong>
-#   slides: 
-#   notes: 
-#   readings:
-#   logistics:
+
+
+- date: F 05/02
+  lecturer:
+  quiz: >
+    <strong>Quiz 3, 8:30am - 11:30am</strong>
+  slides: 
+  notes: 
+  readings:
+  logistics:
