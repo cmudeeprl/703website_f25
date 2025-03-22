@@ -521,15 +521,15 @@
 - date: M 03/24
   lecturer: 
   title: >
-    <strong>Offline RL 1: going beyond imitation, problem statement, challenges in doing offline RL, policy gradient methods / policy constraints</strong>
+    <strong>MBRL (cont.)</strong>
   slides:
   video:
   notes:
   readings:
-    - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
-    - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
+    # - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
+    # - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
     # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
     # - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
     # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
@@ -545,45 +545,25 @@
     # - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
   logistics:  <span class="event">HW4 out (tentative)</span>
 
-
-
-# - date: M 11/04
-#   lecturer: 
-#   title: >
-#     <strong>MBRL (cont.) Stochastic Latent Dynamics Models </strong>
-#   slides: # https://www.dropbox.com/scl/fi/0qwo7fij908854wu4ccmo/MBRLRL_latentF23_2.pdf?rlkey=2mooeximjptibju9n7xklwvdg&dl=0
-#   slides2: # https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
-#   video:
-#   notes:
-#   readings:
-#     - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
-#     - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-#     # - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank"> MuZero:Mastering Go, chess, shogi and Atari without rules</a>
-#     # - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target = "_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
-#     # - Hafner, et.al <a href="https://arxiv.org/abs/2010.02193" target="_blank">Mastering Atari with Discrete World Models</a>
-#   logistics: <span class="event">HW4 out (tentative)</span>,  <span class="deadline">HW3 due 11:59PM</span>
-
-
-
 - date: W 03/26
   lecturer:
   title: >
-    <strong>Offline RL 2: conservative methods, model-based approaches, modern model-free algorithms</strong>
+    <strong>MBRL (cont.)</strong>
   slides:
   logistics:
   readings:
-    - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
-    - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
-    - Sobol Mark et al. <a href="https://policyagnosticrl.github.io/"> Policy Agnostic RL </a>
-    - Kostrikov et al. <a href="https://arxiv.org/abs/2110.06169"> Offline RL with Implicit Q-Learning </a>
-    - Yu et al. <a href="https://arxiv.org/abs/2102.08363"> Conservative offline Model-Based Policy Optimization </a>
-    - Kidambi et al. <a href="https://arxiv.org/abs/2005.05951"> Model-Based Offline Reinforcement Learning </a>
+    # - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
+    # - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
+    # - Sobol Mark et al. <a href="https://policyagnosticrl.github.io/"> Policy Agnostic RL </a>
+    # - Kostrikov et al. <a href="https://arxiv.org/abs/2110.06169"> Offline RL with Implicit Q-Learning </a>
+    # - Yu et al. <a href="https://arxiv.org/abs/2102.08363"> Conservative offline Model-Based Policy Optimization </a>
+    # - Kidambi et al. <a href="https://arxiv.org/abs/2005.05951"> Model-Based Offline Reinforcement Learning </a>
 
 
 - date: F 03/28
   lecturer:
   quiz: >
-    <strong>Quiz 2 Review</strong>
+    <strong>Visual Imitation / Quiz 2 Review</strong>
   slides:
   logistics:
 
