@@ -530,7 +530,7 @@
     # - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     # - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
-    # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
     - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
     - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
     - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
@@ -562,7 +562,7 @@
 
 - date: F 03/28
   lecturer:
-  quiz: >
+  recitation: >
     <strong>Visual Imitation / Quiz 2 Review</strong>
   slides:
   logistics:
@@ -591,7 +591,7 @@
 
 - date: W 04/02
   lecturer: 
-  title: >
+  quiz: >
     <strong>Quiz 2</strong>
   slides:
   video:
@@ -646,7 +646,7 @@
 #     # - (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
 #     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a>
 #     # - Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
-    - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
 #     # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
 #   logistics:
 
@@ -739,7 +739,7 @@
     # - Driess et al. <a href="https://palm-e.github.io/assets/palm-e.pdf" target="_blank">PaLM-E:An Embodied Multimodal Language Model</a>
     # - Zeng et. al <a href="https://transporternets.github.io" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
     # - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
-  logistics:  <span class="event">HW4 out (tentative)</span> <span class="deadline">HW3 due 11:59pm</span>
+  logistics:  <span class="event">HW4 out</span> <span class="deadline">HW3 due 11:59pm</span>
   
   
 
@@ -747,7 +747,7 @@
 - date: F 04/11
   lecturer:
   recitation: >
-    <strong> Homework 5 </strong>
+    <strong> HW 4 </strong>
   slides: # https://www.dropbox.com/scl/fi/ku7tgu0dx5pqkwkmgwz2f/deepexplorationS24.pdf?rlkey=tdz9uh1t2nyxt206vnd3091rv&dl=0
   notes:
   readings:
