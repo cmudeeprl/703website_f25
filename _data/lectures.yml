@@ -566,8 +566,11 @@
   lecturer:
   title: >
     <strong>Visual Imitation / Quiz 2 Review</strong>
-  slides:
+  slides: https://www.dropbox.com/scl/fi/7kbgmytk03je5ma1wen92/VisualImitationF25.pdf?rlkey=6qdwfrmg5j3tqge6l9uhp4gmp&dl=0
   logistics:
+  readings:
+    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
+    - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
 
 - date: M 03/31
   lecturer: 
