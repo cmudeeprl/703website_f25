@@ -679,7 +679,7 @@
   lecturer: 
   title: >
     <strong>Offline RL 1: going beyond imitation, problem statement, challenges in doing offline RL, policy gradient methods / policy constraints</strong>
-  slides:
+  slides: https://drive.google.com/file/d/1i18PCX_qG5nXxWkb9Zzb833WOsfzFTjr/view?usp=sharing
   notes:
   readings:
     - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
@@ -722,7 +722,7 @@
   lecturer: 
   title: >
     <strong>Offline RL 2: conservative methods, model-based approaches, modern model-free algorithms</strong>
-  slides:
+  slides: https://drive.google.com/file/d/1i18PCX_qG5nXxWkb9Zzb833WOsfzFTjr/view?usp=sharing
   # https://www.dropbox.com/s/nncwth9z2uw1k0z/Languageandbehaviourlearning.pdf?dl=0
   # slides2: https://www.dropbox.com/scl/fi/bv56pdhop1q2iamy1lx8z/Gen2Sim-Final.pdf?rlkey=mjis0hxdbirymr4ulqk8712a8&dl=0
   notes:
