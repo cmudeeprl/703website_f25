@@ -857,7 +857,7 @@
     # - Shridhar et al. <a href="https://cliport.github.io/" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
     # - Brown et al. <a href="https://arxiv.org/abs/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
     # - Liang et al. <a href="https://code-as-policies.github.io/" target="_blank">Code as Policies Language Model Programs for Embodied Control</a>
-  logistics:
+  logistics:  <span class="deadline">HW4 due 11:59pm</span>
 
 
 - date: F 04/25
