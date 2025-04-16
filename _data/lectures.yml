@@ -807,12 +807,15 @@
 - date: W 04/16
   lecturer:
   title: >
-    <strong>Sim2Real Learning</strong>
-  slides: 
+    <strong>Intelligent Exploration (cont.)</strong>
+  slides: https://drive.google.com/file/d/10BwR8uqMVZxgLxCBYw1C3FdlYs82rcvX/view?usp=sharing
   slides2: 
   video:
   notes:
   readings:
+    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
+
   logistics:
   
 
