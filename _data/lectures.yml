@@ -847,7 +847,7 @@
     # - (optional) Xue et al. <a href="https://lecar-lab.github.io/dial-mpc/" target="_blank">Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing</a>
     # - (optional) Yang et al. <a href="https://yxyang.github.io/jumping_cod/" target="_blank">Agile Continuous Jumping in Discontinuous Terrains</a>
     - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback<\a>
-    - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank"> Direct Preference Optimization: A New RLHF Approach<\a>
+    - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank"> Direct Preference Optimization&#58; A New RLHF Approach<\a>
     - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study<\a>
     
   logistics:
@@ -856,7 +856,7 @@
 - date: W 04/23
   lecturer:
   title: >
-    <strong>Foundation Models for RL/strong>
+    <strong>Foundation Models for RL</strong>
   slides: https://drive.google.com/file/d/1hGUotMNQqyD1wo2QcrBtRSoSlVnqwuVs/view?usp=sharing
   
   video:
