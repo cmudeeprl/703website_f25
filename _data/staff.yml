@@ -21,13 +21,6 @@ EducationAssociates:
       image: staff/Joshmin.jpeg
 
 TAs:
-    - name: Eyob Dagnachew
-      email: edagnach@andrew.cmu.edu
-      url:
-      office-hours: Friday 4:00 - 5:00pm
-      location: GHC 4211 
-      image: staff/Eyob.jpg
-   
     - name: Douglas Chen
       email: dchen3@andrew.cmu.edu
       url: 
@@ -35,23 +28,4 @@ TAs:
       location: GHC 4211
       image: staff/Douglas_Chen.jpg
    
-    - name: Arshika Lalan
-      email: alalan@andrew.cmu.edu
-      url: https://arshika77.github.io/
-      office-hours: 
-      location:  
-      image: staff/arshikal.jpg
-
-    - name: Marian Qian
-      email: marianq@andrew.cmu.edu
-      url:
-      office-hours: Wednesday 3:00 - 4:00pm
-      location: GHC 4101 
-      image: staff/Marian.jpg
-
-    - name:  Yingtao Luo
-      email: yingtaol@andrew.cmu.edu
-      url: https://yingtaoluo.github.io/
-      office-hours: Wednesday 2:00 - 3:00pm
-      location: Zoom (link on Piazza)
-      image: staff/yingtao.jpg
+ 
