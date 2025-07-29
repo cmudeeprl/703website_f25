@@ -659,23 +659,7 @@
 #   logistics:
 
 
-
 - date: F 11/14
-  lecturer: 
-  quiz: >
-    <strong> Quiz 2 </strong>
-  logistics:
-
-# - date: F 04/04
-#   lecturer:
-#   recitation: >
-#     <strong> Solutions to Quiz 2 </strong>
-#   slides: # https://www.dropbox.com/scl/fi/ku7tgu0dx5pqkwkmgwz2f/deepexplorationS24.pdf?rlkey=tdz9uh1t2nyxt206vnd3091rv&dl=0
-#   notes:
-#   readings:
-#   logistics:
-#
-- date: M 11/17
   lecturer: 
   title: >
     <strong>Offline RL 1: going beyond imitation, problem statement, challenges in doing offline RL, policy gradient methods / policy constraints</strong>
@@ -699,26 +683,8 @@
     # - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
 
-# - date: M 11/18
-#   lecturer:
-#   recitation:
-#   title: >
-#     <strong>Sim2Real Transfer</strong>
-#   slides: # https://www.dropbox.com/s/jf1nx5qog5mmw2k/sim2realS24.pdf?dl=0
-#   video:
-#   notes:
-#   readings:
-#     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-#     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-#     - (Optional) Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-#     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-#     # - Chen et al.<a href="https://arxiv.org/abs/2106.01345" target="_blank">Decision Transformer:Reinforcement Learning via Sequence Modeling</a>
-#     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-#     # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
-#   logistics:  <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
 
-
-- date: W 11/19
+- date: M 11/17
   lecturer: 
   title: >
     <strong>Offline RL 2: conservative methods, model-based approaches, modern model-free algorithms</strong>
@@ -750,7 +716,18 @@
   logistics:  <span class="event">HW4 out</span> <span class="deadline">HW3 due 11:59pm</span>
   
   
-
+- date: W 11/19
+  title: >
+    <strong>Intelligent Exploration</strong>
+  slides: https://drive.google.com/file/d/10BwR8uqMVZxgLxCBYw1C3FdlYs82rcvX/view?usp=sharing
+  slides2:
+  video:
+  notes:
+  readings:
+      - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+      - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
+  
+  logistics:
 
 - date: F 11/21
   lecturer:
@@ -761,23 +738,21 @@
   readings:
   logistics:
 
-
 - date: M 11/24
-  title: >
-    <strong>Intelligent Exploration</strong>
-  slides: https://drive.google.com/file/d/10BwR8uqMVZxgLxCBYw1C3FdlYs82rcvX/view?usp=sharing
-  slides2:
+  lecturer:
+  recitation: >
+    <strong>Sim2Real Policy Learning</strong>
+  slides: https://www.dropbox.com/scl/fi/ueu3p3snz3jw4zv3h853i/sim2realS25.pdf?rlkey=zxtiiv8vr48k9motlumjrbeje&dl=0
+  slides2: 
   video:
   notes:
   readings:
-    # - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-    # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-    # - (Optional) Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-    # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-    # - Chen et al.<a href="https://arxiv.org/abs/2106.01345" target="_blank">Decision Transformer:Reinforcement Learning via Sequence Modeling</a>
-    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+
   logistics:
+  
 
 - date: W 11/26
   lecturer:
@@ -792,36 +767,6 @@
   logistics:
 
 
-  
-
-#- date: W 11/26
-#  lecturer:
-#  title: >
-#    <strong>Intelligent Exploration (cont.), Sim2Real Policy Learning</strong>
-#  slides: https://drive.google.com/file/d/10BwR8uqMVZxgLxCBYw1C3FdlYs82rcvX/view?usp=sharing
-#  slides2: https://www.dropbox.com/scl/fi/ueu3p3snz3jw4zv3h853i/sim2realS25.pdf?rlkey=zxtiiv8vr48k9motlumjrbeje&dl=0
-#  video:
-#  notes:
-#  readings:
-#    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
-#    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
-#    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-#    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-#  logistics:
-  
-
-
-#- date: F 11/28
-#  lecturer:
-#  recitation: >
-#    <strong>Sim2Real Policy Learning (cont.), Quiz 2 Solutions</strong>
-#  slides: https://www.dropbox.com/scl/fi/ueu3p3snz3jw4zv3h853i/sim2realS25.pdf?rlkey=zxtiiv8vr48k9motlumjrbeje&dl=0
-#  slides2: 
-#  video:
-#  notes:
-#  readings:
-#    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-#  logistics:
   
 - date: M 12/01
   lecturer:
