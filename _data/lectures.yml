@@ -1,4 +1,4 @@
-- date: M 01/13
+- date: M 08/25
   lecturer: 
   title: >
     <strong>Introduction to Reinforcement and Representation Learning</strong>
@@ -11,7 +11,7 @@
     - (optional) Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
   logistics:
 
-- date: W 01/15
+- date: W 08/27
   lecturer: 
   title: >
     <strong>Multi-armed Bandits</strong>
@@ -28,7 +28,7 @@
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
   logistics:
 
-- date: F 01/17
+- date: F 08/29
   lecturer:
   title:
   recitation: >
@@ -46,15 +46,15 @@
 
 
 
-- date: M 01/20
+- date: M 09/01
   lecturer: 
   quiz: >
-    <strong>No Class, MLK Jr Day</strong>
+    <strong>No Class, Labor Day</strong>
   logistics:
 
 
   
-- date: W 01/22
+- date: W 09/03
   lecturer: 
   title: >
     <strong>Value-based Methods</strong>
@@ -70,7 +70,7 @@
   logistics: 
 
 
-- date: F 01/24
+- date: F 09/05
   lecturer:
   title:
   recitation: >
@@ -83,7 +83,7 @@
   logistics:
 
 
-- date: M 01/27
+- date: M 09/08
   lecturer: 
   title: >
     <strong>Value-based Methods (cont.)</strong>
@@ -102,7 +102,7 @@
   logistics:
 
 
-- date: W 01/29
+- date: W 09/10
   lecturer: 
   title: >
     <strong>Value based methods cont. (DQN, MCTS)</strong>
@@ -126,14 +126,14 @@
   logistics:
 
 
-- date: F 01/31
+- date: F 09/12
   lecturer:
   quiz: >
     <strong>No Recitation</strong>
   logistics:
 
 
-- date: M 02/03
+- date: M 09/15
   lecturer: 
   title: >
     <strong>Actor-Critic Methods</strong>
@@ -146,7 +146,7 @@
   logistics: <span class="event">HW1 out (tentative)</span> <br>
 
 
-- date: W 02/05
+- date: W 09/17
   lecturer:
   title:
   recitation: >
@@ -158,7 +158,7 @@
   logistics:
 
 
-- date: F 02/07
+- date: F 09/19
   lecturer: 
   title: >
     <strong>Actor Critic Methods (cont.)</strong>
@@ -182,7 +182,7 @@
   logistics:
 
 
-- date: M 02/10
+- date: M 09/22
   lecturer: 
   title: >
     <strong>Trust Region Methods</strong>
@@ -207,7 +207,7 @@
   video:
   logistics: 
 
-- date: W 02/12
+- date: W 09/24
   lecturer: 
   title: >
     <strong>Trust Region methods</strong>
@@ -231,7 +231,7 @@
   logistics:
 
 
-- date: F 02/14
+- date: F 09/26
   lecturer:
   title:
   recitation: >
@@ -243,7 +243,7 @@
   logistics:
 
 
-- date: M 02/17
+- date: M 09/29
   lecturer: 
   title: >
     <strong>Trust Region Methods</strong>
@@ -265,7 +265,7 @@
   logistics: <span class="deadline">HW1 due 11:59PM</span>
 
 
-- date: W 02/19
+- date: W 10/01
   lecturer: 
   title: >
     <strong>Behavior Cloning, Generative Adversarial Imitation Learning</strong>
@@ -284,7 +284,7 @@
   logistics:
 
 
-- date: F 02/21
+- date: F 10/03
   lecturer:
   # title:
   recitation:
@@ -299,7 +299,7 @@
   logistics:
 
 
-- date: M 02/24
+- date: M 10/06
   lecturer: 
   title: >
     <strong>Multimodel Policies, Diffusion Policies</strong>
@@ -320,7 +320,7 @@
 
 
 
-- date: W 02/26
+- date: W 10/08
   lecturer: 
   title: >
     <strong>Diffusion Policies (cont.) Evolutionary Methods for Policy Search</strong>
@@ -349,7 +349,7 @@
     # - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
   logistics:  <span class="event">HW2 out (tentative)</span> <br>
 
-- date: F 02/28
+- date: F 10/10
   lecturer:
   title:
   recitation: >
@@ -359,28 +359,28 @@
   logistics: 
 
 
-- date: M 03/03
+- date: M 10/13
   lecturer:
   quiz: >
-    <strong>Spring Break - No Classes</strong>
+    <strong>Fall Break - No Classes</strong>
   logistics:
 
 
-- date: W 03/05
+- date: W 10/15
   lecturer:
   quiz: >
-    <strong>Spring Break - No Classes</strong>
+    <strong>Fall Break - No Classes</strong>
   logistics:
 
 
-- date: F 03/07
+- date: F 10/17
   lecturer:
   quiz: >
-    <strong>Spring Break - No Classes</strong>
+    <strong>Fall Break - No Classes</strong>
   logistics:
 
 
-- date: M 03/10
+- date: M 10/20
   lecturer: 
   title: >
     <strong>Maximum Entropy RL, SAC, DDPG</strong>
@@ -399,7 +399,7 @@
     # - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
 
 
-- date: W 03/12
+- date: W 10/22
   lecturer: 
   title: >
     <strong>Maximum Entropy RL, SAC, DDPG</strong>
@@ -415,7 +415,7 @@
     # - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
     # - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
     # - (optional) Nakkiran et al. <a href="https://arxiv.org/pdf/2406.08929" target="_blank">Step-by-Step Diffusion:An Elementary Tutorial</a>
-  logistics:  <span class="deadline">HW2 due Thursday 3/13 11:59PM</span>
+  logistics:  <span class="deadline">HW2 due Thursday 10/23 11:59PM</span>
 
 
 # - date: W 10/23
@@ -438,7 +438,7 @@
 #   logistics: 
 
 
-- date: F 03/14
+- date: F 10/24
   lecturer:
   recitation: >
     <strong>Diffusion policies (cont.)</strong>
@@ -447,7 +447,7 @@
   logistics:
 
 
-- date: M 03/17
+- date: M 10/27
   lecturer: 
   title: >
     <strong>Introduction to Model-Based Reinforcement Learning</strong>
@@ -474,7 +474,7 @@
   logistics: 
 
 
-- date: W 03/19
+- date: W 10/29
   lecturer:
   title: >
     <strong>AlphaGo, AlphaGoZero, AlphaZero</strong>
@@ -491,9 +491,9 @@
     # - Hazan et al. <a href="https://proceedings.mlr.press/v97/hazan19a/hazan19a.pdf"> Provably Efficient Maximum Entropy Exploration </a>
     # - Fu et al. <a href="https://arxiv.org/abs/1703.01260"> EX2&#58; Exploration with Exemplar Models for Deep Reinforcement Learning </a>
     # - Osband et al. <a href="https://arxiv.org/abs/1703.07608"> Deep Exploration via Randomized Value Functions </a>
-  logistics:  <span class="event">HW3 out</span> <br>
+  logistics:  <span class="event">HW3 out (tentative)</span> <br>
 
-- date: F 03/21
+- date: F 10/31
   lecturer: 
   # title: >
   #   <strong>MBRL in explicit and observable low-dimensional state spaces</strong>
@@ -518,7 +518,7 @@
 
 
 
-- date: M 03/24
+- date: M 11/03
   lecturer: 
   title: >
     <strong>MBRL from sensory input</strong>
@@ -545,7 +545,7 @@
     # - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
   logistics:
 
-- date: W 03/26
+- date: W 11/05
   lecturer:
   title: >
     <strong>MBRL (cont.)</strong>
@@ -562,7 +562,7 @@
     # - Kidambi et al. <a href="https://arxiv.org/abs/2005.05951"> Model-Based Offline Reinforcement Learning </a>
 
 
-- date: F 03/28
+- date: F 11/07
   lecturer:
   title: >
     <strong>Visual Imitation / Quiz 2 Review</strong>
@@ -572,7 +572,7 @@
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
     - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
 
-- date: M 03/31
+- date: M 11/10
   lecturer: 
   title: >
     <strong>Multigoal Reinforcement Learning, MBRL with multimodal dynamics</strong>
@@ -597,7 +597,7 @@
   logistics:
 
 
-- date: W 04/02
+- date: W 11/12
   lecturer: 
   quiz: >
     <strong>Quiz 2</strong>
@@ -660,10 +660,10 @@
 
 
 
-- date: F 04/04
+- date: F 11/14
   lecturer: 
   quiz: >
-    <strong>No Class, Spring Carnvial</strong>
+    <strong> Quiz 2 </strong>
   logistics:
 
 # - date: F 04/04
@@ -675,7 +675,7 @@
 #   readings:
 #   logistics:
 #
-- date: M 04/07
+- date: M 11/17
   lecturer: 
   title: >
     <strong>Offline RL 1: going beyond imitation, problem statement, challenges in doing offline RL, policy gradient methods / policy constraints</strong>
@@ -718,7 +718,7 @@
 #   logistics:  <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
 
 
-- date: W 04/09
+- date: W 11/19
   lecturer: 
   title: >
     <strong>Offline RL 2: conservative methods, model-based approaches, modern model-free algorithms</strong>
@@ -752,7 +752,7 @@
   
 
 
-- date: F 04/11
+- date: F 11/21
   lecturer:
   recitation: >
     <strong> HW 4 </strong>
@@ -762,9 +762,7 @@
   logistics:
 
 
-- date: M 04/14
-  lecturer:
-  recitation:
+- date: M 11/24
   title: >
     <strong>Intelligent Exploration</strong>
   slides: https://drive.google.com/file/d/10BwR8uqMVZxgLxCBYw1C3FdlYs82rcvX/view?usp=sharing
@@ -781,59 +779,51 @@
     # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
   logistics:
 
-
-# - date: M 11/25
-#   lecturer: 
-#   title: >
-#     <strong>Language and Robot Control</strong>
-#   slides: # https://www.dropbox.com/scl/fi/1185ox6jrlwqfm8am2q5u/Languageandbehaviourlearning_S24.pdf?rlkey=mclxoimmhtmeovj86ukpn2rjc&dl=0
-#   # https://www.dropbox.com/s/zr8zgrsy9sg62bu/3Dforrobotics.pdf?dl=0
-#   notes:
-#   readings: 
-#     - Radford et al. <a href="https://arxiv.org/abs/2103.00020" target="_blank">Learning Transferable Visual Models From Natural Language Supervision</a>
-#     - Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
-#     - Brown et al.<a href="https://arxiv.org/abs/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
-#     - Liang et al.<a href="https://code-as-policies.github.io/" target="_blank">Code as Policies:Language Model Programs for Embodied Control</a>
-#     - (optional) Gervet et al. <a href="https://arxiv.org/abs/2306.17817" target="_blank">Act3D:3D Feature Field Transformers for Multi-Task Robotic Manipulation</a>
-#     - (optional) Sarch et al.<a href="https://arxiv.org/abs/2310.15127" target="_blank">Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models</a>
-#     # - Katara et al.<a href="https://gen2sim.github.io/" target="_blank">Gen2Sim:Scaling up Robot Learning in Simulation with Generative Models</a>
-#     # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
-#     # - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
-#     # - (optional) Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping</a>
-#     # - (optional) Yang et al. <a href="https://proceedings.mlr.press/v164/yang22c.html" target="_blank">Visually-Grounded Library of Behaviors for Manipulating Diverse Objects across Diverse Configurations and Views</a>
-#   logistics:
-
-
-- date: W 04/16
+- date: W 11/26
   lecturer:
-  title: >
-    <strong>Intelligent Exploration (cont.), Sim2Real Policy Learning</strong>
-  slides: https://drive.google.com/file/d/10BwR8uqMVZxgLxCBYw1C3FdlYs82rcvX/view?usp=sharing
-  slides2: https://www.dropbox.com/scl/fi/ueu3p3snz3jw4zv3h853i/sim2realS25.pdf?rlkey=zxtiiv8vr48k9motlumjrbeje&dl=0
-  video:
-  notes:
-  readings:
-    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
-    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
-    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+  quiz: >
+    <strong>Thanksgiving Break - No Classes</strong>
   logistics:
+
+- date: F 11/28
+  lecturer:
+  quiz: >
+    <strong>Thanksgiving Break - No Classes</strong>
+  logistics:
+
+
+  
+
+#- date: W 11/26
+#  lecturer:
+#  title: >
+#    <strong>Intelligent Exploration (cont.), Sim2Real Policy Learning</strong>
+#  slides: https://drive.google.com/file/d/10BwR8uqMVZxgLxCBYw1C3FdlYs82rcvX/view?usp=sharing
+#  slides2: https://www.dropbox.com/scl/fi/ueu3p3snz3jw4zv3h853i/sim2realS25.pdf?rlkey=zxtiiv8vr48k9motlumjrbeje&dl=0
+#  video:
+#  notes:
+#  readings:
+#    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+#    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
+#    - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
+#    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+#  logistics:
   
 
 
-- date: F 04/18
-  lecturer:
-  recitation: >
-    <strong>Sim2Real Policy Learning (cont.), Quiz 2 Solutions</strong>
-  slides: https://www.dropbox.com/scl/fi/ueu3p3snz3jw4zv3h853i/sim2realS25.pdf?rlkey=zxtiiv8vr48k9motlumjrbeje&dl=0
-  slides2: 
-  video:
-  notes:
-  readings:
-    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-  logistics:
+#- date: F 11/28
+#  lecturer:
+#  recitation: >
+#    <strong>Sim2Real Policy Learning (cont.), Quiz 2 Solutions</strong>
+#  slides: https://www.dropbox.com/scl/fi/ueu3p3snz3jw4zv3h853i/sim2realS25.pdf?rlkey=zxtiiv8vr48k9motlumjrbeje&dl=0
+#  slides2: 
+#  video:
+#  notes:
+#  readings:
+#    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+#  logistics:
   
-- date: M 04/21
+- date: M 12/01
   lecturer:
   title: >
     <strong>Foundation Models for RL</strong>
@@ -853,7 +843,7 @@
   logistics:
 
 
-- date: W 04/23
+- date: W 12/03
   lecturer:
   title: >
     <strong>Foundation Models for RL</strong>
@@ -869,7 +859,7 @@
   logistics:  <span class="deadline">HW4 due 11:59pm</span>
 
 
-- date: F 04/25
+- date: F 12/05
   lecturer:
   recitation:  <strong> Quiz 3 Review </strong>
   slides:
@@ -879,10 +869,10 @@
   logistics:
 
 
-- date: F 05/02
+- date: F 12/12
   lecturer:
   quiz: >
-    <strong>Quiz 3, 8:30am - 11:30am, Posner 152</strong>
+    <strong>Quiz 3 Placeholder</strong>
   slides: 
   notes: 
   readings:
