@@ -713,7 +713,7 @@
     # - Driess et al. <a href="https://palm-e.github.io/assets/palm-e.pdf" target="_blank">PaLM-E:An Embodied Multimodal Language Model</a>
     # - Zeng et. al <a href="https://transporternets.github.io" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
     # - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
-  logistics:  <span class="event">HW4 out</span> <span class="deadline">HW3 due 11:59pm</span>
+  logistics:  <span class="event">HW4 out (tentaive) </span> <span class="deadline">HW3 due 11:59pm</span>
   
   
 - date: W 11/19
@@ -776,14 +776,9 @@
   video:
   notes:
   readings:
-    # - (optional) He et al. <a href="https://human2humanoid.com" target="_blank">Learning Human to Humanoid Real Time Whole Body Teleoperation</a>
-    # - (optional) He et al. <a href="https://agile-but-safe.github.io/" target="_blank">Agile But Safe Learning Collision-Free High-Speed Legged Locomotion</a>
-    # - Xiao et al. <a href="https://lecar-lab.github.io/anycar/" target="_blank">AnyCar to Anywhere Learning Universal Dynamics Model for Agile and Adaptive Mobility</a>
-    # - (optional) Xue et al. <a href="https://lecar-lab.github.io/dial-mpc/" target="_blank">Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing</a>
-    # - (optional) Yang et al. <a href="https://yxyang.github.io/jumping_cod/" target="_blank">Agile Continuous Jumping in Discontinuous Terrains</a>
-    - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback<\a>
-    - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank"> Direct Preference Optimization&#58; A New RLHF Approach<\a>
-    - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study<\a>
+    - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
+    - Slides <a href="https://web.stanford.edu/class/cs234/CS234Spr2024/slides/dpo_slides.pdf" target="_blank">Direct Preference Optimization&#58; A New RLHF Approach</a>
+    - Xu et al. <a href="https://arxiv.org/abs/2404.10719" target="_blank">Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study</a>
     
   logistics:
 
