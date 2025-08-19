@@ -115,7 +115,7 @@
 - date: M 09/15
   lecturer: 
   title: >
-    <strong>Value based methods</strong>
+    <strong>Value based methods (Cont.)</strong>
   slides: 
   slides2: 
   video:
@@ -152,7 +152,7 @@
 - date: M 09/22
   lecturer: 
   title: >
-    <strong> Advanced Policy Gradient Methods </strong>
+    <strong> Advanced Policy Gradient Methods (Cont.)</strong>
   slides: 
   readings:
 
@@ -184,7 +184,7 @@
 - date: M 09/29
   lecturer: 
   title: >
-    <strong>Model-based Methods</strong>
+    <strong>Model-based Methods(Cont.)</strong>
   slides: 
   video:
   readings:
@@ -217,7 +217,7 @@
 - date: M 10/06
   lecturer: 
   title: >
-     <strong>Imitation Learning</strong>
+     <strong>Imitation Learning(Cont.)</strong>
   slides: 
   slides2:
   video:
@@ -313,7 +313,7 @@
 - date: M 10/27
   lecturer: 
   title: >
-    <strong>Offline RL</strong>
+    <strong>Offline RL (Cont.)</strong>
   slides: 
   video:
   notes:
@@ -346,7 +346,7 @@
 - date: M 11/03
   lecturer: 
   title: >
-    <strong>Exploration</strong>
+    <strong>Exploration (Cont.)</strong>
   slides: 
   video:
   notes:
@@ -376,7 +376,7 @@
 - date: M 11/10
   lecturer: 
   title: >
-    <strong>Sim2Real Learning</strong>
+    <strong>Sim2Real Learning (Cont.)</strong>
   slides: 
   
   video:
@@ -413,7 +413,7 @@
 - date: M 11/17
   lecturer: 
   title: >
-    <strong>RL with Foudnation Models</strong>
+    <strong>RL with Foudnation Models (Cont.)</strong>
   slides: 
   notes:
   readings:
@@ -443,7 +443,7 @@
 - date: M 11/24
   lecturer:
   recitation: >
-    <strong>Generative Models for RL</strong>
+    <strong>Generative Models for RL (Cont.)</strong>
   slides: 
   slides2: 
   video:
