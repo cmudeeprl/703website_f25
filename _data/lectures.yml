@@ -19,6 +19,7 @@
   video:
   notes:
   readings:
+     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
     #- Russo et al. <a href="https://arxiv.org/abs/1707.02038" target="_blank">A Tutorial on Thompson Sampling</a>, Ch1-Ch4. Optional after Ch4
     #- (optional) Aleksandrs Slivkins <a href="https://arxiv.org/pdf/1904.07272">Introduction to Multi-Armed Bandits</a>
   logistics:
