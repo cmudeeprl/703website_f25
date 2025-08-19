@@ -84,8 +84,6 @@
   logistics: 
 
 
-  
-
 - date: W 09/10
   lecturer: 
   title: >
@@ -102,8 +100,14 @@
 
 - date: F 09/12
   lecturer:
-  quiz: >
-  
+  title:
+  recitation: >
+    <strong> </strong>
+  slides: 
+  slides2:
+  notes: 
+  video:
+  readings:
   logistics:
 
 
@@ -134,15 +138,16 @@
 
 
 - date: F 09/19
-  lecturer: 
-  title: 
-  slides:
+  lecturer:
+  title:
+  recitation: >
+    <strong> </strong>
+  slides: 
   slides2:
-  Recitation: 
-  readings:
+  notes: 
   video:
+  readings:
   logistics:
-
 
 - date: M 09/22
   lecturer: 
@@ -167,7 +172,8 @@
 - date: F 09/26
   lecturer:
   title:
-  recitation: 
+  recitation: >
+    <strong> </strong>
   slides: 
   video:
   notes:
@@ -199,12 +205,12 @@
 - date: F 10/03
   lecturer:
   title:
-  recitation:
-  #   <strong>Policy and Value Iterations</strong>
-  quiz: 
-  slides:
-  # video:
-  # notes:
+  recitation: >
+    <strong> </strong>
+  slides: 
+  video:
+  notes:
+  readings:
   logistics:
 
 
@@ -232,11 +238,15 @@
 
 - date: F 10/10
   lecturer:
-  title: 
-  recitation: 
+  title:
+  recitation: >
+    <strong> </strong>
+  slides: 
+  video:
   notes:
   readings:
-  logistics: 
+  logistics:
+
 
 
 - date: M 10/13
@@ -255,8 +265,13 @@
 
 - date: F 10/17
   lecturer:
-  quiz: >
-    <strong>Fall Break - No Classes</strong>
+  title:
+  recitation: >
+    <strong> </strong>
+  slides: 
+  video:
+  notes:
+  readings:
   logistics:
 
 
@@ -285,10 +300,13 @@
 
 - date: F 10/24
   lecturer:
+  title:
   recitation: >
-  
-  slides:
-  slides2:
+    <strong> </strong>
+  slides: 
+  video:
+  notes:
+  readings:
   logistics:
 
 
@@ -314,15 +332,15 @@
   logistics:  
 
 - date: F 10/31
-  lecturer: 
-  title: 
-  recitation: 
-  slides:
+  lecturer:
+  title:
+  recitation: >
+    <strong> </strong>
+  slides: 
   video:
   notes:
   readings:
-  logistics: 
-
+  logistics:
 
 
 - date: M 11/03
@@ -346,11 +364,15 @@
 
 - date: F 11/07
   lecturer:
-  title: 
+  title:
+  recitation: >
+    <strong> </strong>
   slides: 
-  logistics:
+  video:
+  notes:
   readings:
-   
+  logistics:
+
 - date: M 11/10
   lecturer: 
   title: >
@@ -375,10 +397,14 @@
   logistics:
 
 
+
 - date: F 11/14
-  lecturer: 
-  title: 
+  lecturer:
+  title:
+  recitation: >
+    <strong> </strong>
   slides: 
+  video:
   notes:
   readings:
   logistics:
@@ -405,8 +431,11 @@
 
 - date: F 11/21
   lecturer:
-  recitation: 
+  title:
+  recitation: >
+    <strong> </strong>
   slides: 
+  video:
   notes:
   readings:
   logistics:
@@ -431,10 +460,14 @@
 
 - date: F 11/28
   lecturer:
-  quiz: >
-    <strong>Thanksgiving Break - No Classes</strong>
+  title:
+  recitation: >
+    <strong> </strong>
+  slides: 
+  video:
+  notes:
+  readings:
   logistics:
-
 
   
 - date: M 12/01
@@ -463,10 +496,12 @@
 
 - date: F 12/05
   lecturer:
-  recitation:  
-  slides:
-  slides2:
-  notes: 
+  title:
+  recitation: >
+    <strong> </strong>
+  slides: 
+  video:
+  notes:
   readings:
   logistics:
 
@@ -474,7 +509,7 @@
 - date: F 12/12
   lecturer:
   quiz: 
-  slides: 
+  #slides: 
   notes: 
   readings:
   logistics:
