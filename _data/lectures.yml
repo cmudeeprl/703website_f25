@@ -171,7 +171,7 @@
     - (optional) Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
     - (optional) Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
   video:
-  logistics: <span class="deadline">HW1 Due, HW2 Due</span>, <span class="event">HW3 Out (tentative)</span> <br>
+  logistics: <span class="deadline">HW1 Due</span>, <span class="event">HW3 Out (tentative)</span> <br>
 
 - date: W 09/24
   lecturer: 
@@ -185,7 +185,7 @@
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
     - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
-  logistics:
+  logistics: <span class="deadline">HW2 Due</span>
 
 
 - date: F 09/26
@@ -212,7 +212,7 @@
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
     - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
-  logistics: <span class="event">HW4 out (tentative)</span> <br>
+  logistics: <span class="event">HW4 Out (tentative)</span> <br>
 
 
 - date: W 10/01
@@ -233,7 +233,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> TBD </strong>
+    <strong> Midterm </strong>
   slides: 
   video:
   notes:
@@ -270,7 +270,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
@@ -297,7 +297,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
@@ -358,7 +358,7 @@
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
  
-  logistics: <span class="deadline">HW5 Due</span>, <span class="event">HW6 Out(tentative)</span> <br>
+  logistics: <span class="deadline">HW5 Due</span>, <span class="event">HW6 Out (tentative)</span> <br>
 
 
 - date: W 10/29
@@ -414,7 +414,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
@@ -459,7 +459,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
@@ -525,7 +525,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> No Recitation </strong>
+    <strong> Thanksgiving Break - No Recitation </strong>
   slides: 
   video:
   notes:
@@ -561,7 +561,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
