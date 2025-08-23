@@ -171,7 +171,7 @@
     - (optional) Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
     - (optional) Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
   video:
-  logistics: <span class="event">HW1 Due, HW2 Due (tentative), HW3 Out</span> <br>
+  logistics: <span class="deadline">HW1 Due, HW2 Due (tentative)</span> <br> <span class="event">HW3 Out (tentative)</span> <br>
 
 - date: W 09/24
   lecturer: 
