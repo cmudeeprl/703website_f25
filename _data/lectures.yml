@@ -238,7 +238,7 @@
   video:
   notes:
   readings:
-  logistics:
+  logistics: <span class="event">Project Description Out (tentative)</span> <br>
 
 
 - date: M 10/06
@@ -337,7 +337,7 @@
   video:
   notes:
   readings:
-  logistics:
+  logistics: <span class="deadline">Project Team Formation Due (tentative)</span> <br>
 
 
 - date: M 10/27
@@ -459,7 +459,7 @@
   video:
   notes:
   readings:
-  logistics:
+  logistics: <span class="deadline">Project Proposal Due (tentative)</span> <br>
 
 
 - date: M 11/17
@@ -496,7 +496,7 @@
   video:
   notes:
   readings:
-  logistics:
+  logistics: <span class="deadline">Project Midway Report Due (tentative)</span> <br>
 
 - date: M 11/24
   lecturer:
@@ -564,10 +564,10 @@
   logistics:
 
 
-# - date: F 12/12
-#   lecturer:
-#   quiz: 
-#   #slides: 
-#   notes: 
-#   readings:
-#   logistics:
+- date: Finals Week
+  lecturer:
+  quiz: 
+  #slides: 
+  notes: 
+  readings:
+  logistics: <span class="deadline">Project Final Poster/Report due </span> <br>
