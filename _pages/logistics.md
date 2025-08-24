@@ -46,7 +46,7 @@ We strongly encourage all students to form reading groups for joint study of the
 
 ### Grading
 
-The class requirements include *7 homework assignments* (35% of the grade), *1 midterm* (35% of the grade), and *one project* (30% of the grade). By the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
+The class requirements include *7 homework assignments* (35% of the grade), *1 midterm* (33% of the grade), *one project* (30% of the grade), and *scribing* (2% of the grade). By the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
 The entirety of your course grade will be based on the performance in the homework assignments, the midterm, and the project.
 
 ***
@@ -70,6 +70,12 @@ The midterm will either be open book OR closed book. We will provide more inform
 ### Project
 
 There will be one project, due at the end of the term, with sufficient milestones along the way. Students will work in teams of three and can choose between the default project or proposing their own projects. The project must be relevant to and incorporate paradigms and algorithms of reinforcement learning.
+
+***
+
+### Scribing
+
+TBA
 
 ***
 
