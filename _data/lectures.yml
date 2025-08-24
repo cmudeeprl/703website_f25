@@ -104,7 +104,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   slides2:
   notes: 
@@ -153,7 +153,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   slides2:
   notes: 
@@ -171,7 +171,7 @@
     - (optional) Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
     - (optional) Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
   video:
-  logistics: 
+  logistics: <span class="deadline">HW1 Due</span>, <span class="event">HW3 Out (tentative)</span> <br>
 
 - date: W 09/24
   lecturer: 
@@ -185,14 +185,14 @@
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
     - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
-  logistics:
+  logistics: <span class="deadline">HW2 Due</span>
 
 
 - date: F 09/26
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
@@ -212,7 +212,7 @@
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
     - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
-  logistics: #<span class="deadline">HW1 due 11:59PM</span>
+  logistics: <span class="event">HW4 Out (tentative)</span> <br>
 
 
 - date: W 10/01
@@ -233,12 +233,12 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> Midterm </strong>
   slides: 
   video:
   notes:
   readings:
-  logistics:
+  logistics: <span class="event">Project Description Out (tentative)</span> <br>
 
 
 - date: M 10/06
@@ -252,7 +252,7 @@
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
     - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
 
-  logistics:
+  logistics: <span class="deadline">HW3 Due</span>, <span class="event">HW5 Out (tentative)</span> <br>
 
 
 
@@ -270,7 +270,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
@@ -283,7 +283,7 @@
   lecturer:
   quiz: >
     <strong>Fall Break - No Classes</strong>
-  logistics:
+  logistics: <span class="deadline">HW4 Due (tentative)</span> <br>
 
 
 - date: W 10/15
@@ -295,13 +295,8 @@
 
 - date: F 10/17
   lecturer:
-  title:
-  recitation: >
-    <strong> </strong>
-  slides: 
-  video:
-  notes:
-  readings:
+  quiz: >
+    <strong>Fall Break - No Classes</strong>
   logistics:
 
 
@@ -337,12 +332,12 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
   readings:
-  logistics:
+  logistics: <span class="deadline">Project Team Formation Due (tentative)</span> <br>
 
 
 - date: M 10/27
@@ -358,7 +353,7 @@
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
  
-  logistics: 
+  logistics: <span class="deadline">HW5 Due</span>, <span class="event">HW6 Out (tentative)</span> <br>
 
 
 - date: W 10/29
@@ -378,7 +373,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
@@ -403,19 +398,18 @@
   title: >
     <strong>Sim2Real Learning</strong>
   slides: 
-  logistics:
   readings:
     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-
+  logistics:
    
 
 - date: F 11/07
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
@@ -436,7 +430,7 @@
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
 
-  logistics:
+  logistics: <span class="deadline">HW6 Due</span>, <span class="event">HW7 Out (tentative)</span> <br>
 
 
 - date: W 11/12
@@ -460,12 +454,12 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
   readings:
-  logistics:
+  logistics: <span class="deadline">Project Proposal Due (tentative)</span> <br>
 
 
 - date: M 11/17
@@ -497,12 +491,12 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
   readings:
-  logistics:
+  logistics: <span class="deadline">Project Midway Report Due (tentative)</span> <br>
 
 - date: M 11/24
   lecturer:
@@ -513,7 +507,7 @@
   video:
   notes:
   readings:
-  logistics:
+  logistics: <span class="deadline">HW7 Due (tentative)</span> <br>
   
 
 - date: W 11/26
@@ -526,7 +520,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> Thanksgiving Break - No Recitation </strong>
   slides: 
   video:
   notes:
@@ -562,7 +556,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> </strong>
+    <strong> TBD </strong>
   slides: 
   video:
   notes:
@@ -570,10 +564,10 @@
   logistics:
 
 
-- date: F 12/12
+- date: Finals Week
   lecturer:
   quiz: 
   #slides: 
   notes: 
   readings:
-  logistics:
+  logistics: <span class="deadline">Project Final Poster/Report due </span> <br>

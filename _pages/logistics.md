@@ -46,33 +46,30 @@ We strongly encourage all students to form reading groups for joint study of the
 
 ### Grading
 
-The class requirements include *5 homework assignments* (50% of the grade) and *3 quizzes* (50% of the grade). By the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
-
-The entirety of your course grade will be based on the performance in the homework assignments and the quizzes.
-
-Individual homeworks may NOT necessarily be worth the same percentage. **Some homework assignments may be worth more points than others**, therefore weighing more towards the total.
+The class requirements include *7 homework assignments* (35% of the grade), *1 midterm* (35% of the grade), and *one project* (30% of the grade). By the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
+The entirety of your course grade will be based on the performance in the homework assignments, the midterm, and the project.
 
 ***
 
 ### Homework Assignments
 
-There will be 5 homework assignments over the course of the semester. For each, you may work in groups of **two or three** students. Only one person should submit the writeup and code on Gradescope. Make sure you **mark your partner/s as a collaborator on Gradescope** and that both names are listed in the writeup.
+There will be 7 homework assignments over the course of the semester. For each, you may work in groups of two or three students. Only one person should submit the writeup and code on Gradescope. Make sure you **mark your partner/s as a collaborator on Gradescope** and that both names are listed in the writeup.
 
 These assignments may contain material that has been covered by published papers and webpages. We expect students to solve the problems themselves rather than search for answers.
-
-Students are required to **typeset written homework solutions using $$\LaTeX$$ and the provided template**, and submit as PDF. All code, including auxiliary scripts used for testing should be submitted with a README file to explain/document them.
+Students are required to **typeset written homework solutions using $\(\LaTeX\)$ and the provided template**, and submit as PDF. All code, including auxiliary scripts used for testing should be submitted with a README file to explain/document them.
 
 ***  
 
-### Quizzes
+### Midterm
 
-Quizzes will be either in-person and taken in the classroom on Gradescope using your personal laptop OR with pencil or paper. We will provide more information closer to the date of the quiz. We will use up to the full recitation time for quizzes 1 and 2. Please, make sure your device is sufficiently charged and bring your charger as backup. We cannot guarantee one power outlet per person. As an FYI, the last quiz is 3 hours and the date and time is set by the registrar.
+Midterm will be in-person and taken in the classroom with pencil and paper. We will provide more information closer to the date of the midterm. We will use up to the full recitation time for the midterm.
+The midterm will either be open book OR closed book. We will provide more information closer to the midterm date. In the case of an open book exam, you may only access printed notes and papers.
 
-**Quiz 3** will consist of two parts. **(i)** A question part that is analogous to the first two quizzes which will test your understanding of all topics covered in this class including the assigned readings. There will be an emphasis on question that target content after Quiz 2; **(ii)** A paper reading part where we select a new (i.e., one not covered in class) RL paper for you to read and you will have to answer a set of questions that test your ability to understand the paper.
+***
 
-The quizzes will either be open book OR closed book. We will provide more information closer to the date of the quiz. For open book quizzes, no google search (or any online search) is allowed. You may can **only** access downloaded notes and papers. The quizzes are not cumulative and will only test a subset of the material, **but they can have questions that require you to know older material**.
+### Project
 
-Each quiz will count equally toward the overall quiz grade.
+There will be one project, due at the end of the term, with sufficient milestones along the way. Students will work in teams of three and can choose between the default project or proposing their own projects. The project must be relevant to and incorporate paradigms and algorithms of reinforcement learning.
 
 ***
 
@@ -112,6 +109,10 @@ It is explicitly forbidden to use any such sources, or to consult people who hav
 
 Collaboration with other students who are currently taking the class is allowed, but only under the conditions stated above.
 
+#### AI Assistance
+
+To best support your own learning, you should complete all graded assignments in this course yourself, without any use of generative artificial intelligence (AI), such as ChatGPT. Please refrain from using AI tools to generate any content (text, video, audio, images, code, etc.) for an assessment. Passing off any AI generated content as your own (e.g., cutting and pasting content into written assignments, or paraphrasing AI content) constitutes a violation of [CMU’s academic integrity policy](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
+
 #### Policy Regarding "Found Code"
 
 You are encouraged to read books and other instructional materials, both online and offline, to help you understand the concepts and algorithms taught in class. These materials may contain example code or pseudo code, which may help you better understand an algorithm or an implementation detail.
@@ -140,7 +141,7 @@ All violations (even the first violation) of the academic integrity or collabora
 
 ### Late Policy
 
-Each student has a total of **8 grace days** that may be applied to the homework assignments.
+Each student has a total of **10 grace days** that may be applied to the homework assignments.
 **No more than 3 grace days may be used on any single assignment**.
 
 Any assignment submitted more than 3 days past the deadline (or the date the student no longer has late day credit) will get **zero credit**.
