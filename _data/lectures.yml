@@ -30,13 +30,13 @@
   lecturer:
   title:
   recitation: >
-    <strong>Neural Nets, PyTorch, OpenAI Gym, Bandits </strong>
-  slides: 
-  notes: 
+    <strong>Neural Nets, PyTorch, Gymnasium </strong>
+  slides: https://docs.google.com/presentation/d/1BFxauyrZsh25aKA5toAlYl5pQtKXpXyu/edit?usp=sharing&ouid=115850382795288871894&rtpof=true&sd=true
+  notes: https://drive.google.com/file/d/1BX9zooXG8Z08HBOviS8mMzG7gFlIFvT_/view?usp=sharing
   video:
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
-    - OpenAI Gym tutorial <a href="https://colab.research.google.com/drive/1qlqJ3LqpOO8E-6HyPyjiuC80Z7GWgTSv?usp=sharing" target=  "_blank">notebook</a>
+    - Gym tutorial <a href="https://colab.research.google.com/drive/1qlqJ3LqpOO8E-6HyPyjiuC80Z7GWgTSv?usp=sharing" target=  "_blank">notebook</a>
     - PyTorch tutorial <a href="https://colab.research.google.com/drive/1-3hN0C9grsg62KoeFIxywcPum4a-HAYk?usp=sharing" target=  "_blank">notebook</a>
   logistics:
 
