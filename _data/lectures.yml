@@ -260,7 +260,7 @@
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
     - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
 
-  logistics: <span class="deadline">HW4 Due (tentative)</span>, <span class="event">HW5 Out (tentative)</span> <br>
+  logistics: 
 
 
 
@@ -283,7 +283,7 @@
   video:
   notes:
   readings:
-  logistics:
+  logistics: <span class="deadline">HW4 Due (tentative)</span>, <span class="event">HW5 Out (tentative)</span> <br>
 
 
 
