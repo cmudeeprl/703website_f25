@@ -78,12 +78,15 @@
 - date: M 09/08
   lecturer: 
   title: >
-    <strong>Actor-Critic Methods</strong>
-  slides:
+    <strong>Actor-Critic Methods (cont.) Evolutionary Methods for Policy Search</strong>
+  slides: https://www.dropbox.com/scl/fi/wgm80d9kv4uezbb6yhig6/PG_F25.pdf?rlkey=ivscy52a2u96piohk84so9x1s&dl=0
+  slides2: https://www.dropbox.com/scl/fi/0yw9xsu8ld9gfd90toxy0/evolutionarymethods_F25.pdf?rlkey=wey3k9wswrp6vkfdb6v0whtfy&dl=0
   video:
   notes:
   readings:
-    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
+    # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
+    -Salimans et al. <a href="https://arxiv.org/abs/1703.03864"> Evolution Strategies as a Scalable Alternative to Reinforcement Learning </a>
+    -(optional) <a href="https://arxiv.org/pdf/1604.00772.pdf">Nikolaus Hansen. The CMA Evolution Strategy - A Tutorial</a>
   logistics: 
 
 
