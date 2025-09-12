@@ -223,11 +223,13 @@
 
 
 - date: T 09/30
-  # lecturer:
-  # title: >
-  # slides:
-  # video:
-  # readings:
+  lecturer: 
+  title: >
+    <strong>Buffer</strong>
+  slides: 
+  video:
+  notes:
+  readings:
   logistics: <span class="event">Project Description Out (tentative)</span> <br>
 
 - date: W 10/01
