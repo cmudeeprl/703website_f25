@@ -126,16 +126,17 @@
   lecturer: 
   title: >
     <strong>Value based methods (Cont.)</strong>
-  slides: 
+  slides: https://drive.google.com/file/d/1ggsDK2kQRpryZGIEsaRd0yq04Ux7k1m0/view?usp=sharing
   slides2: 
   video:
   notes:
   readings:
-    - <a href="https://arxiv.org/abs/1312.5602">DQN</a>
-    - <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank">Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+    - <a href="https://arxiv.org/abs/1509.06461">Deep Reinforcement Learning with Double Q-learning</a>
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
-    - <a href="https://link.springer.com/chapter/10.1007/11564096_32">(optional) Neural Fitted Q-Iteration</a>
+    - <a href="https://arxiv.org/abs/2403.03950">Stop Regressing - Training Value Functions via Classification for Scalable Deep RL</a>
     - <a href="https://jmlr.org/papers/v15/dann14a.html">(optional) Policy Evaluation with Temporal Differences&#58; A Survey and Comparison</a>
+    - <a href="https://arxiv.org/abs/1707.06887">(optional) A Distributional Perspective on Reinforcement Learning</a>
+
   logistics: 
 
 
