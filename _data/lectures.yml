@@ -159,15 +159,18 @@
 
 - date: F 09/19
   lecturer:
-  title:
-  recitation: >
-    <strong> Value-Based, advanced Policy gradient Methods and HW3 </strong>
-  slides: 
+  title: >
+    <strong> Advanced Policy Gradient Methods (Cont.)</strong>
+  recitation:   
+  slides: https://drive.google.com/file/d/1usgc5dQWHxS5cGUli_2h2ZYXPFSYZ5IY/view?usp=sharing
   slides2:
   notes: 
   video:
   readings:
-  logistics: <span class="deadline">HW2 Due</span>, <span class="event">HW3 Out (tentative)</span> <br>
+    - <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Approximately Optimal Approximate RL </a>
+    - <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
+    - <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
+  logistics: <span class="deadline">HW2 Due</span>, <span class="event">HW3 Out (tentative)</span> <br> <span class="event">Video Recitation: Value-Based, Advanced Policy gradient Methods and HW3 </span>
 
 - date: M 09/22
   lecturer: 
