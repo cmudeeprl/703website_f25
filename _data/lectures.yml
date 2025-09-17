@@ -127,7 +127,7 @@
   title: >
     <strong>Value based methods (Cont.)</strong>
   slides: https://drive.google.com/file/d/1ggsDK2kQRpryZGIEsaRd0yq04Ux7k1m0/view?usp=sharing
-  slides2: 
+  slides2: https://drive.google.com/file/d/1urLD6LkJVIGkgvSbBhURRTffsHo5V19n/view?usp=sharing
   video:
   notes:
   readings:
@@ -146,13 +146,13 @@
   title: >
     <strong> Advanced Policy Gradient Methods </strong>
   recitation: 
-  slides: 
+  slides: https://drive.google.com/file/d/1usgc5dQWHxS5cGUli_2h2ZYXPFSYZ5IY/view?usp=sharing
   video:
   notes:
   readings:
-    - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
-    - (optional) Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
-    - (optional) Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
+    - <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Approximately Optimal Approximate RL </a>
+    - <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
+    - <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
     
   logistics:
 
