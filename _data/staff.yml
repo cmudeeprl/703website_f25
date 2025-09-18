@@ -28,11 +28,11 @@ TAs:
       location: GHC 8228
       image: staff/Douglas_Chen.jpg
 
-    - name: Lawrence Jiang
+    - name: Lawrence Jang
       email: ljang@andrew.cmu.edu
       url: 
       office-hours: Tue, Thu 1-2PM
-      location: GHC 8014
+      location: GHC 8019
       image: staff/LJang.png
 
     - name: Gene Yang
