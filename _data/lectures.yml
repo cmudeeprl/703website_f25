@@ -159,9 +159,9 @@
 
 - date: F 09/19
   lecturer:
-  title: >
-    <strong> Advanced Policy Gradient Methods (Cont.)</strong>
-  recitation:   
+  title:
+  recitation: >
+     <strong> Lecture 7b Advanced Policy Gradient Methods (Cont.)</strong>
   slides: https://drive.google.com/file/d/1usgc5dQWHxS5cGUli_2h2ZYXPFSYZ5IY/view?usp=sharing
   slides2:
   notes: 
