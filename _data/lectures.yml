@@ -294,10 +294,9 @@
   video:
   notes:
   readings:
-  logistics: <span class="event">HW5 Out (tentative)</span> <br>
+  logistics: 
 
 - date: S 10/12
-  lecturer:
   logistics: <span class="deadline">HW4 Due</span>, <span class="event">HW5 Out </span>
 
 - date: M 10/13
