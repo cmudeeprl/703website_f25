@@ -171,7 +171,7 @@
     - <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Approximately Optimal Approximate RL </a>
     - <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
     - <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
-  logistics: <span class="deadline">HW2 Due</span>, <span class="event">HW3 Out </span>, <br> <span>Video Recitation HW3 </span>
+  logistics: <span class="deadline">HW2 Due</span>,  <br> <span>Video Recitation HW3 </span>
 
 - date: M 09/22
   lecturer: 
@@ -183,7 +183,7 @@
     - (optional) Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
     - (optional) Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
   video:
-  logistics: 
+  logistics: <span class="event">HW3 Out </span>
 
 - date: W 09/24
   lecturer: 
