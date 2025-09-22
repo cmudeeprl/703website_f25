@@ -179,9 +179,9 @@
     <strong> Advanced Policy Gradient Methods (Cont.)</strong>
   slides: https://drive.google.com/file/d/1utVQevOJm46laH_4eVel4DSiy9E1BnaD/view?usp=sharing
   readings:
-    - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
-    - (optional) Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
-    - (optional) Kakade and Langford <a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf"> Conservative policy iteration </a>
+    -  <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
+    -  <a href="https://arxiv.org/abs/1509.02971"> Continuous control with deep reinforcement learning </a>
+    -  <a href="https://arxiv.org/abs/1802.09477"> Addressing Function Approximation Error in Actor-Critic Methods </a>    
   video:
   logistics: <span class="event">HW3 Out </span>
 
