@@ -177,7 +177,7 @@
   lecturer: 
   title: >
     <strong> Advanced Policy Gradient Methods (Cont.)</strong>
-  slides: 
+  slides: https://drive.google.com/file/d/1utVQevOJm46laH_4eVel4DSiy9E1BnaD/view?usp=sharing
   readings:
     - (optional) Schulman et al. <a href="https://arxiv.org/abs/1502.05477"> Trust Region Policy Optimization </a>
     - (optional) Peng et al. <a href="https://arxiv.org/abs/1910.00177"> Advantage-weighted regression </a>
