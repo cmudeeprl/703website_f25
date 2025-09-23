@@ -185,18 +185,18 @@
   video:
   logistics: <span class="event">HW3 Out </span>
 
+
 - date: W 09/24
   lecturer: 
   title: >
-    <strong>Model-based Methods</strong>
-  slides: 
-  video:
+    <strong> Advanced Policy Gradient Methods (Cont.)</strong>
+  slides: https://drive.google.com/file/d/1utVQevOJm46laH_4eVel4DSiy9E1BnaD/view?usp=sharing
   readings:
-    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
-    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-    - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
-    - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
-  logistics: 
+    -  <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
+    -  <a href="https://arxiv.org/abs/1509.02971"> Continuous control with deep reinforcement learning </a>
+    -  <a href="https://arxiv.org/abs/1802.09477"> Addressing Function Approximation Error in Actor-Critic Methods </a>    
+  video:
+  logistics:
 
 - date: F 09/26
   lecturer:
@@ -208,33 +208,10 @@
   notes:
   readings:
   logistics:
+  
 
 
 - date: M 09/29
-  lecturer: 
-  title: >
-    <strong>Model-based Methods(Cont.)</strong>
-  slides: 
-  video:
-  readings:
-    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
-    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-    - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
-    - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
-  logistics:
-
-
-- date: T 09/30
-  lecturer: 
-  title: >
-    <strong>Project Description Out (tentative)</strong> 
-  slides: 
-  video:
-  notes:
-  readings:
-  logistics: <span class="event">Project Description Out (tentative)</span> <br>
-
-- date: W 10/01
   lecturer: 
   title: >
     <strong>Imitation Learning</strong>
@@ -245,6 +222,22 @@
     - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+  logistics:
+
+
+- date: T 09/30 
+  logistics: <span class="event">Project Description Out (tentative)</span> <br>
+
+- date: W 10/01
+  lecturer: 
+  title: >
+     <strong>Imitation Learning(Cont.)</strong>
+  slides: 
+  slides2:
+  video:
+  readings:
+    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
+    - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
   logistics: <span class="event">HW3 Due </span>,  <span class="deadline">HW4 Out </span>, <br>
 
 
@@ -263,27 +256,30 @@
 - date: M 10/06
   lecturer: 
   title: >
-     <strong>Imitation Learning(Cont.)</strong>
+    <strong>Model-based Methods</strong>
   slides: 
-  slides2:
   video:
   readings:
-    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
-    - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
-
+    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
+    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
+    - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
   logistics: 
-
 
 
 - date: W 10/08
   lecturer: 
   title: >
-    <strong>Buffer</strong>
+    <strong>Model-based Methods(Cont.)</strong>
   slides: 
   video:
-  notes:
   readings:
+    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
+    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
+    - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
   logistics:  
+
 
 - date: F 10/10
   lecturer:
