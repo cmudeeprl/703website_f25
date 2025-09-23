@@ -226,6 +226,9 @@
 
 
 - date: T 09/30 
+  lecturer:
+  quiz: >
+    <strong> </strong>
   logistics: <span class="event">Project Description Out (tentative)</span> <br>
 
 - date: W 10/01
@@ -293,6 +296,9 @@
   logistics: 
 
 - date: S 10/12
+  lecturer:
+  quiz: >
+    <strong> </strong>
   logistics: <span class="deadline">HW4 Due</span>, <span class="event">HW5 Out </span>
 
 - date: M 10/13
