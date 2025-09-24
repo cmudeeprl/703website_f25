@@ -178,6 +178,7 @@
   title: >
     <strong> Advanced Policy Gradient Methods (Cont.)</strong>
   slides: https://drive.google.com/file/d/1utVQevOJm46laH_4eVel4DSiy9E1BnaD/view?usp=sharing
+  slides2: https://drive.google.com/file/d/1uuEH-PXkCt4N5e4UnNFT0J6cqk_GqFp_/view?usp=sharing
   readings:
     -  <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
     -  <a href="https://arxiv.org/abs/1509.02971"> Continuous control with deep reinforcement learning </a>
@@ -190,7 +191,8 @@
   lecturer: 
   title: >
     <strong> Advanced Policy Gradient Methods (Cont.)</strong>
-  slides: https://drive.google.com/file/d/1utVQevOJm46laH_4eVel4DSiy9E1BnaD/view?usp=sharing
+  slides: https://drive.google.com/file/d/1uv7pT_6lUfRNhwZrdi3AVSXuJ-QaMz2S/view?usp=sharing
+  slides2: https://drive.google.com/file/d/1ux1VtaQDKj-EuEVQT6Vcss1j7gykelD1/view?usp=sharing
   readings:
     -  <a href="https://arxiv.org/abs/1707.06347"> Proximal Policy Optimization Algorithms </a>
     -  <a href="https://arxiv.org/abs/1509.02971"> Continuous control with deep reinforcement learning </a>
