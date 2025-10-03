@@ -357,7 +357,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> TBD </strong>
+    <strong> Midterm Solution Session </strong>
   slides: 
   video:
   notes:
@@ -398,7 +398,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> TBD </strong>
+    <strong> Offline RL and HW6 </strong>
   slides: 
   video:
   notes:
@@ -434,7 +434,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> TBD </strong>
+    <strong> Exploration </strong>
   slides: 
   video:
   notes:
@@ -446,8 +446,7 @@
   lecturer: 
   title: >
     <strong>Sim2Real Learning (Cont.)</strong>
-  slides: 
-  
+  slides:   
   video:
   notes:
   readings:
@@ -479,7 +478,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> TBD </strong>
+    <strong> Sim2Real and HW7 </strong>
   slides: 
   video:
   notes:
@@ -514,9 +513,9 @@
 
 - date: F 11/21
   lecturer:
-  title:
-  recitation: >
-    <strong> TBD </strong>
+  title: > 
+    <strong> RL with Foundation Models </strong>
+  recitation: 
   slides: 
   video:
   notes:
@@ -525,8 +524,9 @@
 
 - date: M 11/24
   lecturer:
-  recitation: >
+  title: > 
     <strong>Generative Models for RL (Cont.)</strong>
+  recitation: 
   slides: 
   slides2: 
   video:
@@ -543,13 +543,8 @@
 
 - date: F 11/28
   lecturer:
-  title:
-  recitation: >
+  quiz: >
     <strong> Thanksgiving Break - No Recitation </strong>
-  slides: 
-  video:
-  notes:
-  readings:
   logistics:
 
   
@@ -570,7 +565,6 @@
   title: >
     <strong>Course Review</strong>
   slides: 
-  
   video:
   notes:
   readings:
@@ -581,7 +575,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> TBD </strong>
+    <strong> Generative Models for RL </strong>
   slides: 
   video:
   notes:
@@ -592,7 +586,7 @@
 - date: Finals Week
   lecturer:
   quiz: 
-  #slides: 
+  # slides: 
   notes: 
   readings:
   logistics: <span class="deadline"> Project Final Poster/Report due </span> <br>
