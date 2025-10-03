@@ -513,9 +513,9 @@
 
 - date: F 11/21
   lecturer:
-  title: > 
+  title:
+  recitation: >
     <strong> RL with Foundation Models </strong>
-  recitation: 
   slides: 
   video:
   notes:
