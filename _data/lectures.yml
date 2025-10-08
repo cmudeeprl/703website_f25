@@ -244,7 +244,7 @@
   slides2:
   video:
   readings:
-    - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
+    - Luo et al. <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
     - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
     # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
     # - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
@@ -286,9 +286,10 @@
   slides: https://www.dropbox.com/scl/fi/aeo3o2r0eavj6w5j64dbs/MultimodalMBRL_F25.pdf?rlkey=ppgfg6o2urpygsgjnvjssnekf&dl=0
   video:
   readings:
-    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
-    - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control,</a>
     - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    - Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank"> Model-Based Reinforcement Learning for Atari </a>
+    - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
+    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
     - (optional) Yang et al. <a href="https://arxiv.org/abs/2402.06559" target="_blank">Diffusion-ES Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following</a>
     # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
