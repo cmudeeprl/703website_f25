@@ -277,7 +277,7 @@
   lecturer: 
   title: >
     <strong>Model-based Methods(Cont.)</strong>
-  slides: 
+  slides: https://www.dropbox.com/scl/fi/aeo3o2r0eavj6w5j64dbs/MultimodalMBRL_F25.pdf?rlkey=ppgfg6o2urpygsgjnvjssnekf&dl=0
   video:
   readings:
     - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
