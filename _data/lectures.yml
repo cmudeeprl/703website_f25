@@ -224,6 +224,9 @@
     - (optional) Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+    - Andrychowicz et al.<a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank"> Hindsight Experience Replay</a>
+    - Ding et al.<a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank"> Goal-conditioned Imitation Learning</a>
+    
   logistics:
 
 
@@ -241,8 +244,10 @@
   slides2:
   video:
   readings:
-    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
-    - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
+    - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
+    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
+    # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
+    # - Baker et al. <a href="https://arxiv.org/abs/2206.11795" target="_blank">Video PreTraining (VPT):Learning to Act by Watching Unlabeled Online Videos</a>
   logistics: <span class="deadline">HW4 Out </span>, <br>
 
 
@@ -266,10 +271,11 @@
   slides: https://www.dropbox.com/scl/fi/nc7po6xpt6qptkbhbqcyw/MBRL_1F25.pdf?rlkey=cd3dco1c16vnqzz0wg7tozx1t&dl=0
   video:
   readings:
-    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
-    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-    - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
-    - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
+    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank"> Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    # - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
+    # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    # - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
+    # - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
   logistics: 
 
 
@@ -281,21 +287,29 @@
   video:
   readings:
     - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
-    - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-    - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
-    - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
+    - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control,</a>
+    - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+    - (optional) Yang et al. <a href="https://arxiv.org/abs/2402.06559" target="_blank">Diffusion-ES Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following</a>
+    # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+    # - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
+    # - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
   logistics:  <span class="event">HW3 Due </span>
 
 
 - date: F 10/10
   lecturer:
-  title:
+  title: >
+    <strong>Model-based Methods(Cont.), AlphaZero, muZero</strong>
   recitation: >
-    <strong> IL Diffusion Policies and HW5 </strong>
+    <strong> IL Diffusion Policies and HW5 (Video)</strong>
   slides: 
   video:
   notes:
   readings:
+    - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+    - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
+    - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
+    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
   logistics: 
 
 - date: S 10/12
