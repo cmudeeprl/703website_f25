@@ -304,7 +304,6 @@
   recitation: >
     <strong> IL Diffusion Policies and HW5 (Video)</strong>
   slides:
-  slides2:
   video:
   notes:
   readings:
@@ -313,6 +312,17 @@
     - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
     - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
   logistics: 
+
+- date: F 10/10
+  lecturer:
+  title:
+  recitation: >
+    <strong> IL Diffusion Policies and HW5 (Video)</strong>
+  slides:
+  video:
+  notes:
+  readings:
+  logistics:
 
 - date: S 10/12
   lecturer:
