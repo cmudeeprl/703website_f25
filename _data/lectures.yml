@@ -201,7 +201,7 @@
 
 - date: F 09/26
   lecturer:
-  title: Midterm review and recitation 4
+  title:
   recitation: >
     <strong> Midterm Review and HW4 </strong>
   slides: https://docs.google.com/presentation/d/12l8x0BjA6K-f8PpNpBCV3w9EHw83bLWeAMj2Uoe-T5Y/edit?usp=sharing
@@ -301,8 +301,7 @@
   lecturer:
   title: >
     <strong>Model-based Methods(Cont.), AlphaZero, muZero</strong>
-  recitation: >
-    <strong> IL Diffusion Policies and HW5 (Video)</strong>
+  recitation:
   slides:
   video:
   notes:
