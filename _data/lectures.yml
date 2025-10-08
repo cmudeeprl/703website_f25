@@ -599,10 +599,11 @@
   logistics:
 
 
-- date: Finals Week
+- date: M 12/08
   lecturer:
-  quiz: 
+  quiz: >
+    <strong> Project Final Presentation, 8:30AM-11:30AM </strong>
   # slides: 
   notes: 
   readings:
-  logistics: <span class="deadline"> Project Final Poster/Report due </span> <br>
+  logistics: <span class="deadline"> Project Final Presentation/Report due </span> <br>
