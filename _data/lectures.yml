@@ -289,8 +289,6 @@
     - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
     - (optional) Kaiser et al. <a href="https://arxiv.org/abs/1903.00374" target="_blank"> Model-Based Reinforcement Learning for Atari </a>
     - Hansen et al. <a href="https://arxiv.org/abs/2203.04955" target="_blank">Temporal Difference Learning for Model Predictive Control</a>
-    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
-    - (optional) Yang et al. <a href="https://arxiv.org/abs/2402.06559" target="_blank">Diffusion-ES Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following</a>
     # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
     # - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">Model-based policy optimization</a>
     # - Hafner et al. <a href="https://arxiv.org/abs/2301.04104" target="_blank">Dreamer</a>
@@ -300,7 +298,7 @@
 - date: F 10/10
   lecturer:
   title: >
-    <strong>Model-based Methods(Cont.), AlphaZero, muZero</strong>
+    <strong>Model-based Methods(Cont.), Learning and Tree-Search Planning</strong>
   recitation:
   slides: https://www.dropbox.com/scl/fi/wdfhqmcyxecqobwn2321q/MBRL_TreeSearch_F25.pdf?rlkey=celzs23k4fpx64u5jphra17ym&dl=0
   video:
@@ -309,7 +307,6 @@
     - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
     - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
-    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
   logistics: 
 
 - date: F 10/10
@@ -353,18 +350,23 @@
 - date: M 10/20
   lecturer: 
   title: >
-    <strong>Buffer</strong>
+    <strong>Offline RL</strong>
   slides: 
   slides2:
   video:
   notes:
   readings:
+    - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
+    - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
+ 
 
 
 - date: W 10/22
   lecturer: 
   title: >
-    <strong>Offline RL</strong>
+    <strong>Offline RL (Cont.)</strong>
   slides: 
   video:
   notes:
@@ -393,16 +395,15 @@
 - date: M 10/27
   lecturer: 
   title: >
-    <strong>Offline RL (Cont.)</strong>
+    <strong>Model-based Methods for offline RL</strong>
   slides: 
   video:
   notes:
   readings:
-    - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
-    - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    - Kumar and Levine <a href="https://sites.google.com/view/offlinerltutorial-neurips2020/home"> Offline RL Tutorial, NeurIPS 2020 </a>
- 
+    - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
+    - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/2104.06294" target="_blank">Online and Offline Reinforcement Learning by Planning with a Learned Model</a>
+    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
+    - (optional) Yang et al. <a href="https://arxiv.org/abs/2402.06559" target="_blank">Diffusion-ES Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following</a>  
   logistics: <span class="deadline">HW5 Due</span>, <span class="event">HW6 Out (tentative)</span> <br>
 
 
