@@ -351,11 +351,12 @@
   lecturer: 
   title: >
     <strong>Offline RL</strong>
-  slides: https://drive.google.com/file/d/1_aJxnlwLsJYup-__qKi-ZnujQho6ibDk/view
+  slides: https://drive.google.com/file/d/16Qz-w5Si8gYiUHoZRKOlq322-Sii3xBt/view?usp=sharing
   slides2:
   video:
   notes:
   readings:
+    - Kumar and Levine <a href="https://drive.google.com/file/d/1_aJxnlwLsJYup-__qKi-ZnujQho6ibDk/view"> Offline RL Tutorial, NeurIPS 2020 </a>
     - Levine et al. <a href="https://arxiv.org/abs/2005.01643"> Offline Reinforcement Learning&#58; Tutorial, Review, and Perspectives on Open Problems </a>
     - Kumar et al. <a href="https://arxiv.org/abs/1906.00949"> Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction </a>
     # - Kumar et al. <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-223.pdf"> Reinforcement Learning from Static Datasets (Chapters 1 to 5) </a>
@@ -369,7 +370,7 @@
   lecturer: 
   title: >
     <strong>Offline RL (Cont.)</strong>
-  slides: 
+  slides: https://drive.google.com/file/d/178E7o3ieShpKPfoFxSt_GAt7Q2BtUXSY/view?usp=sharing
   video:
   notes:
   readings:
