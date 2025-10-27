@@ -400,12 +400,15 @@
   title: >
     <strong>Model-based Methods for offline RL</strong>
   slides: https://www.dropbox.com/scl/fi/n5acn9s84fzyiyjzquo45/MBRL_offlineF25.pdf?rlkey=xks89l2vzoniue0gufljh6pq8&dl=0
+  slides2: https://drive.google.com/file/d/11Qm6qmXOn8nQxnWbUcDTLLjAavmdwi9g/view?usp=sharing
   video:
   notes:
   readings:
     - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
     - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/2104.06294" target="_blank">Online and Offline Reinforcement Learning by Planning with a Learned Model</a>
     - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
+    - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
+    - Rahul et al. <a href="https://arxiv.org/abs/2005.05951" target="_blank">MOReL - Model-Based Offline Reinforcement Learning</a>
     - (optional) Yang et al. <a href="https://arxiv.org/abs/2402.06559" target="_blank">Diffusion-ES Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following</a>  
   logistics: <span class="deadline">HW5 Due</span>, <span class="event">HW6 Out (tentative)</span> <br>
 
