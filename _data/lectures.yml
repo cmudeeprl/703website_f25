@@ -417,7 +417,7 @@
   lecturer:
   title: >
     <strong>Exploration</strong>
-  slides:
+  slides: https://www.dropbox.com/scl/fi/exp843p5zk9t7oohb96ne/MBRLexplicitF25.pdf?rlkey=k8wgi03prtqgac9qljyihopct&dl=0
   video:
   notes:
   readings:
@@ -442,7 +442,8 @@
   lecturer: 
   title: >
     <strong>Exploration (Cont.)</strong>
-  slides: 
+  slides: https://www.dropbox.com/scl/fi/3s2uk0oj6kebuqy8qvzij/MBRLsensoryF25.pdf?rlkey=bjog8hcj78mnz1z5tjqxbudc8&dl=0
+  slides2: https://www.dropbox.com/scl/fi/wdfhqmcyxecqobwn2321q/MBRL_TreeSearch_F25.pdf?rlkey=celzs23k4fpx64u5jphra17ym&dl=0
   video:
   notes:
   readings:
