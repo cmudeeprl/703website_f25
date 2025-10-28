@@ -268,7 +268,7 @@
   lecturer: 
   title: >
     <strong>Model-based Methods</strong>
-  slides: https://www.dropbox.com/scl/fi/nc7po6xpt6qptkbhbqcyw/MBRL_1F25.pdf?rlkey=cd3dco1c16vnqzz0wg7tozx1t&dl=0
+  slides:    https://www.dropbox.com/scl/fi/exp843p5zk9t7oohb96ne/MBRLexplicitF25.pdf?rlkey=k8wgi03prtqgac9qljyihopct&dl=0
   video:
   readings:
     - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank"> Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
@@ -283,7 +283,7 @@
   lecturer: 
   title: >
     <strong>Model-based Methods(Cont.)</strong>
-  slides: https://www.dropbox.com/scl/fi/aeo3o2r0eavj6w5j64dbs/MultimodalMBRL_F25.pdf?rlkey=ppgfg6o2urpygsgjnvjssnekf&dl=0
+  slides: https://www.dropbox.com/scl/fi/3s2uk0oj6kebuqy8qvzij/MBRLsensoryF25.pdf?rlkey=bjog8hcj78mnz1z5tjqxbudc8&dl=0
   video:
   readings:
     - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
@@ -399,7 +399,7 @@
   lecturer: 
   title: >
     <strong>Model-based Methods for offline RL</strong>
-  slides: https://www.dropbox.com/scl/fi/n5acn9s84fzyiyjzquo45/MBRL_offlineF25.pdf?rlkey=xks89l2vzoniue0gufljh6pq8&dl=0
+  slides: 
   slides2: https://drive.google.com/file/d/11Qm6qmXOn8nQxnWbUcDTLLjAavmdwi9g/view?usp=sharing
   video:
   notes:
@@ -417,7 +417,7 @@
   lecturer:
   title: >
     <strong>Exploration</strong>
-  slides: https://www.dropbox.com/scl/fi/exp843p5zk9t7oohb96ne/MBRLexplicitF25.pdf?rlkey=k8wgi03prtqgac9qljyihopct&dl=0
+  slides: 
   video:
   notes:
   readings:
@@ -442,8 +442,8 @@
   lecturer: 
   title: >
     <strong>Exploration (Cont.)</strong>
-  slides: https://www.dropbox.com/scl/fi/3s2uk0oj6kebuqy8qvzij/MBRLsensoryF25.pdf?rlkey=bjog8hcj78mnz1z5tjqxbudc8&dl=0
-  slides2: https://www.dropbox.com/scl/fi/wdfhqmcyxecqobwn2321q/MBRL_TreeSearch_F25.pdf?rlkey=celzs23k4fpx64u5jphra17ym&dl=0
+  slides:
+  slides2:
   video:
   notes:
   readings:
