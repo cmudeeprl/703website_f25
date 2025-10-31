@@ -399,30 +399,28 @@
   lecturer: 
   title: >
     <strong>Model-based Methods for offline RL</strong>
-  slides: 
-  slides2: https://drive.google.com/file/d/11Qm6qmXOn8nQxnWbUcDTLLjAavmdwi9g/view?usp=sharing
+  slides: https://drive.google.com/file/d/11Qm6qmXOn8nQxnWbUcDTLLjAavmdwi9g/view?usp=sharing
+  slides2: https://www.dropbox.com/scl/fi/n5acn9s84fzyiyjzquo45/MBRL_offlineF25.pdf?rlkey=xks89l2vzoniue0gufljh6pq8&dl=0
   video:
   notes:
   readings:
     - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
     - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/2104.06294" target="_blank">Online and Offline Reinforcement Learning by Planning with a Learned Model</a>
-    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
     - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
     - Rahul et al. <a href="https://arxiv.org/abs/2005.05951" target="_blank">MOReL - Model-Based Offline Reinforcement Learning</a>
-    - (optional) Yang et al. <a href="https://arxiv.org/abs/2402.06559" target="_blank">Diffusion-ES Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following</a>  
   logistics: <span class="deadline">HW5 Due</span>, <span class="event">HW6 Out (tentative)</span> <br>
 
 
 - date: W 10/29
   lecturer:
   title: >
-    <strong>Exploration</strong>
+    <strong>Guided Diffusion</strong>
   slides: 
   video:
   notes:
   readings:
-    - Pathak et al. <a href="https://arxiv.org/abs/1705.05363" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
-    - Burda et al. <a href="https://arxiv.org/abs/1810.12894" target="_blank">Exploration by Random Network Distillation</a>
+    - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
+    - (optional) Yang et al. <a href="https://arxiv.org/abs/2402.06559" target="_blank">Diffusion-ES Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following</a>  
     
   logistics:  
 
