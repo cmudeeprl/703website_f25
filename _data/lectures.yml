@@ -408,7 +408,7 @@
     - Julian Schrittwieser et al. <a href="https://arxiv.org/abs/2104.06294" target="_blank">Online and Offline Reinforcement Learning by Planning with a Learned Model</a>
     - Kumar et al. <a href="https://arxiv.org/abs/2006.04779" target="_blank">Conservative Q-Learning for Offline Reinforcement Learning</a>
     - Rahul et al. <a href="https://arxiv.org/abs/2005.05951" target="_blank">MOReL - Model-Based Offline Reinforcement Learning</a>
-  logistics: <span class="deadline">HW5 Due</span>, <span class="event">HW6 Out (tentative)</span> <br>
+  logistics: <span class="deadline">HW5 Due</span> <br>
 
 
 - date: W 10/29
@@ -422,7 +422,7 @@
     - Janner et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
     - (optional) Yang et al. <a href="https://arxiv.org/abs/2402.06559" target="_blank">Diffusion-ES Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following</a>  
     
-  logistics:  
+  logistics:  <span class="event">HW6 Out</span> <br>
 
 - date: F 10/31
   lecturer:
@@ -485,7 +485,7 @@
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
 
-  logistics: <span class="deadline">HW6 Due</span>, <span class="event">HW7 Out (tentative)</span> <br>
+  logistics: <span class="event">HW7 Out (tentative)</span> <br>
 
 
 - date: W 11/12
@@ -514,7 +514,7 @@
   video:
   notes:
   readings:
-  logistics: <span class="deadline"> Project Midway Report Due (tentative)</span> <br>
+  logistics: <span class="deadline">HW6 Due</span>, <span class="deadline"> Project Midway Report Due (tentative)</span> <br>
 
 
 - date: M 11/17
