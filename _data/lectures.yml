@@ -439,7 +439,7 @@
 - date: M 11/03
   lecturer: 
   title: >
-    <strong>Exploration (Cont.)</strong>
+    <strong>Exploration </strong>
   slides: https://www.dropbox.com/scl/fi/v58zkjyohf4kx14vsrmzc/deepexplorationF25_2.pdf?rlkey=lztprnzdsddt44ux8v5785ga0&dl=0
   slides2:
   video:
@@ -485,7 +485,7 @@
     - Kumar et al. <a href="https://arxiv.org/abs/2107.04034" target="_blank">Rapid Motor Adaptation for Legged Robots</a>
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
 
-  logistics: <span class="event">HW7 Out (tentative)</span> <br>
+  logistics:
 
 
 - date: W 11/12
@@ -514,7 +514,7 @@
   video:
   notes:
   readings:
-  logistics: <span class="deadline">HW6 Due</span>, <span class="deadline"> Project Midway Report Due (tentative)</span> <br>
+  logistics: <span class="deadline">HW6 Due</span>,  <span class="event">HW7 Out (tentative)</span>, <span class="deadline"> Project Midway Report Due (tentative)</span> <br>
 
 
 - date: M 11/17
@@ -563,7 +563,7 @@
   video:
   notes:
   readings:
-  logistics: <span class="deadline">HW7 Due (tentative)</span> <br>
+  logistics: 
   
 
 - date: W 11/26
@@ -576,7 +576,7 @@
   lecturer:
   quiz: >
     <strong> Thanksgiving Break - No Recitation </strong>
-  logistics:
+  logistics: <span class="deadline">HW7 Due (tentative)</span> <br>
 
   
 - date: M 12/01
