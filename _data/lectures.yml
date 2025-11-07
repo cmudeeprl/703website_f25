@@ -623,7 +623,16 @@
   readings:
   logistics: 
 
-  - date: F 12/12
+- date: H 12/11
+  lecturer:
+  quiz: >
+    <strong> Project Final Presentation, 10:00AM-1:00PM </strong>
+  # slides: 
+  notes: 
+  readings:
+  logistics:
+
+- date: F 12/12
   lecturer:
   quiz:
   # slides: 
