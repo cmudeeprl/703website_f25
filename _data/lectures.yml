@@ -514,7 +514,7 @@
   video:
   notes:
   readings:
-  logistics: <span class="deadline">HW6 Due</span>,  <span class="event">HW7 Out (tentative)</span>, <span class="deadline"> Project Midway Report Due (tentative)</span> <br>
+  logistics: <span class="deadline">HW6 Due</span> <br>
 
 
 - date: M 11/17
@@ -540,7 +540,7 @@
   readings:
     - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
     - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
-  logistics:
+  logistics: <span class="deadline"> Project Midway Report Due </span> <br>
 
 - date: F 11/21
   lecturer:
@@ -576,7 +576,7 @@
   lecturer:
   quiz: >
     <strong> Thanksgiving Break - No Recitation </strong>
-  logistics: <span class="deadline">HW7 Due (tentative)</span> <br>
+  logistics:
 
   
 - date: M 12/01
@@ -618,6 +618,14 @@
   lecturer:
   quiz: >
     <strong> Project Final Presentation, 8:30AM-11:30AM </strong>
+  # slides: 
+  notes: 
+  readings:
+  logistics: 
+
+  - date: F 12/12
+  lecturer:
+  quiz:
   # slides: 
   notes: 
   readings:
