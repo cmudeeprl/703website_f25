@@ -522,7 +522,7 @@
   lecturer: 
   title: >
     <strong>RL with Foundation Models (Cont.)</strong>
-  slides: 
+  slides: https://drive.google.com/file/d/1-U1V7FiUD70YQMB-ODculPx4NGsMOckV/view?usp=sharing
   notes:
   readings:
     - Ouyang et al. <a href="https://arxiv.org/abs/2203.02155" target="_blank">Training language models to follow instructions with human feedback</a>
@@ -535,7 +535,7 @@
 - date: W 11/19
   title: >
     <strong>Generative Models for RL</strong>
-  slides: 
+  slides: https://drive.google.com/file/d/1M_t4qMjVxfX0nRkrBK4euYAFGfbgEw1j/view?usp=sharing
   video:
   notes:
   readings:
