@@ -534,13 +534,11 @@
   
 - date: W 11/19
   title: >
-    <strong>Generative Models for RL</strong>
+    <strong>Foudation Models for RL</strong>
   slides: https://drive.google.com/file/d/1M_t4qMjVxfX0nRkrBK4euYAFGfbgEw1j/view?usp=sharing
   video:
   notes:
   readings:
-    - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
-    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
   logistics: <span class="deadline"> Project Midway Report Due </span> <br>
 
 - date: F 11/21
@@ -557,13 +555,15 @@
 - date: M 11/24
   lecturer:
   title: > 
-    <strong>Generative Models for RL (Cont.)</strong>
+    <strong>Generative Models for RL </strong>
   recitation: 
   slides: https://www.dropbox.com/scl/fi/v4baj87sv5tuoofa1q8gm/rldiffusionF25.pdf?rlkey=f4j1zyqvj81r5oevx0s3997x9&dl=0
   slides2: 
   video:
   notes:
   readings:
+    - Luo <a href="https://arxiv.org/abs/2208.11970" target="_blank">Understanding Diffusion Models:A Unified Perspective</a>
+    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
   logistics: 
   
 
