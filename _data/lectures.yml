@@ -583,12 +583,14 @@
 - date: M 12/01
   lecturer:
   title: >
-    <strong>Guest Lecture</strong>
-  slides: 
+    <strong>Goal-Driven Reasoning for Multimodal AI Agents</strong>
+  slides: https://drive.google.com/file/d/15-5H22Lb25ReF3EJA7UObPD3c6Dzr83R/view?usp=sharing
   video:
   notes:
   readings:
-    
+   - <a href="https://arxiv.org/abs/2505.23678" target="_blank">Grounded Reinforcement Learning for Visual Reasoning</a>
+   - <a href="https://arxiv.org/abs/2406.14596" target="_blank">VLM Agents Generate Their Own Memories </a>
+
   logistics:
 
 
